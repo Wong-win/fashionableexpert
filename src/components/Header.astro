@@ -1,0 +1,202 @@
+---
+// Header.astro — mirrored from WordPress Pixwell theme navigation
+---
+
+<header class="site-header">
+  <div class="header-inner">
+    <a href="/" class="logo-link" aria-label="FashionableExpert Home">
+      <span class="logo-text">Fashionable<span class="logo-accent">Expert</span></span>
+    </a>
+
+    <nav class="main-nav" aria-label="Main navigation">
+      <a href="/" class="nav-link active">Home</a>
+      <a href="/category/mens-style/" class="nav-link">Style masculin</a>
+      <a href="/category/trend/" class="nav-link">Tendance</a>
+      <a href="/category/dress-inspiration/" class="nav-link">Inspiration vestimentaire</a>
+      <a href="/category/womens-fashion/" class="nav-link">Mode Femme</a>
+      <a href="/category/denim-favorites/" class="nav-link">Favoris en jean</a>
+    </nav>
+
+    <button class="search-toggle" aria-label="Search" id="searchToggle">
+      <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+        <circle cx="11" cy="11" r="8"/><line x1="21" y1="21" x2="16.65" y2="16.65"/>
+      </svg>
+    </button>
+
+    <button class="mobile-menu-toggle" aria-label="Menu" id="mobileMenuToggle">
+      <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+        <line x1="3" y1="6" x2="21" y2="6"/><line x1="3" y1="12" x2="21" y2="12"/><line x1="3" y1="18" x2="21" y2="18"/>
+      </svg>
+    </button>
+  </div>
+
+  <!-- Search overlay -->
+  <div class="search-overlay" id="searchOverlay">
+    <div class="search-overlay-inner">
+      <input
+        type="text"
+        id="searchInput"
+        class="search-input"
+        placeholder="Rechercher..."
+        autocomplete="off"
+      />
+      <button class="search-close" id="searchClose" aria-label="Close search">
+        <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+          <line x1="18" y1="6" x2="6" y2="18"/><line x1="6" y1="6" x2="18" y2="18"/>
+        </svg>
+      </button>
+      <div class="search-results" id="searchResults"></div>
+    </div>
+  </div>
+
+  <!-- Mobile nav -->
+  <div class="mobile-nav" id="mobileNav">
+    <a href="/" class="nav-link">Home</a>
+    <a href="/category/mens-style/" class="nav-link">Style masculin</a>
+    <a href="/category/trend/" class="nav-link">Tendance</a>
+    <a href="/category/dress-inspiration/" class="nav-link">Inspiration vestimentaire</a>
+    <a href="/category/womens-fashion/" class="nav-link">Mode Femme</a>
+    <a href="/category/denim-favorites/" class="nav-link">Favoris en jean</a>
+  </div>
+</header>
+
+<script>
+  const searchToggle = document.getElementById('searchToggle');
+  const searchOverlay = document.getElementById('searchOverlay');
+  const searchClose = document.getElementById('searchClose');
+  const searchInput = document.getElementById('searchInput');
+  const searchResults = document.getElementById('searchResults');
+  const mobileMenuToggle = document.getElementById('mobileMenuToggle');
+  const mobileNav = document.getElementById('mobileNav');
+
+  searchToggle?.addEventListener('click', () => {
+    searchOverlay?.classList.add('active');
+    searchInput?.focus();
+  });
+  searchClose?.addEventListener('click', () => searchOverlay?.classList.remove('active'));
+  mobileMenuToggle?.addEventListener('click', () => mobileNav?.classList.toggle('active'));
+
+  // Client-side search through pagefind or simple filter
+  let allPosts: { title: string; url: string; excerpt: string }[] = [];
+  fetch('/search-index.json')
+    .then(r => r.json())
+    .then(data => { allPosts = data; })
+    .catch(() => {});
+
+  searchInput?.addEventListener('input', () => {
+    const q = searchInput.value.toLowerCase().trim();
+    if (!searchResults) return;
+    if (q.length < 2) { searchResults.innerHTML = ''; return; }
+    const results = allPosts.filter(p =>
+      p.title.toLowerCase().includes(q) || p.excerpt.toLowerCase().includes(q)
+    ).slice(0, 10);
+    searchResults.innerHTML = results.map(p =>
+      `<a href="${p.url}" class="search-result-item">
+        <strong>${p.title}</strong>
+        <span>${p.excerpt.slice(0, 100)}...</span>
+      </a>`
+    ).join('');
+  });
+</script>
+
+<style>
+  .site-header {
+    position: sticky;
+    top: 0;
+    z-index: 100;
+    background: #fff;
+    border-bottom: 1px solid #e5e5e5;
+  }
+  .header-inner {
+    max-width: 1200px;
+    margin: 0 auto;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 0 20px;
+    height: 60px;
+  }
+  .logo-link { text-decoration: none; }
+  .logo-text {
+    font-family: 'Playfair Display', serif;
+    font-size: 1.5rem;
+    font-weight: 700;
+    color: #111;
+    letter-spacing: -0.5px;
+  }
+  .logo-accent { color: #c4a265; }
+  .main-nav { display: flex; gap: 24px; }
+  .nav-link {
+    text-decoration: none;
+    color: #333;
+    font-size: 0.85rem;
+    font-weight: 500;
+    text-transform: uppercase;
+    letter-spacing: 0.5px;
+    transition: color 0.2s;
+  }
+  .nav-link:hover, .nav-link.active { color: #c4a265; }
+  .search-toggle, .mobile-menu-toggle {
+    background: none;
+    border: none;
+    cursor: pointer;
+    padding: 6px;
+    color: #333;
+  }
+  .mobile-menu-toggle { display: none; }
+
+  /* Search overlay */
+  .search-overlay {
+    display: none;
+    position: fixed;
+    inset: 0;
+    background: rgba(255,255,255,0.97);
+    z-index: 200;
+    padding: 60px 20px 20px;
+  }
+  .search-overlay.active { display: flex; justify-content: center; }
+  .search-overlay-inner { max-width: 600px; width: 100%; }
+  .search-input {
+    width: 100%;
+    padding: 16px 20px;
+    font-size: 1.2rem;
+    border: 2px solid #ddd;
+    border-radius: 4px;
+    outline: none;
+  }
+  .search-input:focus { border-color: #c4a265; }
+  .search-close {
+    position: absolute;
+    top: 20px;
+    right: 20px;
+    background: none;
+    border: none;
+    cursor: pointer;
+  }
+  .search-results { margin-top: 16px; }
+  .search-result-item {
+    display: block;
+    padding: 12px 0;
+    border-bottom: 1px solid #eee;
+    text-decoration: none;
+    color: #333;
+  }
+  .search-result-item strong { display: block; margin-bottom: 4px; }
+  .search-result-item span { font-size: 0.85rem; color: #777; }
+
+  /* Mobile nav */
+  .mobile-nav {
+    display: none;
+    flex-direction: column;
+    padding: 0 20px 20px;
+    background: #fff;
+    border-bottom: 1px solid #e5e5e5;
+  }
+  .mobile-nav.active { display: flex; }
+  .mobile-nav .nav-link { padding: 10px 0; border-bottom: 1px solid #f0f0f0; }
+
+  @media (max-width: 768px) {
+    .main-nav { display: none; }
+    .mobile-menu-toggle { display: block; }
+  }
+</style>

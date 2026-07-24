@@ -1,0 +1,64 @@
+---
+import { getCollection } from "astro:content";
+import Layout from "../../layouts/Layout.astro";
+
+export async function getStaticPaths() {
+  const articles = await getCollection("articles");
+  const catMap = new Map<string, string>(); // slug → name
+  const catCount = new Map<string, number>();
+
+  for (const a of articles) {
+    for (let i = 0; i < a.data.categories.length; i++) {
+      const cn = a.data.categories[i];
+      const cs = a.data.categorySlugs[i] || cn.toLowerCase().replace(/ /g, "-");
+      if (!catMap.has(cs)) catMap.set(cs, cn);
+      catCount.set(cs, (catCount.get(cs) || 0) + 1);
+    }
+  }
+
+  return Array.from(catMap.keys()).map((slug) => ({
+    params: { slug },
+    props: { categoryName: catMap.get(slug)!, categorySlug: slug, count: catCount.get(slug) || 0 },
+  }));
+}
+
+const { categoryName, categorySlug, count } = Astro.props;
+const articles = (await getCollection("articles"))
+  .filter((a) => a.data.categorySlugs.includes(categorySlug) || a.data.categories.includes(categoryName))
+  .sort((a, b) => b.data.date.localeCompare(a.data.date));
+---
+
+<Layout title={categoryName} description={`${count} articles dans ${categoryName}`}>
+  <div class="category-header">
+    <h1>{categoryName}</h1>
+    <p>{count} articles</p>
+  </div>
+
+  <div class="post-grid">
+    {articles.map((a) => (
+      <div class="card">
+        {a.data.image && (
+          <a href={`/${a.data.year}/${a.data.month}/${a.data.day}/${a.data.postSlug}/`}>
+            <img src={a.data.image} alt={a.data.title} class="card-image" loading="lazy" style="height:200px" />
+          </a>
+        )}
+        <div class="card-body">
+          <div class="card-categories">
+            {a.data.categories.map((cat: string, i: number) => (
+              <a href={`/category/${a.data.categorySlugs[i] || cat.toLowerCase().replace(/ /g, "-")}/`} class="card-category">{cat}</a>
+            ))}
+          </div>
+          <h3 class="card-title">
+            <a href={`/${a.data.year}/${a.data.month}/${a.data.day}/${a.data.postSlug}/`}>{a.data.title}</a>
+          </h3>
+          <div class="card-meta">
+            {new Date(a.data.date).toLocaleDateString("fr-FR", {
+              year: "numeric", month: "long", day: "numeric",
+            })}
+          </div>
+          {a.data.excerpt && <p class="card-excerpt">{a.data.excerpt.slice(0, 120)}...</p>}
+        </div>
+      </div>
+    ))}
+  </div>
+</Layout>

@@ -1,0 +1,138 @@
+---
+import { getCollection } from "astro:content";
+import Layout from "../layouts/Layout.astro";
+
+const articles = (await getCollection("articles"))
+  .sort((a, b) => b.data.date.localeCompare(a.data.date));
+
+function postUrl(a: typeof articles[0]) {
+  return `/${a.data.year}/${a.data.month}/${a.data.day}/${a.data.postSlug}/`;
+}
+
+// Track shown article slugs to prevent duplication
+const shown = new Set<string>();
+function markShown(a: typeof articles[0]) { shown.add(a.data.postSlug); }
+function isNew(a: typeof articles[0]) { return !shown.has(a.data.postSlug); }
+
+// 1. Hero: latest article
+const hero = articles[0];
+if (hero) markShown(hero);
+
+// 2. Category sections: each gets 4 deduped articles from that category
+const categorySections = [
+  { name: "Style masculin", slug: "mens-style", displayName: "Men's Style", more: "All Articles" },
+  { name: "Tendance", slug: "trend", displayName: "Trend", more: "More Articles" },
+  { name: "Inspiration vestimentaire", slug: "dress-inspiration", displayName: "Dress Inspiration", more: "More Articles" },
+  { name: "Mode Femme", slug: "womens-fashion", displayName: "Womens Fashion", more: "More Articles" },
+  { name: "Favoris en jean", slug: "denim-favorites", displayName: "Denim Favorites", more: "" },
+];
+
+// Process categories sequentially so each sees what was already picked
+const catArticles = [];
+for (const cat of categorySections) {
+  const picked = articles.filter((a) => a.data.categorySlugs.includes(cat.slug) && isNew(a)).slice(0, 4);
+  picked.forEach(markShown);
+  catArticles.push({ ...cat, articles: picked });
+}
+
+// 3. Latest: 8 more articles not shown anywhere
+const latest = articles.filter(isNew).slice(0, 8);
+---
+
+<Layout>
+  <!-- HERO -->
+  {hero && (
+    <section class="home-section">
+      <div class="hero-card">
+        {hero.data.image && <img src={hero.data.image} alt={hero.data.title} />}
+        <div class="hero-card-overlay">
+          <div class="card-categories">
+            {hero.data.categories.map((cat: string, i: number) => (
+              <a href={`/category/${hero.data.categorySlugs[i] || cat}/`} class="card-category">{cat}</a>
+            ))}
+          </div>
+          <h2 class="card-title">
+            <a href={postUrl(hero)}>{hero.data.title}</a>
+          </h2>
+          <div class="card-meta">
+            {new Date(hero.data.date).toLocaleDateString("fr-FR", {
+              year: "numeric", month: "long", day: "numeric",
+            })}
+          </div>
+          <a href={postUrl(hero)} class="btn-read-more">READ MORE</a>
+        </div>
+      </div>
+    </section>
+  )}
+
+  <!-- CATEGORY SECTIONS -->
+  {catArticles.map((cat) =>
+    cat.articles.length > 0 ? (
+      <section class="home-section">
+        <h2 class="section-title">
+          {cat.displayName}
+          {cat.more && <a href={`/category/${cat.slug}/`}>{cat.more}</a>}
+        </h2>
+        <div class="mixed-block">
+          <!-- Main large card -->
+          <div class="main-card card">
+            {cat.articles[0].data.image && (
+              <a href={postUrl(cat.articles[0])}>
+                <img src={cat.articles[0].data.image} alt={cat.articles[0].data.title} class="card-image" loading="lazy" />
+              </a>
+            )}
+            <div class="card-body">
+              <div class="card-categories">
+                {cat.articles[0].data.categories.slice(0, 2).map((c: string, i: number) => (
+                  <a href={`/category/${cat.articles[0].data.categorySlugs[i] || c}/`} class="card-category">{c}</a>
+                ))}
+              </div>
+              <h3 class="card-title"><a href={postUrl(cat.articles[0])}>{cat.articles[0].data.title}</a></h3>
+              <div class="card-meta">
+                {new Date(cat.articles[0].data.date).toLocaleDateString("fr-FR", { year: "numeric", month: "long", day: "numeric" })}
+              </div>
+            </div>
+          </div>
+          <!-- Side list -->
+          <div class="list-card">
+            {cat.articles.slice(1).map((a) => (
+              <div class="list-item">
+                <a href={postUrl(a)}>{a.data.title}</a>
+                <div class="card-meta" style="margin-top:4px">
+                  {new Date(a.data.date).toLocaleDateString("fr-FR", { year: "numeric", month: "long", day: "numeric" })}
+                </div>
+              </div>
+            ))}
+          </div>
+        </div>
+      </section>
+    ) : null
+  )}
+
+  <!-- LATEST ARTICLES (deduped) -->
+  {latest.length > 0 && (
+    <section class="home-section">
+      <h2 class="section-title">LATEST ARTICLES</h2>
+      <div class="latest-grid">
+        {latest.map((a) => (
+          <div class="card">
+            {a.data.image && (
+              <a href={postUrl(a)}>
+                <img src={a.data.image} alt={a.data.title} class="card-image" loading="lazy" />
+              </a>
+            )}
+            <div class="card-body">
+              <h3 class="card-title"><a href={postUrl(a)}>{a.data.title}</a></h3>
+              {a.data.excerpt && <p class="card-excerpt">{a.data.excerpt.slice(0, 80)}...</p>}
+              <a href={postUrl(a)} class="btn-read-more">READ MORE</a>
+            </div>
+          </div>
+        ))}
+      </div>
+
+      <nav class="pagination" style="margin-top:32px">
+        <a href="/page/2/">More Articles →</a>
+      </nav>
+    </section>
+  )}
+</Layout>

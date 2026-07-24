@@ -1,0 +1,54 @@
+---
+import { getCollection } from "astro:content";
+import Layout from "../../layouts/Layout.astro";
+
+export async function getStaticPaths() {
+  const articles = await getCollection("articles");
+  const perPage = 12;
+  const totalPages = Math.ceil(articles.length / perPage);
+
+  return Array.from({ length: totalPages }, (_, i) => ({
+    params: { num: String(i + 1) },
+    props: { pageNum: i + 1, totalPages },
+  }));
+}
+
+const { pageNum, totalPages } = Astro.props;
+const perPage = 12;
+const articles = (await getCollection("articles"))
+  .sort((a, b) => b.data.date.localeCompare(a.data.date));
+
+const pageArticles = articles.slice((pageNum - 1) * perPage, pageNum * perPage);
+
+function postUrl(a: typeof articles[0]) {
+  return `/${a.data.year}/${a.data.month}/${a.data.day}/${a.data.postSlug}/`;
+}
+---
+
+<Layout title={`Page ${pageNum}`} description={`Articles page ${pageNum} sur ${totalPages}`}>
+  <section class="home-section" style="margin-top:40px">
+    <h2 class="section-title">LATEST ARTICLES — Page {pageNum}</h2>
+    <div class="latest-grid">
+      {pageArticles.map((a) => (
+        <div class="card">
+          {a.data.image && (
+            <a href={postUrl(a)}>
+              <img src={a.data.image} alt={a.data.title} class="card-image" loading="lazy" />
+            </a>
+          )}
+          <div class="card-body">
+            <h3 class="card-title"><a href={postUrl(a)}>{a.data.title}</a></h3>
+            {a.data.excerpt && <p class="card-excerpt">{a.data.excerpt.slice(0, 80)}...</p>}
+            <a href={postUrl(a)} class="btn-read-more">READ MORE</a>
+          </div>
+        </div>
+      ))}
+    </div>
+
+    <nav class="pagination">
+      {pageNum > 1 && <a href={`/page/${pageNum - 1}/`}>Previous</a>}
+      {pageNum > 1 && <a href="/">Home</a>}
+      {pageNum < totalPages && <a href={`/page/${pageNum + 1}/`}>Next</a>}
+    </nav>
+  </section>
+</Layout>
