@@ -86,8 +86,6 @@ L’expérience en boutique Caroll se distingue par **la qualité du conseil**. 
 
 Pour celles qui préfèrent le shopping digital, le site **caroll.com** offre une expérience fluide et complète : navigation intuitive, fiches produits détaillées, guide des tailles précis, **livraison offerte dès 100€ d ’achat**, **retours gratuits** , et **paiement en 4 fois sans frais**. La fonctionnalité **e-réservation** permet de réserver des articles en ligne pour les essayer en boutique — le meilleur des deux mondes.
 
-![Collection Caroll — Mode femme élégante et intemporelle](https://fashionableexpert.com/wp-content/uploads/2026/06/caroll-collection-mode.jpg)
-
 ## Caroll et la femme d’aujourd’hui : une relation unique
 
 Ce qui distingue fondamentalement Caroll dans l’univers saturé de la mode féminine, c’est la **relation de confiance** que la marque a su tisser avec ses clientes au fil des générations. Une femme qui achète son premier tailleur Caroll à 25 ans pour un entretien d’embauche continuera, vingt ans plus tard, à fréquenter les boutiques pour renouveler sa garde-robe professionnelle — et y emmènera peut-être sa fille pour son premier achat mode.

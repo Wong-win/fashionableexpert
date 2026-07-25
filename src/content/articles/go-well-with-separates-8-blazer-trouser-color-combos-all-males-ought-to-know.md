@@ -34,8 +34,6 @@ Bien sûr, les vêtements à coordonner sont le véhicule idéal pour faire évo
 
 ### Prendre en compte la texture
 
-![](https://fashionableexpert.com/wp-content/uploads/2023/06/separates-season.webp)
-
 De toute évidence, la couleur est essentielle lorsqu’il s’agit de pièces à coordonner. C’est pourquoi ils les appellent séparés, n’est-ce pas ? Mais il y a une autre dimension à prendre en compte si vous souhaitez faire passer votre activité de couture informelle du bon au divin.
 
 La texture est généralement ignorée, mais elle est extrêmement percutante lorsqu’elle est déployée avec un peu de réflexion. L’essentiel réside dans le choix de matériaux qui fonctionnent ensemble et le facteur essentiel sur lequel se concentrer ici est la saisonnalité.
@@ -43,8 +41,6 @@ La texture est généralement ignorée, mais elle est extrêmement percutante lo
 En général, les matériaux de la saison estivale et de l’hiver ne s’associent pas correctement, alors prenez note de la température et mélangez vos textures en conséquence. Ce qui signifie un énorme non-voile avec de la moleskine et un énorme velours côtelé avec du sergé de coton épais ou du coton piqué avec du lin.
 
 ### Ignorer les formalités
-
-![](https://fashionableexpert.com/wp-content/uploads/2023/06/separates-casual.jpg)
 
 Quand on parle de pantalons de costume, de blazers et de derbies, il est facile de tomber dans le piège de penser que les pièces séparées doivent être formelles. Cela est loin de la réalité.
 
@@ -54,8 +50,6 @@ Au lieu de cela, continuez avec des vestes plus décontractées avec des épaule
 
 ### Créer une distinction
 
-![](https://fashionableexpert.com/wp-content/uploads/2023/06/seaprates-cohesion.webp)
-
 Cela peut paraître évident, mais il vaut la peine de le répéter : choisir les bonnes combinaisons de blazer et de pantalon, c’est avant tout créer de la distinction. Les couleurs doivent être belles ensemble mais ne doivent pas être trop similaires dans le ton. Si cela ne vous convient pas, vous risquez de vouloir faire comme si vous aviez essayé de faire correspondre et échoué.
 
 Bien sûr, les séparations tonales peuvent fonctionner, mais il est essentiel de rendre la couleur du haut et du bas suffisamment différente l’une de l’autre pour conserver un semblant de distinction.
@@ -63,8 +57,6 @@ Bien sûr, les séparations tonales peuvent fonctionner, mais il est essentiel d
 C’est également une bonne idée d’utiliser un thème de couleur unificateur pour créer votre tenue dans son ensemble. Ceci peut être réalisé via un équipement ou un échantillon. Par exemple, un pantalon olive pourrait éventuellement être porté avec un blazer à motifs qui comprend l’olive comme couleur de base dans le modèle. C’est une méthode raffinée mais efficace pour rendre la cohésion visible.
 
 ### Donner la priorité à la correspondance
-
-![](https://fashionableexpert.com/wp-content/uploads/2023/06/seaprates-fit.webp)
 
 Il s’agit en fait du style 101 pour hommes, mais c’est également pertinent ici. Le match est un élément crucial de toute tenue. Peu importe ce que vous avez payé ou l’identité de l’identité cousue sur l’étiquette, si le vêtement ne correspond pas, cela n’a aucun sens.
 
@@ -78,15 +70,11 @@ Certaines couleurs fonctionnent à merveille les unes avec les autres. D’autre
 
 ## Blazer bleu marine avec pantalon kaki
 
-![](https://fashionableexpert.com/wp-content/uploads/2023/06/navy-khaki-separates.webp)
-
 Il n’y a que quelques couleurs avec lesquelles le bleu marine ne fonctionne pas, mais il y en a quelques-unes qu’il met en valeur si magnifiquement que c’était pratiquement comme s’ils avaient été conçus pour s’asseoir les uns à côté des autres. L’une de ces teintes est le kaki. Ce qui est génial avec ce mélange, c’est qu’il fonctionne dans les deux sens (haut ou bas), mais nous allons avoir affaire à un blazer bleu marine avec un pantalon kaki.
 
 Tout d’abord, utilisez une couche de base pour ancrer la tenue. Une chemise blanche, un col roulé terreux ou un t-shirt foncé fonctionneraient bien. Si l’événement l’exige, vous pouvez même ajouter un gilet – quelque chose d’automnal comme une laine texturée marron ou beige fonctionnerait bien. Il ne reste plus qu’à assortir le pantalon à vos baskets. Essayez d’opter pour des richelieus ou des mocassins marron foncé ou noirs.
 
 ## Blazer bleu avec pantalon blanc
-
-![](https://fashionableexpert.com/wp-content/uploads/2023/06/navy-white-separates.webp)
 
 Les pantalons blancs et les tailleurs sont un choix de mode audacieux, mais qui peut vraiment s’avérer payant. Alors ne laissez pas les experts italiens de la mode masculine s’amuser, prenez également part à l’action à contraste élevé – surveillez simplement où vous êtes assis lorsque vous êtes en déplacement.
 
@@ -96,8 +84,6 @@ Quand il s’agit de baskets, vos choix sont numérotés, mais le noir, le marro
 
 ## Blazer vert avec pantalon blanc
 
-![](https://fashionableexpert.com/wp-content/uploads/2023/06/green-white-separates.webp)
-
 Pour les événements du printemps et de l’été, il existe peu de combinaisons de blazers et de pantalons mieux adaptées que le vert et le blanc. En termes de teintes, la veste doit se situer quelque part entre l’olive et le vert forêt, mais tout aussi essentielle que la couleur est la texture.
 
 Les matières épaisses et tactiles comme le sergé de coton épais ou le tweed fonctionnent très bien lorsqu’elles sont associées à un pantalon de couleur claire. Si le blanc pur vous semble un peu trop voyant, optez plutôt pour du crème et optez pour quelque chose avec une taille haute et des plis pour des détails de mode bonus.
@@ -105,8 +91,6 @@ Les matières épaisses et tactiles comme le sergé de coton épais ou le tweed 
 En ce qui concerne les chaussures, le cuir et le daim fonctionneront tous deux bien, entre le beige et le marron. En cas de doute, une paire de mocassins à pampilles en daim marron est une option infaillible.
 
 ## Blazer bleu ton sur ton et amp; Pantalon
-
-![](https://fashionableexpert.com/wp-content/uploads/2023/06/tonal-blue-separates2.webp)
 
 Allez bien avec des pièces séparées, vous n’avez pas besoin de vous asseoir aux extrémités inverses du spectre de couleurs. En réalité, la veste et le pantalon peuvent être de la même couleur, à condition que les nuances soient suffisamment différentes les unes des autres pour créer une certaine différence.
 
@@ -116,8 +100,6 @@ Le marron est idéal pour les chaussures et s’en tenir à quelque chose de bas
 
 ## Blazer gris ton sur ton et amp; Pantalon
 
-![](https://fashionableexpert.com/wp-content/uploads/2023/06/tonal-grey-separates2.webp)
-
 Peut-être que le meilleur choix (et le plus judicieux) lorsque vous optez pour des tons toniques avec vos pièces séparées est de travailler avec des tons neutres et le gris est roi par rapport à ceux-ci. Reconstituer toute une tentative de recherche d’une palette de couleurs grises peut sembler terriblement ennuyeux, mais cela peut être étonnamment accrocheur lorsqu’il est exécuté correctement.
 
 Un étage sombre et un rez-de-chaussée clair sont la méthode idéale ici. Optez pour une veste foncée et un pantalon gris léger pour un look optimal. Encore une fois, l’ajout d’un gilet peut bien fonctionner pour rassembler les choses, notamment lorsqu’il est choisi dans une teinte qui se situe entre celle de la veste et du pantalon.
@@ -125,8 +107,6 @@ Un étage sombre et un rez-de-chaussée clair sont la méthode idéale ici. Opte
 Le cuir noir est le choix évident là où les chaussures sont problématiques. Néanmoins, cela ne veut pas dire qu’une chaussure marron ne peut pas être portée, à condition que la teinte mette en valeur le pantalon.
 
 ## Blazer beige avec pantalon blanc
-
-![](https://fashionableexpert.com/wp-content/uploads/2023/06/beige-white-separates.webp)
 
 Comme mentionné précédemment, une cérémonie de mariage estivale constitue l’événement idéal pour sortir vos séparations. Mais à moins que vous souhaitiez être sur le point de vous évanouir à cause de l’épuisement dû à la chaleur au moment où les discours commencent, vous devez éviter les couleurs sombres et les matériaux plus lourds.
 
@@ -136,8 +116,6 @@ Ensuite, il ne s’agit que de clouer les chaussures ; les mocassins noirs, marr
 
 ## Blazer gris avec pantalon noir
 
-![](https://fashionableexpert.com/wp-content/uploads/2023/06/black-grey-separates.webp)
-
 D’un favori de la saison estivale à un favori d’hiver. Mélanger le noir et le gris ne semble pas être la combinaison la plus festive, mais garder votre veste et votre pantalon discrets et discrets vous donne une certaine latitude pour créer un accent ailleurs dans votre ensemble.
 
 Un bon point de départ est votre couche de base, c’est-à-dire tout ce que vous avez choisi de porter sous la veste. Un col roulé est une option compliquée et comme le reste de vos vêtements ne réclame pas d’attention, vous pouvez opter pour une couleur audacieuse ou peut-être un échantillon – un Honest Isle saisonnier peut-être ?
@@ -145,8 +123,6 @@ Un bon point de départ est votre couche de base, c’est-à-dire tout ce que vo
 Comme vos baskets, tenez les choses bien et facilement avec des derbies noires, des richelieus ou des boucles.
 
 ## Blazer bordeaux avec pantalon gris
-
-![](https://fashionableexpert.com/wp-content/uploads/2023/06/burgundy-grey-separates2.webp)
 
 Lorsque vous vous habillez pour avoir de l’influence, une veste de communiqué de presse est votre meilleure amie. Une couche supérieure vibrante est une approche infaillible pour donner vie à une tenue, la rendant idéale pour les événements et les fonctionnalités qui vous laissent une petite marge de manœuvre dans la division du code vestimentaire.
 

@@ -6,11 +6,8 @@ type: "page"
 
 Votre nom (obligatoire)  
 
- 
  Votre email (obligatoire)  
 
- 
  Sujet  
 
- 
  Votre message

@@ -30,8 +30,6 @@ Nous découvrons ici les caractéristiques typiques de chacun, les couleurs qui 
 
 ## Peau pâle
 
-![](https://fashionableexpert.com/wp-content/uploads/2023/06/pale-skin.webp)
-
 Si vous êtes sujet aux taches de rousseur, si vous êtes brûlé vif à la simple apparition d’une journée ensoleillée et si vous ne bronzez jamais du tout, c’est probablement que vous avez la peau pâle ou claire.
 
 Vous aurez probablement remarqué que certaines nuances ont généralement tendance à vous nettoyer ou à vous faire paraître plus pâle, mais mélanger les choses avec un peu de savoir-faire vous aidera à surmonter cela.
@@ -49,8 +47,6 @@ Lorsque vous optez pour la neutralité, optez pour le gris, le beige et le bleu 
 Beaucoup de couleurs plus claires que vous devriez éviter peuvent également, en fait, être portées avec un bel effet si elles sont mélangées à des nuances plus foncées. Par exemple, vous pouvez expérimenter avec un riche t-shirt pastel à condition de le superposer sous, disons, un blouson aviateur bleu marine ou une surchemise vert forêt. Le but est de créer une différence… mais pas trop.
 
 ## Peau douce
-
-![](https://fashionableexpert.com/wp-content/uploads/2023/06/lighter-skin.webp)
 
 Les peaux qui sont de couleur claire mais qui bronzent relativement facilement sans brûler tombent dans ce camp.
 
@@ -74,8 +70,6 @@ Si cela vous semble un peu trop ennuyeux, enfiler une veste de faire-part dans u
 
 ## Peau et peau olive
 
-![](https://fashionableexpert.com/wp-content/uploads/2023/06/olive-skin.webp)
-
 Vous pourriez rendre les autres envieux avec votre éclat naturel toute l’année, mais il existe néanmoins certaines couleurs que vous devrez simplement dévier si vous voulez continuer à vouloir votre meilleur.
 
 Les hommes à la peau olive ont tendance à bronzer facilement, ont une nuance jaunâtre/verdâtre et un teint chaud. Si cela vous ressemble, voici ce qu’il est bon de savoir lorsque vous remplissez votre garde-robe.
@@ -95,8 +89,6 @@ Mis à part les vêtements qui ressemblent trop à votre peau – vous n’avez 
 De toute évidence, les directives standard s’appliquent : jouez avec des couleurs contrastées pour créer un équilibre dans votre tenue générale, puis utilisez des pièces simples et épurées pour garder les choses au sol. En dehors de cela, soyez heureux d’expérimenter.
 
 ## Peau foncée
-
-![](https://fashionableexpert.com/wp-content/uploads/2023/06/dark-skin.jpg)
 
 Ceux qui ont un teint plus foncé que l’olive ont décroché le jackpot de la correspondance des couleurs. Il vous est possible de jouer efficacement avec pratiquement toutes les teintes que vous sélectionnez et de les faire fonctionner correctement.
 

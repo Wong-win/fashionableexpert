@@ -20,8 +20,6 @@ Qu’il s’agisse de sa silhouette courte ou de son héritage militaire, le blo
 
 ## L’histoire du Flight Jacket
 
-![](https://fashionableexpert.com/wp-content/uploads/2023/06/FlightJacketBrandsEdit3.webp)
-
 Eastman Cuir
 
 Comme pour la plupart des silhouettes masculines intemporelles, les nécessités militaires ont été le terreau de l’innovation vestimentaire, et la veste de vol ne fait pas exception. La veste de vol A1, portée pour la première fois par les pilotes de l’USAAF en 1927, est devenue la silhouette A2 14 ans plus tard et constitue depuis lors une fonction irrépressible dans les collections de vêtements pour hommes.
@@ -38,14 +36,8 @@ En raison de l’amélioration de la technologie après la Seconde Guerre mondia
 
 ## Types de vestes de vol à la mode
 
-![](https://fashionableexpert.com/wp-content/uploads/2023/06/FlightJacketBrandsEdit1-720x900.webp)
-
-  
 Chapal  
 
-![](https://fashionableexpert.com/wp-content/uploads/2023/06/FlightJacketBrandsEdit4-720x900.jpg)
-
-  
 Blanc cassé  
 
 Bien qu’il y ait eu de nombreuses versions de blousons de vol au cours du siècle dernier, vous pouvez en fait diviser les modèles les plus récents en deux catégories : les blousons de vol en peau de mouton retournée et les blousons d’aviateur.
@@ -60,14 +52,8 @@ Les blousons aviateur, cependant, sont beaucoup plus de type transsaisonnier, g�
 
 ### Saint-Laurent
 
-![](https://fashionableexpert.com/wp-content/uploads/2023/06/FlightJacketBrands2.webp)
-
-  
 Saint Laurent Blouson Bomber en Cuir et Shearling  
 
-![](https://fashionableexpert.com/wp-content/uploads/2023/06/FlightJacketBrands1.webp)
-
-  
 Saint Laurent MA-1 Bomber en cuir d’agneau  
 
 L’esthétique monochrome super skinny de la maison de mode parisienne Saint Laurent ne sera pas votre première pensée lorsque vous envisagez des blousons de vol, mais la célèbre marque a toujours été un producteur magistral de silhouettes en cuir haut de gamme, y compris des blousons de vol.
@@ -80,14 +66,8 @@ _Magasinez maintenant chez Farfetch_
 
 ### Blanc cassé
 
-![](https://fashionableexpert.com/wp-content/uploads/2023/06/FlightJacketBrands25.webp)
-
-  
 Blouson aviateur emblème Off-White  
 
-![](https://fashionableexpert.com/wp-content/uploads/2023/06/FlightJacketBrands26.webp)
-
-  
 Veste pilote Off-White à col Distinction  
 
 Maintenant, sous le chemin créatif d’Ib Kamara, après la mort malheureuse du polymathe créatif Virgil Abloh, la marque de streetwear haut de gamme Off-White continue d’innover dans l’espace multi-genres où elle mélange les influences sportswear avec des articles sur mesure modernes.
@@ -98,14 +78,8 @@ _Magasinez maintenant chez SSENSE_
 
 ### Chapal
 
-![](https://fashionableexpert.com/wp-content/uploads/2023/06/FlightJacketBrands3.webp)
-
-  
 Chapal B3  
 
-![](https://fashionableexpert.com/wp-content/uploads/2023/06/FlightJacketBrands4.webp)
-
-  
 Chapal G1  
 
 Chapal, qui produit certains des meilleurs blousons en cuir de l’entreprise depuis son siège à Paris en 1832, est la maison incontournable pour les superbes blousons de vol de luxe.
@@ -118,14 +92,8 @@ _Magasinez maintenant chez Chapal_
 
 ### Préoccupation de Dieu
 
-![](https://fashionableexpert.com/wp-content/uploads/2023/06/FlightJacketBrands7.webp)
-
-  
 Bomber en sergé de nylon Concern Of God  
 
-![](https://fashionableexpert.com/wp-content/uploads/2023/06/FlightJacketBrands6.webp)
-
-  
 Bomber en sergé de nylon Concern Of God  
 
 La marque basée à Los Angeles et fondée par Jerry Lorenzo en 2013 a surfé sur la vague du minimalisme moderne, incorporant une esthétique de richesse furtive aux silhouettes streetwear, notamment le blouson aviateur.
@@ -136,14 +104,8 @@ _Magasinez maintenant chez Concern Of God_
 
 ### Céline Homme
 
-![](https://fashionableexpert.com/wp-content/uploads/2023/06/FlightJacketBrands22.webp)
-
-  
 Celine Homme Blouson aviateur en nylon orné de chaînes à imprimé emblème  
 
-![](https://fashionableexpert.com/wp-content/uploads/2023/06/FlightJacketBrands24.webp)
-
-  
 Celine Homme Bomber en cuir embossé emblème  
 
 Le bomber était une silhouette intrinsèque chez Saint Laurent lorsque Hedi Slimane en était le directeur créatif, il est donc probable que le créateur le transporterait dans son nouveau projet chez Céline Homme, où il prend plaisir à prendre place dans ses collections saisonnières.
@@ -154,14 +116,8 @@ Magasinez maintenant chez MR PORTER
 
 ### Entreprise britannique de peau de mouton
 
-![](https://fashionableexpert.com/wp-content/uploads/2023/06/FlightJacketBrands8.webp)
-
-  
 Veste volante en peau de mouton vieillie britannique  
 
-![](https://fashionableexpert.com/wp-content/uploads/2023/06/FlightJacketBrands12.webp)
-
-  
 British Sheepskin Firm Veste volante en peau de mouton RAF  
 
 Somerset n’est pas susceptible d’usurper Londres pour une place sur le circuit de la mode de sitôt, mais si vous êtes à la recherche d’une veste de vol en cuir de mouton qui fait fidèlement référence aux premières itérations de l’armée, alors vous seriez certainement malin de faire un voyage jusqu’à la British Sheepskin Company.
@@ -174,14 +130,8 @@ _Magasinez maintenant chez British Sheepskin Firm_
 
 ### Île de pierre
 
-![](https://fashionableexpert.com/wp-content/uploads/2023/06/FlightJacketBrands20.webp)
-
-  
 Stone Island – Bomber en sergé de coton Cupro  
 
-![](https://fashionableexpert.com/wp-content/uploads/2023/06/FlightJacketBrands19.webp)
-
-  
 Stone Island – Blouson aviateur à patch boussole  
 
 Le favori culte Stone Island est reconnu depuis longtemps pour son approche progressiste en matière de matériaux, en particulier en ce qui concerne la sélection technique. Il n’est donc pas surprenant qu’il produise de nombreuses variantes de blousons aviateurs élégants chaque saison.
@@ -192,14 +142,8 @@ _Magasinez maintenant chez MR PORTER_
 
 ### Eastman Cuir
 
-![](https://fashionableexpert.com/wp-content/uploads/2023/06/FlightJacketBrands16.webp)
-
-  
 Eastman Cuir B-15  
 
-![](https://fashionableexpert.com/wp-content/uploads/2023/06/FlightJacketBrands18.webp)
-
-  
 Eastman Cuir B-3  
 
 En ce qui concerne l’achat de vestes de vol, la marque britannique Eastman Leather mérite bien votre attention. Bien que l’entreprise existe depuis 1984, elle est largement passée inaperçue (jeu de mots) pour tout le monde, à l’exception des stylistes exigeants qui apprécient les vêtements pour hommes traditionnels.
@@ -210,14 +154,8 @@ _Magasinez maintenant chez Eastman Leather-based_
 
 ### Entreprise en cuir Cromford
 
-![](https://fashionableexpert.com/wp-content/uploads/2023/06/FlightJacketBrands11.webp)
-
-  
 Cromford Leather CompanyDouglas  
 
-![](https://fashionableexpert.com/wp-content/uploads/2023/06/FlightJacketBrands10.webp)
-
-  
 Cromford Leather CompanyRedford  
 
 Située sur la plus attrayante Chiltern Avenue à Marylebone à Londres, Cromford Leather-based Company est une proposition unique en ce sens qu’elle est l’un des seuls fabricants de vêtements d’extérieur en cuir sur mesure et sur mesure au monde.
@@ -230,14 +168,8 @@ _Magasinez maintenant chez Cromford Leather Company_
 
 ### Les vrais McCoy
 
-![](https://fashionableexpert.com/wp-content/uploads/2023/06/FlightJacketBrands13.webp)
-
-  
 Le véritable type B-6 de McCoy  
 
-![](https://fashionableexpert.com/wp-content/uploads/2023/06/FlightJacketBrands14.webp)
-
-  
 Le véritable type MA-1 de McCoy  
 
 Si vous souhaitez découvrir les meilleurs exemples d’Americana à l’esprit militaire, n’allez pas en Amérique. Au lieu de cela, vous vous dirigez directement vers le Japon, où les marques spécialisées ne manquent pas et reproduisent fidèlement les classiques américains.

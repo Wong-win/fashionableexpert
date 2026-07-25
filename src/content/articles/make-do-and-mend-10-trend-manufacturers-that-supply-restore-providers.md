@@ -18,14 +18,8 @@ En plus d’une visite chez un tailleur ou une couturière, de nombreuses entrep
 
 ## DEMANDER
 
-![](https://fashionableexpert.com/wp-content/uploads/2023/06/RepairServices13.webp)
-
-  
 ASKET La Surchemise  
 
-![](https://fashionableexpert.com/wp-content/uploads/2023/06/RepairServices12.webp)
-
-  
 ASKET Le Chino  
 
 ASKET a pour mission de rationaliser la garde-robe masculine, en proposant un assortiment permanent de vêtements polyvalents et intemporels qui ne pourront jamais se démoder. Vous réalisez le genre de vêtements avec lesquels vous construirez une garde-robe capsule complète.
@@ -38,14 +32,8 @@ _En savoir plus sur ASKET_
 
 ## Neem Londres
 
-![](https://fashionableexpert.com/wp-content/uploads/2023/06/RepairServices10.webp)
-
-  
 Sur-chemise en flanelle bleu marine italienne recyclée Neem London  
 
-![](https://fashionableexpert.com/wp-content/uploads/2023/06/RepairServices11.webp)
-
-  
 Polo à manches longues Neem London ZQ Merino gris doux  
 
 Neem prend la durabilité au sérieux. Tous les vêtements de la marque sont créés à partir de fibres recyclées, régénératives et renouvelables et produits dans des usines alimentées à l’énergie solaire, dans le but d’offrir des vêtements confortables et tendance avec le moins d’impact possible sur la planète.
@@ -58,14 +46,8 @@ _Découvrez-en davantage chez Neem London_
 
 ## Barbour
 
-![](https://fashionableexpert.com/wp-content/uploads/2023/06/barbour-wax-3.webp)
-
-  
 Veste cirée Barbour Beaufort  
 
-![](https://fashionableexpert.com/wp-content/uploads/2023/06/barbour-wax-1.webp)
-
-  
 Veste d’activités sportives Barbour Beacon  
 
 La veste Barbour durable sera à tout moment un vêtement de valeur à retenir. Les vestes cirées plus anciennes semblent avoir ce petit plus d’allure et de caractère dès qu’elles ont été moulées selon leur propriétaire respectif, un peu malmenées par les intempéries et un peu de lumière.
@@ -76,14 +58,8 @@ _En savoir plus chez Barbour_
 
 ## Berghaus
 
-![](https://fashionableexpert.com/wp-content/uploads/2023/06/RepairServices8.webp)
-
-  
 Veste Berghaus Deluge Professional 2.0 – Bleu foncé  
 
-![](https://fashionableexpert.com/wp-content/uploads/2023/06/RepairServices9.webp)
-
-  
 Pantalon technique Berghaus MTN Information MW – Noir  
 
 Les fabricants de plein air savent sous quel aspect leur pain est beurré. Des entreprises comme Berghaus produisent des vêtements conçus pour le grand air, il est donc logique qu’elles veuillent protéger l’environnement à tout prix.
@@ -94,14 +70,8 @@ _Découvrez-en plus au Berghaus_
 
 ## Lévi’s
 
-![](https://fashionableexpert.com/wp-content/uploads/2023/06/RepairServices20.webp)
-
-  
 Jean Levi’s 501® ’54  
 
-![](https://fashionableexpert.com/wp-content/uploads/2023/06/RepairServices21.jpg)
-
-  
 Veste camionneur Levi’s  
 
 Considérant qu’il s’agit du modèle de denim le plus vendu au monde, Levi’s Tailor Store est étonnamment discret. Mais cela vaut vraiment la peine d’y aller lorsque vous êtes à proximité de l’un des nombreux endroits.
@@ -112,14 +82,8 @@ _Découvrez-en plus chez Levi ’s_
 
 ## Crockett & Jones
 
-![](https://fashionableexpert.com/wp-content/uploads/2023/06/crockett-3.webp)
-
-  
 Crockett & Veau de cavalerie Jones Boston Bourgogne  
 
-![](https://fashionableexpert.com/wp-content/uploads/2023/06/crockett-2.webp)
-
-  
 Crockett & Jones Audley Veau Noir  
 
 Mis à part les nombreux avantages en matière de qualité que les chaussures cousues Goodyear offrent par rapport aux modèles à semelles collées moins chères, la possibilité de les faire ressemeler encore et encore est un avantage évident.
@@ -130,14 +94,8 @@ _Découvrez-en davantage chez Crockett & Jones_
 
 ## Patagonie
 
-![](https://fashionableexpert.com/wp-content/uploads/2023/06/RepairServices2.webp)
-
-  
 Veste Patagonia Torrentshell 3L  
 
-![](https://fashionableexpert.com/wp-content/uploads/2023/06/RepairServices1.webp)
-
-  
 Veste Patagonia Basic Retro-X  
 
 L’environnementalisme étant si ancré dans la tradition de la marque, il n’est pas surprenant que Patagonia ait pris sur elle d’offrir un service de réparation étendu pour sa gamme spectaculaire de vêtements d’extérieur.
@@ -148,14 +106,8 @@ _Découvrez-en plus à Patagonia_
 
 ## Filson
 
-![](https://fashionableexpert.com/wp-content/uploads/2023/06/RepairServices3.webp)
-
-  
 Chemise d’information Filson Alaskan  
 
-![](https://fashionableexpert.com/wp-content/uploads/2023/06/RepairServices4.jpg)
-
-  
 Sac de sport Filson Medium Dry  
 
 Les gens derrière le mannequin américain Filson savent que leurs vêtements sont parfois portés en plein air et peuvent donc avoir besoin d’être réparés de temps en temps.
@@ -166,14 +118,8 @@ _En savoir plus chez Filson_
 
 ## Jeans nus
 
-![](https://fashionableexpert.com/wp-content/uploads/2023/06/nudie-repair-3.webp)
-
-  
 Nudie Grim Tim Jean  
 
-![](https://fashionableexpert.com/wp-content/uploads/2023/06/RepairServices5.webp)
-
-  
 Chemise en jean Nudie Sven Heavy Blues  
 
 Un joli jean doit être résistant. Vous devez également éviter de les laver trop souvent – à l’envers si possible pour éviter la décoloration – et nettoyer les endroits nécessaires pour prolonger leur durée de vie.
@@ -186,14 +132,8 @@ _En savoir plus chez Nudie_
 
 ## Finisterre
 
-![](https://fashionableexpert.com/wp-content/uploads/2023/06/RepairServices6.webp)
-
-  
 Veste imperméable Finisterre The Rainbird  
 
-![](https://fashionableexpert.com/wp-content/uploads/2023/06/RepairServices7.jpg)
-
-  
 T-Shirt Finisterre Chaton  
 
 Principalement appelé un modèle de surf, le Finisterre ressemble beaucoup à la Patagonie en ce qui concerne la défense de l’environnement. La toute dernière chose que Finisterre désire, c’est que des matériaux indésirables apparaissent dans la mer.

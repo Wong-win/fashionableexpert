@@ -22,8 +22,6 @@ Le vert est une couleur criminellement sous-estimée, en particulier en matière
  
  ### Correspondre
  
- ![](https://fashionableexpert.com/wp-content/uploads/2023/06/greensuitbrandsbog1.webp)
- 
  Boglioli
  
  En ce qui concerne la confection, la bonne correspondance dépend en grande partie de votre type de physique. Vous devez essentiellement opter pour un costume qui flatte votre forme, ce qui n’implique rien de trop mince ou serré car vous n’avez pas besoin de limiter vos mouvements. Alternativement, vous n’avez pas non plus besoin de quelque chose de trop lâche, au risque de paraître emmêlé ou pire, comme si vous avez emprunté le costume d’une autre personne.
@@ -38,8 +36,6 @@ Le vert est une couleur criminellement sous-estimée, en particulier en matière
  
  ### Tapez
  
- ![](https://fashionableexpert.com/wp-content/uploads/2023/06/greensuitbrandsreiss1.webp)
- 
  Reiss
  
  Ceci est essentiellement dû à une sélection privée. Les ajustements changent radicalement avec le moindre détail modifié. Par exemple, un costume avec une pochette de ticket est intrinsèquement plus formel qu’un costume sans, mais à moins que vous ne soyez un pédant, le Joe moyen n’est pas enclin à découvrir. Lorsque vous choisissez votre propre costume vert, essayez de déterminer à quel point vous aimeriez qu’il soit formel avant de l’acheter. Sera-t-il porté lors d’une réception de mariage ? Vous aurez probablement besoin de quelque chose de plus intelligent que si vous aviez dû le porter dans un bureau informel d’entreprise.
@@ -47,8 +43,6 @@ Le vert est une couleur criminellement sous-estimée, en particulier en matière
  Commencez par un chiffon, puis concentrez-vous sur le bas du costume. Un costume en coton non structuré est bien plus décontracté qu’un costume en laine avec des épaules robustes. Le double boutonnage peut également être plus intelligent que le simple boutonnage, alors tenez-en compte. En fin de compte, si vous en trouvez un que vous voulez et que le match est au niveau, portez-le en toute confiance et vous n’irez vraiment pas trop loin.
  
  ### Couleur
- 
- ![](https://fashionableexpert.com/wp-content/uploads/2023/06/greensuitbrandsdrakes.webp)
  
  Drakes
  
@@ -64,8 +58,6 @@ Le vert est une couleur criminellement sous-estimée, en particulier en matière
  
  ### Fourniture de costumes
  
- ![](https://fashionableexpert.com/wp-content/uploads/2023/06/greensuitbrands4.webp)
- 
  Pour les tailleurs d’entrée à intermédiaire, Suitsupply doit figurer en bonne place dans votre liste de marques. Elle s’est bâtie la réputation de démocratiser le monde des costumes de scène excessifs, grâce à ses vêtements bien confectionnés et sur mesure qui font appel à certaines des plus grandes usines de tissu du monde.
  
  Bien qu’ils aient tendance à convenir au côté mince, le savoir-faire et la haute qualité des matériaux font de Suitsupply un excellent rapport qualité-prix.
@@ -73,8 +65,6 @@ Le vert est une couleur criminellement sous-estimée, en particulier en matière
  _Magasinez maintenant chez Suitsupply_
  
  ### Ralph Lauren
- 
- ![](https://fashionableexpert.com/wp-content/uploads/2023/06/greensuitbrands7.webp)
  
  Ralph Lauren a depuis longtemps le monopole du style américain classique, depuis les basiques décontractés comme les chinos et les chemises Oxford jusqu’aux costumes haut de gamme. Alors en ce qui concerne les coupes vertes, la marque américaine a ce qu’il vous faut.
  
@@ -84,8 +74,6 @@ Le vert est une couleur criminellement sous-estimée, en particulier en matière
  
  ### Boglioli
  
- ![](https://fashionableexpert.com/wp-content/uploads/2023/06/greensuitbrands2.webp)
- 
  En parlant de couture sentimentale et non structurée, peu de fabricants le font mieux que Boglioli. La marque italienne est célèbre pour sa coupe basique, toujours plus basse, avec peu ou pas de rembourrage, comme c’est la coutume napolitaine.
  
  La coupe d’origine présente des épaules pures, un physique légèrement plus court que d’habitude et une coupe fine et ajustée, qui peut aider à allonger votre silhouette. Pour un costume vert confortable et léger, il n’y a pas mieux.
@@ -93,8 +81,6 @@ Le vert est une couleur criminellement sous-estimée, en particulier en matière
  _Magasinez maintenant chez Farfetch_
  
  ### Drake
- 
- ![](https://fashionableexpert.com/wp-content/uploads/2023/06/greensuitbrands3.webp)
  
  Alors qu’elle a commencé comme fabricant de cravates, Drake’s s’est développée pour devenir une marque de vêtements à part entière, produisant des vêtements allant des jeans selvedge aux polos et autres basiques preppy.
  
@@ -104,8 +90,6 @@ Le vert est une couleur criminellement sous-estimée, en particulier en matière
  
  ### Paul Smith
  
- ![](https://fashionableexpert.com/wp-content/uploads/2023/06/greensuitbrands5.webp)
- 
  Le légendaire Sir Paul Smith a toujours eu un penchant pour la couture, c’est pourquoi sa marque éponyme est considérée comme l’une des meilleures de Grande-Bretagne en matière de tailleur.
  
  Les coupes Paul Smith sont généralement plus basses et assez fines, avec des coupes modernes sur mesure qui flattent celles avec des montures longues et fines, tandis que la palette de couleurs est souvent assez audacieuse, donc les coupes vertes sont souvent en grande partie à l’ordre du jour.
@@ -114,8 +98,6 @@ Le vert est une couleur criminellement sous-estimée, en particulier en matière
  
  ### Todd Snyder
  
- ![](https://fashionableexpert.com/wp-content/uploads/2023/06/green-suit-todd.webp)
- 
  Le mannequin américain Todd Snyder est une excellente option pour ceux qui cherchent à repenser leur garde-robe. Les incontournables de la marque comprennent les chemises en jean, devenant désormais des chinos et de superbes vêtements d’extérieur, qui servent à la fois aux vêtements informels et formels.
  
  La confection a également tendance à être à la hauteur, avec une variété de coupes et de designs modernes disponibles.
@@ -123,8 +105,6 @@ Le vert est une couleur criminellement sous-estimée, en particulier en matière
  _Magasinez maintenant chez Todd Synder_
  
  ### Tom Ford
- 
- ![](https://fashionableexpert.com/wp-content/uploads/2023/06/greensuitbrands.webp)
  
  Vous pouvez généralement repérer Tom Ford en train de confectionner un vêtement parmi une multitude de coupes. La coupe d’origine est audacieuse mais incroyablement flatteuse, avec de solides épaules cordées, de longues vestes et de larges revers en pointe, qui font référence à la couture Savile Row des années 70.
  
