@@ -1,12 +1,15 @@
 ---
 title: "7 tendances mode automne-hiver 2026 à adopter absolument"
 date: "2026-09-03"
-postSlug: "7-tendances-mode-automne-hiver-2026-a-adopter"
 image: "/images/7-tendances-mode-automne-hiver-2026-a-adopter.jpg"
+excerpt: "Découvrez les 7 tendances mode incontournables de l'automne-hiver 2026 : couleurs phares, matières phares et silhouettes à adopter. Guide complet pour renouveler votre garde-robe avec style et pertinence."
+postSlug: "7-tendances-mode-automne-hiver-2026-a-adopter"
 categories: ["Mode", "Tendances"]
 categorySlugs: ["mode", "tendances"]
-excerpt: "Découvrez les 7 tendances mode incontournables de l'automne-hiver 2026 : couleurs phares, matières phares et silhouettes à adopter. Guide complet pour renouveler votre garde-robe avec style et pertinence."
 urlPath: "/7-tendances-mode-automne-hiver-2026-a-adopter/"
+year: "2026"
+month: "09"
+day: "03"
 ---
 
 <p>L'automne-hiver 2026 s'annonce comme une saison riche en contrastes et en audace. Après des années de minimalisme discret, les créateurs réintroduisent de la couleur, de la texture et du caractère dans nos garde-robes. Que vous soyez adepte du style classique ou amatrice de looks plus affirmés, cette saison offre des tendances pour tous les goûts et toutes les morphologies.</p>
