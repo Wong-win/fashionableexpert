@@ -1,15 +1,15 @@
 ---
 title: "Le guide complet des essentiels de la mode féminine : créer une garde-robe qui vous convient"
 date: "2026-03-17"
-postSlug: "the-complete-guide-to-womens-fashion-essentials-building-a-wardrobe-that-works-for-you"
+postSlug: "guide-essentiels-mode-feminine-garderobe"
 year: "2026"
 month: "03"
 day: "17"
 categories: ["Mode Femme"]
 categorySlugs: ["womens-fashion"]
-excerpt: "Le guide complet des essentiels de la mode féminine : créer une garde-robe qui vous convient Une grande garde-robe ne se mesure pas par le nombre de pièces qu'elle contient, mais par la façon dont ces pièces s'agencent bien et avec quelle efficacité elles servent votre vie. Les femmes les plus élégantes comprennent que la mode ..."
+excerpt: "Une grande garde-robe ne se mesure pas au nombre de pièces, mais à la façon dont elles s'agencent. Ce guide identifie les essentiels mode féminine pour construire un vestiaire qui vous ressemble."
 image: "/images/article4_cover.jpg"
-urlPath: "/2026/03/17/the-complete-guide-to-womens-fashion-essentials-building-a-wardrobe-that-works-for-you"
+urlPath: "/2026/03/17/guide-essentiels-mode-feminine-garderobe"
 ---
 
 # Le guide complet des essentiels de la mode féminine : créer une garde-robe qui vous convient

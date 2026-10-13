@@ -1,15 +1,15 @@
 ---
 title: "L'art d'accessoiriser : un guide complet des bijoux, des sacs, des chaussures et des touches finales"
 date: "2026-03-30"
-postSlug: "the-art-of-accessorizing-a-complete-guide-to-jewelry-bags-shoes-and-finishing-touches"
+postSlug: "guide-complet-accessoires-bijoux-sacs-chaussures"
 year: "2026"
 month: "03"
 day: "30"
 categories: ["Inspiration vestimentaire"]
 categorySlugs: ["dress-inspiration"]
-excerpt: "L'art d'accessoiriser : un guide complet sur les bijoux, les sacs, les chaussures et les touches finales Les accessoires ont le pouvoir de transformer complètement une tenue. La même robe simple qui a fière allure seule devient mémorable avec le bon collier, le bon sac et les bonnes chaussures. Une combinaison basique de jean et de ..."
+excerpt: "Les accessoires ont le pouvoir de transformer complètement une tenue. Ce guide explore l'art d'accessoiriser à travers bijoux, sacs, chaussures et finitions pour composer des looks mémorables."
 image: "/images/article6_cover.jpg"
-urlPath: "/2026/03/30/the-art-of-accessorizing-a-complete-guide-to-jewelry-bags-shoes-and-finishing-touches"
+urlPath: "/2026/03/30/guide-complet-accessoires-bijoux-sacs-chaussures"
 ---
 
 # L’art d’accessoiriser : un guide complet sur les bijoux, les sacs, les chaussures et les touches finales

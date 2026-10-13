@@ -1,15 +1,15 @@
 ---
 title: "8 façons de porter une chemise en chambray avec style"
 date: "2025-08-02"
-postSlug: "methods-to-put-on-a-chambray-shirt-eight-methods"
-image: "/images/methods-to-put-on-a-chambray-shirt-eight-methods.jpg"
+postSlug: "8-facons-porter-chemise-chambray"
+image: "/images/8-facons-porter-chemise-chambray.jpg"
 year: "2025"
 month: "08"
 day: "02"
 categories: ["Mode Femme", "Inspiration vestimentaire"]
 categorySlugs: ["womens-fashion", "dress-inspiration"]
 excerpt: "La chemise en chambray est un essentiel du dressing qui se réinvente à l'infini. Voici 8 façons de la porter pour un look toujours renouvelé."
-urlPath: "/2025/08/02/methods-to-put-on-a-chambray-shirt-eight-methods"
+urlPath: "/2025/08/02/8-facons-porter-chemise-chambray"
 ---
 
 La chemise en chambray est l'une de ces pièces magiques qui s'adaptent à toutes les situations. Souvent confondue avec le denim, le chambray est en réalité un tissu plus léger et plus souple — ce qui le rend parfait pour les beaux jours comme pour les superpositions hivernales.

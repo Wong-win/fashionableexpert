@@ -1,147 +1,91 @@
 ---
-title: "Doubler: le costume à double boutonnage complet avec informations"
+title: "Le costume à double boutonnage : guide complet"
 date: "2025-11-16"
-postSlug: "doubling-up-the-full-double-breasted-go-well-with-information"
+postSlug: "guide-costume-double-boutonnage"
 year: "2025"
 month: "11"
 day: "16"
 categories: ["Style masculin"]
 categorySlugs: ["mens-style"]
-excerpt: "Il y a un certain type d'énergie qu'un costume à double boutonnage (DB) apporte dans une pièce. C’est dandy, old school et un peu excentrique. Il faut de la confiance pour en choisir un plutôt qu'un deux-pièces traditionnel à boutonnage simple, mais pour ceux qui sont assez audacieux pour le faire, les récompenses pourraient être ..."
-image: "/images/38355e66d3acee7fdedb311f36177b97.jpg"
-urlPath: "/2025/11/16/doubling-up-the-full-double-breasted-go-well-with-information"
+excerpt: "Le costume à double boutonnage apporte une énergie singulière : dandysme, élégance old school et caractère assumé. Plus original qu'un deux-pièces classique, il révèle ceux qui osent le porter."
+image: "/images/guide-costume-double-boutonnage.jpg"
+urlPath: "/2025/11/16/guide-costume-double-boutonnage"
 ---
 
-Il y a un certain type d’énergie qu’un costume à double boutonnage (DB) apporte dans une pièce. C’est dandy, old school et un peu excentrique. Il faut de la confiance pour en choisir un plutôt qu’un deux-pièces traditionnel à boutonnage simple, mais pour ceux qui sont assez audacieux pour le faire, les récompenses pourraient être grandes.
+Le costume à double boutonnage (DB) dégage une énergie particulière. Il est dandy, légèrement old school, et un brin excentrique. Le choisir plutôt qu'un deux-pièces classique à simple boutonnage demande une vraie confiance en soi, mais pour ceux qui osent franchir le pas, la récompense est là.
 
-Porter un costume à double boutonnage signifie une bonne maîtrise du style. Cela montre que vous n’avez pas peur de vous éloigner de la conférence et d’adopter quelque chose d’un peu différent. Cela renforce la formalité et l’éclat de la même manière que l’ajout d’un gilet à une combinaison à simple boutonnage, et sur le physique approprié, cela peut être extrêmement flatteur.
+Porter un double boutonnage, c'est montrer que l'on maîtrise les codes de l'élégance masculine. Cela dit que vous n'avez pas peur de vous éloigner du conformisme pour adopter quelque chose d'un peu différent. Le rendu est plus formel, plus brillant — presque comme si vous ajoutiez un gilet à un costume à simple boutonnage — et sur la bonne morphologie, le résultat peut être extrêmement flatteur.
 
-Indépendamment de tous ses points positifs, le costume à double boutonnage reste la valeur aberrante. Neuf hommes sur dix optent pour un costume classique à simple boutonnage lorsqu’ils en ont le choix, mais le reste d’entre nous peut l’utiliser à notre avantage.
+Malgré tous ses avantages, le costume à double boutonnage reste une valeur sûre pour les originaux. Neuf hommes sur dix optent pour un classique à simple boutonnage quand ils ont le choix, ce qui permet justement à ceux qui l'adoptent de se démarquer avec élégance.
 
-Envisagez-vous de découvrir par vous-même pourquoi deux seins sont plus hauts qu’un ? Permettez-nous de vous expliquer les tenants et les aboutissants de l’un de nos styles de couture préférés, ainsi que la meilleure façon de le porter et où en acheter un.
+Vous envisagez de découvrir par vous-même pourquoi « deux rangs de boutons » valent mieux qu'un ? Voici tout ce qu'il faut savoir sur l'un de nos styles de couture préférés, comment le porter et où en acheter un.
 
 ## Pourquoi choisir le double boutonnage ?
 
-Brunello Cucinelli
+Petit à petit, la couture classique regagne du terrain dans la mode masculine contemporaine. Conséquence directe : le costume à double boutonnage perd ses connotations étouffantes et rigides pour devenir plus accessible. C'est une option différente et impertinente qui rend presque ennuyeux le costume à simple boutonnage. Le choix idéal pour celles et ceux qui veulent affirmer leur style plutôt que se fondre dans la masse.
 
-Lentement mais absolument, la couture réapparaît dans la mode masculine moderne. Parce que c’est le cas, la combinaison à double boutonnage se débarrasse de ses connotations d’étouffement et de rigidité et se sent plus accessible. Il s’agit d’une option différente et impertinente qui donne l’impression qu’un costume à simple boutonnage est ennuyeux et sans inspiration, et constitue le choix idéal pour celles qui veulent se démarquer de leur couture plutôt que de se mélanger.
+Le double boutonnage est une sorte de raccourci vestimentaire. C'est toujours un deux-pièces, mais il donne immédiatement l'impression que celui qui le porte connaît les codes de l'habillement. Il traduit une curiosité pour les classiques bien compris et présente l'intérêt supplémentaire de structurer le torse. En d'autres termes : pourquoi ne pas tenter le double boutonnage ?
 
-Le costume à double boutonnage est une sorte de code de triche vestimentaire. C’est un simple deux pièces, mais il crée immédiatement l’impression que le porteur connaît la façon de s’habiller. Il transmet une curiosité et une compréhension du modèle et présente l’avantage supplémentaire de créer une forme dans le torse. En d’autres termes, pourquoi ne pas opter pour le double boutonnage ?
+## À qui va le double boutonnage ?
 
-## Un costume à double boutonnage me convient-il ?
+Comme beaucoup de pièces de couture, la veste à double boutonnage convient mieux à certaines morphologies qu'à d'autres. En règle générale, elle fonctionne particulièrement bien sur des silhouettes grandes et minces. Elle élargit visuellement les épaules et enveloppe le corps pour créer une taille marquée.
 
-Comme la plupart des choses, les vestes à double boutonnage conviennent à certaines morphologies plus hautes qu’à d’autres. En règle générale, une veste DB fonctionne mieux sur des cadres plus hauts et plus minces. Ils élargissent les épaules et enveloppent le corps pour créer une taille.
+Elle peut aussi fonctionner sur des corps plus courts et plus ronds : le drapé supplémentaire de tissu aide à structurer la silhouette et peut même atténuer un ventre. La longueur de la veste peut également être ajustée pour s'adapter à différentes tailles.
 
-Pour cette raison, ils travailleront également sur un corps plus court et plus rond, car l’enveloppe supplémentaire de tissu peut également aider à cacher le ventre. La taille de la veste peut également être utilisée afin que des hauteurs complètement différentes puissent être adaptées.
+Pour résumer : pas besoin d'avoir la morphologie d'un mannequin. Le tout est de trouver une coupe qui respecte vos proportions.
 
-## Comment confectionner un costume à double boutonnage
+## Comment porter un costume à double boutonnage
 
-### Enfilez-le en toute confiance
+### L'enfiler avec assurance
 
-Brunello Cucinelli
+Le costume à double boutonnage possède une énergie affirmée qui peut vite entrer en conflit avec une posture incertaine. Si vous ne vous sentez pas à l'aise dedans, cela se verra. L'enfiler avec une bonne dose de confiance est donc essentiel — et cela passe souvent par un essayage en boutique, loin du stress.
 
-Le costume à double boutonnage a une énergie sûre qui peut entrer en conflit avec une insécurité. Si vous ne pensez pas que vous avez l’air bien dedans, ce n’est pas le cas, il est donc crucial de l’enfiler avec une bonne dose de confiance.
+### Trouver la bonne coupe
 
-### Obtenir le bas approprié
+Cela va sans dire, mais un costume à double boutonnage se doit d'être parfaitement ajusté. C'est sans doute encore plus important qu'avec un costume à simple boutonnage : si la veste ne serre pas correctement le corps, elle aura l'air gauche et mal proportionnée.
 
-Reiss
+Si vous pouvez vous offrir un costume sur mesure, c'est l'idéal. Sinon, achetez un prêt-à-porter qui s'en approche le plus et confiez-le à un bon tailleur pour les retouches finales.
 
-Cela devrait aller de soi, mais une combinaison à double boutonnage devrait être parfaitement assortie. Il est sans doute beaucoup plus important d’obtenir un ajustement parfait qu’avec un costume à simple boutonnage, car s’il ne serre pas bien le corps, il aura l’air maladroit et mal ajusté.
+### Toucher au dandysme avec subtilité
 
-Si vous pouvez vous permettre d’avoir un costume sur mesure, alors c’est bien. Sinon, achetez-en un prêt à l’emploi qui correspond le mieux possible et apportez-le à un bon tailleur pour les modifications.
+Choisissez vos accessoires pour enrichir le caractère de votre double boutonnage. Préférez des mocassins ou des boucles de moine à de classiques chaussures Derby trop sages, et n'ayez pas peur d'introduire de la couleur ou des motifs via la cravate, la pochette ou même les chaussettes.
 
-### En haut du dandiness
+Mais attention : il existe une ligne fine entre le dandy et l'excentrique. Trouver le bon dosage d'accessoires fait la différence entre le bon et le mauvais côté de cette ligne.
 
-Reiss
+### Ne pas trop en faire
 
-Sélectionnez vos tenues et vos chaussures pour enrichir le look décontracté de ce costume à double boutonnage. Choisissez des mocassins ou des sangles de moine par rapport aux anciennes chaussures Derby ennuyeuses, et n’ayez pas peur d’introduire de la couleur et des motifs au moyen de cravates, de pochettes de costume et même de chaussettes.
+Cela dit, veillez à ne pas surcharger la tenue. Le double boutonnage est déjà fort visuellement : trop d'éléments en plus peuvent vite devenir ridicules. Miser sur la sobriété dans les accessoires, c'est laisser la pièce respirer.
 
-### Ne pas trop accessoiriser
+## Les marques à connaître pour un beau double boutonnage
 
-Reiss
+### Suitsupply
 
-Cela étant dit, veillez à ne pas en faire trop. Il y a une ligne de démarcation entre le dandy et l’excentrique, et trouver des moyens d’accessoiriser de manière conservatrice fait la différence entre être du bon ou du mauvais côté.
-
-## Les meilleurs fabricants de coupes à double boutonnage
-
-### Drake
-
-Veste sur mesure à double boutonnage en flanelle de laine Test Prince de Galles grise Drake’s  
-
-Jeux vidéo en velours côtelé noir de Drake Mk. Veste de soirée III  
-
-La marque londonienne Drake’s est connue dans le milieu de la mode masculine pour ses vêtements décontractés haut de gamme et ses coupes originales. Supposons des vestes à double boutonnage, des pantalons à plis, des pantalons taille haute et des cravates et pochettes à motifs ludiques.
-
-Si vous voulez un costume à double boutonnage avec du caractère et que vous êtes prêt à investir beaucoup d’argent, celui de Drake devrait figurer en tête de votre liste.
-
-_Magasinez maintenant chez Drake_
+Marque directe au consommateur, Suitsupply est un excellent point de départ pour trouver des coupes ajustées et actuelles à des prix raisonnables. Les vestes à double boutonnage commencent autour de 500 € pour un ensemble veste-pantalon, avec aussi des options sur mesure. Le seul bémol : toutes les coupes sont très slim, ce qui peut être un problème pour ceux qui préfèrent une coupe plus ample ou plus traditionnelle.
 
 ### Reiss
 
-Blazer test à double boutonnage Prince de Galles Reiss Broadgate  
+La marque britannique Reiss se situe plutôt dans le haut de gamme accessible, avec des pièces actuelles et des coupes modernes très soignées. Le double boutonnage est l'un de ses terrains de jeu, avec des modèles bien structurés et des détails de qualité.
 
-Reiss Paddock – Blazer slim match en sergé à double boutonnage  
+### Drake's
 
-La marque britannique Reiss opère à l’extrémité supérieure de la route, proposant des articles haut de gamme et tendance avec des coupes modernes et une concentration sur les détails. La marque est connue pour ses coupes accessibles mais impeccablement coupées, et les coupes à double boutonnage sont un élément clé de l’offre.
+Maison londonienne réputée dans la mode masculine pour ses vêtements décontractés haut de gamme et ses coupes originales. On y trouve des vestes à double boutonnage, des pantalons à plis, des tailles hautes et des cravates et pochettes aux motifs soignés. Si vous cherchez un double boutonnage avec du caractère et que vous êtes prêt à investir, Drake's mérite de figurer en haut de votre liste.
 
-_Magasinez maintenant chez Reiss_
+### Moss
 
-### Mousse
-
-Moss Slim Match Ink Stretch S’agence bien avec  
-
-Moss Slim Match Grey Stretch S’agence bien avec  
-
-Si vous recherchez un costume à double boutonnage à un prix abordable, alors Moss est toujours un pari sûr. Il s’agit du plus grand détaillant de vêtements de cérémonie et de couture du Royaume-Uni, et il existe une vaste gamme de couleurs, de coupes, de matériaux et de motifs parmi lesquels choisir.
-
-Bien choisir le loyer est également une option, ce qui est utile si vous cherchez simplement quelque chose à porter lors d’un grand jour et que vous n’avez pas besoin de dépenser de l’argent pour acheter un costume. 
-
-_Magasinez maintenant chez Moss Bros._
+Si vous cherchez un double boutonnage à un prix abordable, Moss reste une valeur sûre. C'est l'un des plus grands détaillants spécialisés en costume du Royaume-Uni, avec une vaste gamme de couleurs, coupes, matières et motifs. La location est aussi possible, pratique si vous avez simplement besoin d'une tenue pour un grand jour sans vouloir acheter.
 
 ### Brunello Cucinelli
 
-Brunello Cucinelli Double boutonnage en velours côtelé en coton mélangé S’accorde bien avec une veste  
+Si le budget n'est pas un problème, Brunello Cucinelli propose l'un des plus beaux double boutonnage du marché. La maison est connue pour ses matières haut de gamme, ses silhouettes classiques et sa confection italienne impeccable. Comptez tout de même rarement moins de 4 000 € pour une veste.
 
-Brunello Cucinelli Laine à double boutonnage Se marie bien avec la veste  
+### Kingsman
 
-Si l’argent n’est pas un problème, Brunello Cucinelli propose l’une des coupes croisées les plus luxueuses du jeu. La marque est connue pour ses matériaux de haute qualité, ses silhouettes traditionnelles, ses coutures italiennes haut de gamme et même ses étiquettes de valeur accrue.
-
-Ce sont de très belles coupes, mais vous aurez la chance d’en obtenir un pour moins de 4 000 £.
-
-_Magasinez maintenant chez Farfetch_
-
-### Fourniture de costumes
-
-Suitsupply Gentle Brown Havana S’agence bien avec  
-
-Suitsupply Mid Brown Havana S’agence bien avec  
-
-La marque Suitsupply, destinée directement au consommateur, est un excellent endroit pour acheter des coupes ajustées et tendance à des prix modérément abordables. Les coupes à double boutonnage commencent à environ 500 £ pour une veste et un pantalon, et il existe également des choix personnalisés et sur mesure.
-
-Le seul inconvénient potentiel est le match. Toutes les coupes de Suitsupply sont très ajustées, ce qui pourrait être un problème pour ceux qui préfèrent une coupe plus ample ou plus traditionnelle.
-
-_Magasinez maintenant chez Suitsupply_
-
-### Homme-Roi
-
-Combinaison en laine Super 120s à fines rayures marine Kingsman Harry’s  
-
-Combinaison en laine Super 120s Kingsman Harry’s Navy  
-
-Créé par M. Porter en collaboration avec Matthew Vaughn, qui a réalisé les films du même nom, Kingsman est un ensemble de vêtements inspirés de la couture britannique traditionnelle.
-
-Kingsman est devenu une marque à part entière, produisant tout, des vêtements décontractés haut de gamme aux superbes coupes croisées dans des matériaux luxueux.
-
-_Magasinez maintenant chez MR PORTER_
+Créé par MR PORTER en collaboration avec le réalisateur Matthew Vaughn, Kingsman est un vestiaire inspiré des costumes britanniques traditionnels. La marque propose aujourd'hui des pièces décontractées haut de gamme, mais aussi de très beaux double boutonnage dans des matières luxueuses.
 
 ### Dior
 
-Dior Basic-Lower Indirect Combinaison  
+La couture a toujours été un pilier de la maison Dior, et Kim Jones l'a particulièrement développé depuis qu'il dirige Dior Homme. La veste Tailleur Indirect, notamment, propose une coupe croisée haute qui enveloppe largement le torse. L'investissement est élevé, mais le résultat est l'un des plus singuliers du marché.
 
-Dior Basic-Lower Double boutonnage S’accorde bien avec  
+## Conclusion
 
-La couture a toujours été une partie importante de la marque Dior, et c’est quelque chose sur lequel Kim Jones s’est fortement concentré lorsqu’il a pris les rênes de Dior Homme.
-
-La veste Tailleur Indirect est une sorte de veste croisée haute qui enveloppe tout le côté du corps. Ce n’est pas une option bon marché, mais certainement l’une des plus intéressantes.
-
-_Magasinez maintenant chez Dior_
+Le costume à double boutonnage n'est pas réservé aux dandys du XIXe siècle ni aux mannequins de podium. C'est une pièce de caractère, qui se travaille, qui se mérite, mais qui apporte à une tenue ce qu'aucun autre vêtement ne peut apporter : une vraie présence. Le secret tient en trois mots : la bonne coupe, la bonne matière et la bonne confiance. Une fois ces trois éléments réunis, le double boutonnage devient rapidement la pièce préférée de votre vestiaire.

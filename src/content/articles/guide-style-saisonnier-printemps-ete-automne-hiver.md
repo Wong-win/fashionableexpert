@@ -1,15 +1,15 @@
 ---
 title: "Guide de style saisonnier : que porter au printemps, en été, en automne et en hiver"
 date: "2026-04-26"
-postSlug: "seasonal-style-guide-what-to-wear-in-spring-summer-autumn-and-winter"
+postSlug: "guide-style-saisonnier-printemps-ete-automne-hiver"
 year: "2026"
 month: "04"
 day: "26"
 categories: ["Mode Femme"]
 categorySlugs: ["womens-fashion"]
-excerpt: "Guide de style saisonnier : que porter au printemps, en été, en automne et en hiver L'une des caractéristiques déterminantes d'une grande garde-robe est son adaptabilité aux saisons. Les personnes les plus élégantes n'ont pas de garde-robe séparée pour chaque saison, mais plutôt une collection de base de pièces toute l'année complétée par des ajouts saisonniers ..."
+excerpt: "Les personnes les plus élégantes ne possèdent pas une garde-robe par saison, mais une collection de bases complétée par des ajouts saisonniers. Notre guide annuel vous accompagne du printemps à l'hiver."
 image: "/images/a10_cover.jpg"
-urlPath: "/2026/04/26/seasonal-style-guide-what-to-wear-in-spring-summer-autumn-and-winter"
+urlPath: "/2026/04/26/guide-style-saisonnier-printemps-ete-automne-hiver"
 ---
 
 # Guide de style saisonnier : que porter au printemps, en été, en automne et en hiver

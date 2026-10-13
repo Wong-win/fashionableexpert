@@ -1,15 +1,15 @@
 ---
 title: "Comment porter des chaussures plates pour un événement spécial"
 date: "2025-06-02"
-postSlug: "find-out-how-to-put-on-flats-for-a-particular-event"
-image: "/images/find-out-how-to-put-on-flats-for-a-particular-event.jpg"
+postSlug: "porter-ballerines-evenement"
+image: "/images/porter-ballerines-evenement.jpg"
 year: "2025"
 month: "06"
 day: "02"
 categories: ["Mode Femme", "Inspiration vestimentaire"]
 categorySlugs: ["womens-fashion", "dress-inspiration"]
 excerpt: "Qui a dit que les événements spéciaux exigeaient des talons vertigineux ? Les chaussures plates s'invitent aux soirées les plus élégantes. Voici comment les porter avec style."
-urlPath: "/2025/06/02/find-out-how-to-put-on-flats-for-a-particular-event"
+urlPath: "/2025/06/02/porter-ballerines-evenement"
 ---
 
 Longtemps cantonnées au quotidien, les chaussures plates ont conquis leurs lettres de noblesse. Mariages, cocktails, dîners de gala — il est désormais parfaitement chic de fouler les plus beaux parquets en ballerines, mocassins ou sandales plates. Voici comment réussir ce pari stylistique.

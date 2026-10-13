@@ -1,15 +1,15 @@
 ---
 title: "Le guide complet pour s'habiller pour les mariages et les événements spéciaux en tant qu'invité"
 date: "2026-05-03"
-postSlug: "the-complete-guide-to-dressing-for-weddings-and-special-events-as-a-guest"
+postSlug: "guide-complet-tenue-invites-mariage"
 year: "2026"
 month: "05"
 day: "03"
 categories: ["Inspiration vestimentaire"]
 categorySlugs: ["dress-inspiration"]
-excerpt: "Le guide complet pour s'habiller pour les mariages et les événements spéciaux en tant qu'invité Assister à un mariage ou à un événement officiel en tant qu'invité présente un défi vestimentaire unique. Vous voulez avoir l’air raffiné et festif sans éclipser les personnes qui se marient. Vous devez être adapté au lieu, à la saison ..."
+excerpt: "Assister à un mariage en tant qu’invité présente un défi unique : être raffiné sans éclipser les mariés. Voici comment réussir votre look selon le lieu, la saison et le code vestimentaire."
 image: "/images/a11_cover.jpg"
-urlPath: "/2026/05/03/the-complete-guide-to-dressing-for-weddings-and-special-events-as-a-guest"
+urlPath: "/2026/05/03/guide-complet-tenue-invites-mariage"
 ---
 
 # Le guide complet pour s’habiller pour les mariages et les événements spéciaux en tant qu’invité

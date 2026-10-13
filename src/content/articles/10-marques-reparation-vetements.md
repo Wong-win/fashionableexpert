@@ -1,143 +1,83 @@
 ---
-title: "Faire et réparer : 10 fabricants de tendances qui fournissent des fournisseurs de restauration"
+title: "Faire et réparer : 10 marques qui prennent soin de vos vêtements"
 date: "2026-01-09"
-postSlug: "make-do-and-mend-10-trend-manufacturers-that-supply-restore-providers"
+postSlug: "10-marques-reparation-vetements"
 year: "2026"
 month: "01"
 day: "09"
 categories: ["Style masculin"]
 categorySlugs: ["mens-style"]
-excerpt: "La règle générale pour comprendre si un élément d'investissement est un élément d'investissement autorisé est de considérer combien de temps il va durer. De nombreux vêtements que nous achetons durent rarement quelques lavages avant de commencer à se détériorer et, avec les yeux du monde fermement fixés sur l'impact environnemental de la mode, il vaut ..."
-image: "/images/b59081fe63134bed07e622454d2f7966.jpg"
-urlPath: "/2026/01/09/make-do-and-mend-10-trend-manufacturers-that-supply-restore-providers"
+excerpt: "Un vêtement bien fait se reconnaît à sa durée de vie. Découvrez dix marques qui proposent un service de réparation pour prolonger la vie de vos pièces préférées."
+image: "/images/10-marques-reparation-vetements.jpg"
+urlPath: "/2026/01/09/10-marques-reparation-vetements"
 ---
 
-La règle générale pour comprendre si un élément d’investissement est un élément d’investissement autorisé est de considérer combien de temps il va durer. De nombreux vêtements que nous achetons durent rarement quelques lavages avant de commencer à se détériorer et, avec les yeux du monde fermement fixés sur l’impact environnemental de la mode, il vaut la peine de réfléchir à la façon dont vous pouvez faire durer vos vêtements plus longtemps.
+La règle générale pour juger un véritable investissement vestimentaire, c'est de regarder combien de temps il va durer. Beaucoup de vêtements que nous achetons s'abîment au bout de quelques lavages à peine. À l'heure où l'impact environnemental de la mode est sur toutes les lèvres, il vaut mieux se demander comment faire durer ses vêtements plus longtemps.
 
-En plus d’une visite chez un tailleur ou une couturière, de nombreuses entreprises proposent désormais des services de restauration en interne pour leurs marchandises. Pour moins que le prix d’achat d’un vêtement neuf et sans l’impact environnemental, vous pouvez raccommoder et rafraîchir vos vêtements, en faisant tout votre part.
+En plus du tailleur ou de la retoucheuse du coin, de nombreuses marques proposent désormais un service de réparation interne pour leurs produits. Pour un prix souvent inférieur à celui d'un vêtement neuf, et avec un impact environnemental bien moindre, vous pouvez raccommoder et rafraîchir vos pièces — et faire votre part.
 
-## DEMANDER
+## ASKET
 
-ASKET La Surchemise  
+ASKET a pour mission de rationaliser la garde-robe masculine, avec un assortiment permanent de vêtements polyvalents et intemporels qui ne se démoderont jamais. Ce sont précisément les pièces avec lesquelles on construit une garde-robe capsule cohérente.
 
-ASKET Le Chino  
+La marque scandinave ne court pas après les tendances et place la durabilité au cœur de son approche, avec un consommérisme particulièrement réfléchi : la réparation et le recyclage jouent un rôle central dans son économie circulaire.
 
-ASKET a pour mission de rationaliser la garde-robe masculine, en proposant un assortiment permanent de vêtements polyvalents et intemporels qui ne pourront jamais se démoder. Vous réalisez le genre de vêtements avec lesquels vous construirez une garde-robe capsule complète.
+Sur son site, vous trouverez des guides de réparation détaillés pour résoudre vous-même de nombreux problèmes courants (boutons décousus, petits trous, coutures abîmées), ainsi que la possibilité de commander des pièces détachées au besoin : boutons, étiquettes, fermetures éclair et cordons.
 
-La marque scandinave ne croit pas aux tendances et semble promouvoir la durabilité et un consumérisme extrêmement conscient, la réparation et le recyclage jouant un rôle important dans l’économie circulaire.
+## Neem London
 
-Donc, sur son site Web, vous trouverez des guides de restauration détaillés qui vous permettront de réparer de nombreux problèmes courants à la maison (pensez aux boutons libres, aux petits trous, aux coutures endommagées, etc.), tandis que vous pourrez également commander des pièces de rechange au fur et à mesure de vos besoins, notamment des boutons, des étiquettes, des fermetures éclair et des cordons.
+Neem prend la durabilité au sérieux. Tous les vêtements de la marque sont conçus à partir de fibres recyclées, régénératives ou renouvelables, et fabriqués dans des ateliers alimentés à l'énergie solaire — l'objectif : proposer des pièces confortables et tendances avec un impact minimal sur la planète.
 
-_En savoir plus sur ASKET_
+Il est donc logique que la marque préfère la réparation au remplacement. Neem ne propose pas de service interne, mais s'est associée au Garment Physician, qui offre des modifications de manches, des raccourcissements et des réparations de taille.
 
-## Neem Londres
-
-Sur-chemise en flanelle bleu marine italienne recyclée Neem London  
-
-Polo à manches longues Neem London ZQ Merino gris doux  
-
-Neem prend la durabilité au sérieux. Tous les vêtements de la marque sont créés à partir de fibres recyclées, régénératives et renouvelables et produits dans des usines alimentées à l’énergie solaire, dans le but d’offrir des vêtements confortables et tendance avec le moins d’impact possible sur la planète.
-
-Il est donc logique que l’entreprise veuille que vous répariez plutôt que de changer. La marque indépendante n’offre pas de service en interne, mais s’est associée au Garments Physician, qui propose des modifications de manches, un raccourcissement et une réparation de la taille du corps.
-
-Vous devrez envoyer des images de votre vêtement au médecin du vêtement pour obtenir un devis pour les réparations, mais que ce soit le cas ou non, il est acceptable que le processus soit évident après cela, vous livrant vos articles réparés en seulement 10 jours.
-
-_Découvrez-en davantage chez Neem London_
+Il faudra envoyer des photos de votre vêtement pour obtenir un devis, mais le processus est ensuite transparent et bien rodé : vous recevez vos pièces réparées en une dizaine de jours.
 
 ## Barbour
 
-Veste cirée Barbour Beaufort  
+La veste Barbour est depuis longtemps un classique du vestiaire. Les modèles en coton ciré les plus anciens semblent gagner en caractère au fil du temps, à mesure qu'ils se patinent au contact de leur propriétaire, des intempéries et de la lumière.
 
-Veste d’activités sportives Barbour Beacon  
-
-La veste Barbour durable sera à tout moment un vêtement de valeur à retenir. Les vestes cirées plus anciennes semblent avoir ce petit plus d’allure et de caractère dès qu’elles ont été moulées selon leur propriétaire respectif, un peu malmenées par les intempéries et un peu de lumière.
-
-Cela étant dit, vous n’en avez pas besoin lorsque vos clés tombent du portefeuille et que l’eau s’infiltre par l’épaule. Ce qui est bien avec une veste Barbour – en plus d’être une icône officielle – c’est que vous pouvez la renvoyer à la marque britannique pour qu’elle soit réparée. De plus, Barbour vend également des boîtes de cire spécialisée afin de simplement re-cirer votre veste à la maison, en maintenant ainsi son étanchéité.
-
-_En savoir plus chez Barbour_
+Cela dit, il y a des moments où la patience ne suffit plus — quand une fermeture cède après que vos clés ont glissé de votre poche, par exemple. L'un des grands avantages d'une Barbour, en plus de son statut d'icône, c'est que vous pouvez la renvoyer à la marque britannique pour réparation. Barbour vend également des boîtes de cire spécialisée pour re-cirrer votre veste à la maison et préserver son étanchéité.
 
 ## Berghaus
 
-Veste Berghaus Deluge Professional 2.0 – Bleu foncé  
+Les fabricants d'équipement outdoor savent ce qu'ils doivent à la nature. Des marques comme Berghaus conçoivent des vêtements faits pour le grand air : il est donc logique qu'elles veuillent protéger l'environnement par tous les moyens.
 
-Pantalon technique Berghaus MTN Information MW – Noir  
+C'est bon pour la planète, mais aussi pour votre garde-robe : la marque britannique répare gratuitement n'importe lequel de ses articles (vous ne payez que les frais de port), aussi souvent que nécessaire, jusqu'à ce que le vêtement ne puisse plus être sauvé. À ce moment-là, Berghaus propose un remplacement si le produit est encore sous garantie. Sinon, elle le recycle (avec votre accord) et vous offre 30 % de réduction sur un nouvel article.
 
-Les fabricants de plein air savent sous quel aspect leur pain est beurré. Des entreprises comme Berghaus produisent des vêtements conçus pour le grand air, il est donc logique qu’elles veuillent protéger l’environnement à tout prix.
+## Levi's
 
-Non seulement c’est bon pour Maman Nature, mais c’est aussi bon pour nos garde-robes, la marque britannique réparant n’importe lequel de ses articles gratuitement (vous ne couvrez que les frais de transport), autant de fois que vous le souhaitez, jusqu’à ce que le vêtement en question ne puisse plus être conservé. À ce moment-là, Berghaus proposera un remplacement si le produit est garanti. Si ce n’est pas le cas, il le recyclera (avec votre autorisation) et vous offrira également 30 % de réduction sur une nouveauté.
+Étant donné qu'il s'agit du jean le plus vendu au monde, le Levi's Tailor Store reste étonnamment discret. Cela vaut pourtant le détour quand vous avez la chance d'en avoir un à portée de main.
 
-_Découvrez-en plus au Berghaus_
-
-## Lévi’s
-
-Jean Levi’s 501® ’54  
-
-Veste camionneur Levi’s  
-
-Considérant qu’il s’agit du modèle de denim le plus vendu au monde, Levi’s Tailor Store est étonnamment discret. Mais cela vaut vraiment la peine d’y aller lorsque vous êtes à proximité de l’un des nombreux endroits.
-
-Les tailleurs et couturières expérimentés qui y travaillent ne peuvent pas seulement vous aider à obtenir des jeans parfaitement ajustés – en raccourcissant les ourlets, en ajustant la taille ou en effilant les jambes – ils sont également capables de restaurer votre denim, de le personnaliser à l’aide de patchs ou de dorures et même de recycler vos jeans en quelque chose de neuf uniquement.
-
-_Découvrez-en plus chez Levi ’s_
+Les tailleurs et retoucheurs qui y travaillent peuvent non seulement vous aider à obtenir un jean parfaitement ajusté — ourlets raccourcis, taille reprise, jambes affinées — mais aussi restaurer votre denim, le personnaliser avec des patchs ou des broderies, et même recycler votre vieux jean en une pièce neuve.
 
 ## Crockett & Jones
 
-Crockett & Veau de cavalerie Jones Boston Bourgogne  
+Au-delà des nombreux avantages qu'offrent les chaussures cousues Goodyear par rapport aux modèles à semelles collées, la possibilité de les faire ressemeler indéfiniment est un atout évident.
 
-Crockett & Jones Audley Veau Noir  
+De nombreux cordonniers de référence du Northamptonshire proposent des services de remise à neuf pour leurs chaussures, mais notre coup de cœur va à Crockett & Jones. Les réparations sont effectuées dans la même usine historique où la marque fabrique ses chaussures depuis plus d'un siècle, et le savoir-faire est sans égal.
 
-Mis à part les nombreux avantages en matière de qualité que les chaussures cousues Goodyear offrent par rapport aux modèles à semelles collées moins chères, la possibilité de les faire ressemeler encore et encore est un avantage évident.
+## Patagonia
 
-De nombreux cordonniers de renommée mondiale du Northamptonshire proposent des services de remise à neuf de leurs chaussures, mais nous avons obtenu un appel d’offres pour Crockett & Jones. Les réparations ont lieu dans la même usine historique dans laquelle la marque produit des chaussures depuis plus d’un siècle et, de toute évidence, le savoir-faire est sans égal.
+L'environnementalisme étant au cœur de l'ADN de la marque, il n'est pas surprenant que Patagonia ait mis en place un service de réparation étendu pour sa gamme de vêtements d'extérieur.
 
-_Découvrez-en davantage chez Crockett & Jones_
-
-## Patagonie
-
-Veste Patagonia Torrentshell 3L  
-
-Veste Patagonia Basic Retro-X  
-
-L’environnementalisme étant si ancré dans la tradition de la marque, il n’est pas surprenant que Patagonia ait pris sur elle d’offrir un service de réparation étendu pour sa gamme spectaculaire de vêtements d’extérieur.
-
-Patagonia propose déjà toutes sortes de vêtements créés à partir de matériaux recyclés, Patagonia propose un service de réparation bon marché et encourage le recyclage des vêtements usagés ou inutilisables dans la mesure du possible.
-
-_Découvrez-en plus à Patagonia_
+En plus de proposer de nombreux vêtements conçus à partir de matériaux recyclés, Patagonia offre un service de réparation abordable et encourage le recyclage des vêtements usés ou inutilisables dans la mesure du possible.
 
 ## Filson
 
-Chemise d’information Filson Alaskan  
+L'équipe derrière la marque américaine Filson sait que ses vêtements sont souvent portés en extérieur et peuvent donc avoir besoin de petites réparations de temps en temps.
 
-Sac de sport Filson Medium Dry  
+Filson est fidèle à ses pièces — avec une garantie à vie contre les défauts de tissu, de fabrication ou de confection — et propose également un service de réparation dans la mesure du possible.
 
-Les gens derrière le mannequin américain Filson savent que leurs vêtements sont parfois portés en plein air et peuvent donc avoir besoin d’être réparés de temps en temps.
+## Nudie Jeans
 
-Bien que Filson soit fidèle à ses vêtements – offrant une garantie à vie contre les défauts de tissu, les défauts de fabrication et tout défaut – il propose néanmoins des réparations dans la mesure du possible.
+Un bon jean se doit d'être résistant. Il faut aussi éviter de le laver trop souvent — sur l'envers si possible, pour préserver la couleur — et nettoyer uniquement les zones qui en ont besoin pour prolonger sa durée de vie.
 
-_En savoir plus chez Filson_
+Bonne nouvelle : lorsque vous investissez dans un Nudie Jeans, vous avez plusieurs options pour lui redonner une seconde jeunesse. Emmenez-le dans les Repair Shops ou pop-up stores de la marque (qu'ils appellent leurs stations de réparation), confiez-le à un réparateur partenaire agréé, ou commandez un kit de réparation gratuit si vous êtes dans un coin reculé.
 
-## Jeans nus
-
-Nudie Grim Tim Jean  
-
-Chemise en jean Nudie Sven Heavy Blues  
-
-Un joli jean doit être résistant. Vous devez également éviter de les laver trop souvent – à l’envers si possible pour éviter la décoloration – et nettoyer les endroits nécessaires pour prolonger leur durée de vie.
-
-La bonne nouvelle est que lorsque vous avez investi dans une paire de Nudie Denims, vous disposez de plusieurs options pour les restaurer. Emmenez-les dans les points de restauration et les pop-ups, nom de leur station de restauration cellulaire, emmenez-les chez un associé de restauration agréé ou, lorsque vous vous trouvez dans un endroit particulièrement éloigné, commandez un équipement de restauration gratuit.
-
-Nudie utilise même de vieux jeans envoyés par des clients pour des correctifs de restauration.
-
-_En savoir plus chez Nudie_
+Nudie réutilise même les vieux jeans envoyés par ses clients pour fabriquer des pièces de réparation.
 
 ## Finisterre
 
-Veste imperméable Finisterre The Rainbird  
+Marque à l'origine tournée vers le surf, Finisterre partage avec Patagonia une véritable philosophie de défense de l'environnement. La dernière chose que la marque souhaite, c'est voir ses matériaux finir dans l'océan.
 
-T-Shirt Finisterre Chaton  
-
-Principalement appelé un modèle de surf, le Finisterre ressemble beaucoup à la Patagonie en ce qui concerne la défense de l’environnement. La toute dernière chose que Finisterre désire, c’est que des matériaux indésirables apparaissent dans la mer.
-
-Le modèle a vécu et vécu. Cherished Repairs Service fait partie intégrante de son identification depuis le début, et le formulaire en ligne est facile à remplir avec le vêtement normalement réparé et retourné dans un délai de trois à six semaines.
-
-_Découvrez plus au Finisterre_
+Finisterre a su rester fidèle à ses principes depuis ses débuts, et son Cherished Repairs Service fait partie intégrante de son identité. Le formulaire en ligne est simple à remplir, et le vêtement est normalement réparé puis retourné sous trois à six semaines.

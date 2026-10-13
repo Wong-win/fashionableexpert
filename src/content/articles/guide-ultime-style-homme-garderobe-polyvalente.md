@@ -1,15 +1,15 @@
 ---
 title: "Le guide ultime du style pour hommes : créer une garde-robe polyvalente pour chaque occasion"
 date: "2026-03-10"
-postSlug: "the-ultimate-mens-style-guide-building-a-versatile-wardrobe-for-every-occasion"
+postSlug: "guide-ultime-style-homme-garderobe-polyvalente"
 year: "2026"
 month: "03"
 day: "10"
 categories: ["Style masculin"]
 categorySlugs: ["mens-style"]
-excerpt: "Le guide ultime du style pour hommes : créer une garde-robe polyvalente pour chaque occasion Le style masculin a énormément évolué ces dernières années. Les anciennes règles – costumes sombres pour le travail, jeans pour le week-end, et pas grand-chose entre les deux – ont cédé la place à une approche vestimentaire plus nuancée et plus ..."
+excerpt: "Le style masculin a évolué : les anciennes règles ont cédé la place à une approche plus nuancée. Ce guide ultime vous aide à construire une garde-robe polyvalente adaptée à chaque occasion."
 image: "/images/article3_cover.jpg"
-urlPath: "/2026/03/10/the-ultimate-mens-style-guide-building-a-versatile-wardrobe-for-every-occasion"
+urlPath: "/2026/03/10/guide-ultime-style-homme-garderobe-polyvalente"
 ---
 
 # Le guide ultime du style pour hommes : créer une garde-robe polyvalente pour chaque occasion

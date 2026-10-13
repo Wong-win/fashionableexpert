@@ -1,181 +1,117 @@
 ---
-title: "Vêtements de nuit : les meilleurs fabricants de smokings pour hommes"
+title: "Vêtements de nuit : les meilleurs fabricants de smokings pour hommes"
 date: "2026-02-11"
-postSlug: "night-apparel-the-finest-tuxedo-manufacturers-for-males"
+postSlug: "meilleurs-costumes-smoking-homme"
 year: "2026"
 month: "02"
 day: "11"
 categories: ["Style masculin"]
 categorySlugs: ["mens-style"]
-excerpt: "Le smoking, qui est effectivement l'uniforme standard du code vestimentaire à cravate noire, est quelque chose que chaque homme devrait avoir le plaisir de porter au moins une fois dans sa vie. En tant qu'ensemble par défaut pour les occasions formelles de soirée, il est intrinsèquement glamour, tendance et compliqué. Donc, que ce soit la ..."
-image: "/images/ee50562a7c253ee75e6526a5a296123c.jpg"
-urlPath: "/2026/02/11/night-apparel-the-finest-tuxedo-manufacturers-for-males"
+excerpt: "Le smoking reste l'uniforme de référence du grand soir. Voici les marques qui le travaillent le mieux, du prêt-à-porter accessible aux maisons sur mesure, et nos conseils pour le porter avec élégance."
+image: "/images/meilleurs-costumes-smoking-homme.jpg"
+urlPath: "/2026/02/11/meilleurs-costumes-smoking-homme"
 ---
 
-Le smoking, qui est effectivement l’uniforme standard du code vestimentaire à cravate noire, est quelque chose que chaque homme devrait avoir le plaisir de porter au moins une fois dans sa vie. En tant qu’ensemble par défaut pour les occasions formelles de soirée, il est intrinsèquement glamour, tendance et compliqué.
+Le smoking, véritable uniforme de référence du code vestimentaire à cravate noire, est un vêtement que chaque homme devrait avoir le plaisir de porter au moins une fois dans sa vie. Tenue par excellence des grandes occasions en soirée, il est par nature glamour, intemporel et raffiné.
 
-Donc, que ce soit la première fois que vous enfilez un costume de pingouin ou que vous cherchiez à améliorer vos tenues de soirée pour faire face à un calendrier social chargé, nous passons ici en revue les préoccupations que vous devriez prendre en compte avant d’acheter un smoking, les fabricants qui fabriquent actuellement des smokings de la meilleure qualité et les méthodes modernes par lesquelles vous pourrez le modéliser. Il est temps de réparer, d’avoir l’air soigné.
+Que vous enfiliez un smoking pour la première fois ou que vous cherchiez à renouveler votre garde-robe de soirée pour faire face à un calendrier social chargé, nous passons ici en revue les points à considérer avant l'achat, les maisons qui confectionnent aujourd'hui les plus beaux smokings et les façons modernes de le porter. L'objectif : un tombé impeccable, sans faux pli.
 
 ## Veste de soirée ou smoking ?
 
-Favourbrook
+Pour dissiper toute confusion d'emblée, un smoking est un smoking : il s'agit d'une seule et même pièce.
 
-Pour dissiper toute confusion d’emblée, un smoking est un smoking et un smoking est un smoking : c’est une seule et même chose.
+La raison pour laquelle deux appellations ont longtemps coexisté de part et d'autre de l'Atlantique s'explique par une jolie anecdote. Comme le raconte l'histoire, le tailleur de Savile Row Henry Poole & Co a été chargé par le futur Édouard VII, en 1865, de lui confectionner une veste confortable dans laquelle il pourrait dîner, las qu'il était de rester assis en redingote à queue de pie.
 
-La raison pour laquelle deux surnoms ont été utilisés pour essentiellement le même vêtement des deux côtés de l’océan Atlantique sera expliquée par la prochaine anecdote : comme le raconte l’histoire, le tailleur de Savile Row, Henry Poole & Co a été chargé par Édouard VII en 1865 de lui confectionner une veste appropriée dans laquelle il pourrait dîner, car il avait assez de devoir s’asseoir régulièrement dans une redingote à file d’attente de tarte.
+Poole a ainsi créé ce que les Britanniques appellent le « dinner jacket » : une veste courte sur mesure, noire, à revers en pointe ou à col châle en gros-grain de soie, sans queue. La pièce, totalement neuve et sophistiquée, a attiré l'attention de l'un des espoirs américains de Poole, un certain James Potter de Tuxedo Park, dans l'État de New York.
 
-Poole a ainsi créé ce que l’on appelle au Royaume-Uni le smoking : une veste sur mesure noire à revers en pointe ou à revers en écharpe, avec revers en gros-grain de soie et sans queue. Étant quelque chose de complètement nouveau et sophistiqué, le smoking a attiré l’attention de l’un des espoirs américains de Poole, un certain James Potter de Tuxedo Park, New York.
+Potter a rapporté la veste aux États-Unis, où ses amis et relations s'en sont inspirés pour se faire tailler la leur. Le reste appartient à l'histoire : ils furent rapidement surnommés les « Tuxedo Boys » de New York, et le nom est resté.
 
-Potter a ramené son fils smoking aux États-Unis, où ses amis et associés en ont un peu imaginé un pour eux-mêmes, et voilà, ils sont rapidement devenus connus sous le nom de « Tuxedo Boys » de New York.
+## Faut-il louer ou acheter son smoking ?
 
-## Devez-vous louer ou acheter un fumeur ?
+La question de la location ou de l'achat est un peu subjective. Si les occasions de participer à des soirées à cravate noire se comptent sur les doigts d'une main, la location sera certainement l'option la moins coûteuse et n'encombrera pas votre vestiaire.
 
-Favourbrook
+L'inconvénient, c'est qu'un smoking loué n'aura jamais la même allure qu'un modèle bien à vous. D'un point de vue purement esthétique, nous vous recommandons donc toujours l'achat.
 
-La question de louer ou d’acheter un tabac est un peu subjective. Si les opportunités à long terme pour assister à des soirées cravates noires sont minces ou proches de zéro, alors la location sera certainement l’option la moins chère et ne détournera aucune pièce de votre garde-robe.
+Cela ne signifie pas pour autant que l'addition doit être astronomique. La voie Savile Row existe, et les smokings des grandes maisons de couture sont eux aussi très chers, mais on trouve aujourd'hui d'excellentes options à des prix plus accessibles (voir notre sélection ci-dessous) où le rapport qualité-prix reste très favorable.
 
-L’inconvénient, en fait, est que le fumer loué ne sera jamais aussi beau que le vôtre, donc d’un point de vue purement esthétique, nous vous recommandons toujours d’en acheter un.
+## Les meilleures marques de smoking pour homme
 
-Cela ne doit pas nécessairement être extrêmement coûteux non plus. En fait, vous pouvez emprunter la voie de Savile Row et dépenser une somme importante, et les smokings de créateurs de luxe sont également assez chers, mais il existe des options plus abordables et de bonne qualité (voir notre liste de marques ci-dessous) qui ne font pas le calcul du coût par usure assez si époustouflant.
-
-## Les meilleurs fabricants de cigarettes pour hommes
-
-Lorsque vous avez décidé de financer votre investissement, voici les marques de tabac que vous devriez envisager, du moins cher au plus luxueux.
+Une fois la décision d'investir prise, voici les maisons à considérer, du tarif le plus doux au plus luxueux.
 
 ### Favourbrook
 
-Veste de smoking Barathea en laine à col foulard Favourbrook  
+Basée à Pall Mall, à Londres, la maison Favourbrook a été fondée par Oliver Spencer il y a plus de vingt ans. Elle se spécialise dans les vêtements de cérémonie et le sur-mesure masculin. La marque propose une collection pérenne et soignée de pièces pour la cravate noire, notamment des smokings en laine déclinés aussi bien en revers en pointe qu'en col châle.
 
-Veste de smoking en velours de coton à finitions en satin et col foulard Chaucer Favourbrook  
+La coupe des vestes est très traditionnelle et intemporelle : investir dans un smoking Favourbrook, c'est faire le choix d'une pièce que vous pourrez porter pendant des années, à condition de rester à peu près dans la même forme.
 
-Favourbrook, situé dans le Pall Mall de Londres, a été fondé par Oliver Spencer il y a plus de 20 ans et se spécialise dans les vêtements de cérémonie et la couture pour hommes. L’entreprise produit une collection pérenne et surprenante d’options de cravates noires, notamment ses smokings en laine, qu’elle propose à la fois dans les options à revers en pointe et à revers en écharpe.
-
-La coupe des vestes est très traditionnelle et intemporelle, donc investir dans un fumoir Favourbrook est quelque chose que vous pourrez porter pour toujours, à condition de rester en forme.
-
-La marque propose également un superbe service de retouches pour s’assurer que ses smokings prêts à l’emploi s’agencent comme le feraient un service sur mesure.
-
-_Magasinez maintenant chez MR PORTER_
+La maison offre également un excellent service de retouches, pour que ses smokings prêts-à-porter épousent la silhouette comme le ferait une pièce faite sur mesure.
 
 ### Tom Ford
 
-Maillot de bain smoking deux pièces Tom Ford  
+Tom Ford s'est essentiellement fait connaître pour avoir remis la cravate noire et l'élégance du soir au cœur de la mode masculine lorsqu'il dirigeait Gucci. Depuis le lancement de sa maison éponyme en 2005, le créateur américain poursuit dans cette voie avec de magnifiques modèles de smoking.
 
-Tom Ford – Maillot de bain dîner à simple boutonnage  
+Ses créations font régulièrement le tour des tapis rouges, et pour cause : elles marient avec brio le classique et le moderne, du smoking une pièce à double boutonnage bleu marine nuit aux versions plus audacieuses en jacquard.
 
-Tom Ford est essentiellement reconnu pour avoir réintroduit la cravate noire et les tenues de soirée élégantes dans le monde de la mode masculine lorsqu’il était chez Gucci, et depuis qu’il a lancé sa marque éponyme en 2005, le créateur américain a poursuivi l’approche vestimentaire avec de magnifiques styles de smoking.
+### Alexander McQueen
 
-Ses créations sont des habitués du circuit des tapis roses pour une bonne raison : elles mélangent bien le classique et le moderne, avec des styles élégants à double boutonnage et bleu marine minuit ainsi que des options jacquard modernes plus audacieuses.
+Le style si particulier d'Alexander McQueen ne convient pas à tout le monde, mais si vous souhaitez apporter une touche avant-gardiste à votre vestiaire, il est difficile de faire mieux.
 
-Magasinez maintenant chez MATCHESFASHION
+La maison est, bien sûr, imprégnée de l'exigence de la couture : McQueen lui-même a fait ses premières armes sur Savile Row, et l'expérience de Sarah Burton dans ce domaine ne fait aucun doute.
 
-### Alexandre McQueen
-
-Alexander McQueen – Veste de smoking irrégulière en noir  
-
-Alexander McQueen – Veste de fumer réduite en noir  
-
-Le style unique d’Alexander McQueen ne convient pas à tout le monde, mais si vous cherchez à rehausser votre garde-robe avec des silhouettes avant-gardistes et des élaborations modernes, il n’y a pas de meilleur modèle.
-
-La maison est bien sûre imprégnée de couture, McQueen lui-même étudiant son métier à Savile Row et l’expérience de Sarah Burton dans le domaine est indiscutable.
-
-Le smoking McQueen est un vrai truc de tapis rouge – la maison produit un modèle irrégulier en grain de poudre noir avec des revers en pointe en satin, qui fait absolument tourner les têtes, mais vous pouvez intensifier encore plus le glamour avec son modèle découpé qui comprend un col en V profond et une découpe à l’arrière (probablement pas pour votre bureau à Noël, mais si vous assistez au gala du Met à ce moment-là…).
-
-_Magasinez maintenant chez Alexander McQueen_
+Le smoking McQueen est une pièce de tapis rouge par excellence. La maison propose notamment un modèle en grain de poudre noir à revers en pointe en satin, qui ne laisse personne indifférent. Pour décupler le glamour, on peut aussi se tourner vers sa version à découpes, avec un col en V profond et un jeu d'ouvertures dans le dos – à réserver aux grands galas, pas au bureau le vendredi.
 
 ### Ede & Ravenscroft
 
-Ede & Ravenscroft Danton Veste de dîner noire  
+Installée au pied de Savile Row, dans les Burlington Gardens, Ede & Ravenscroft est le plus ancien tailleur de Londres, fondé en 1689. Détentrice d'un Royal Warrant, la maison propose naturellement une magnifique ligne de classiques sur mesure, ainsi que de très belles variations autour du smoking.
 
-Ede & Ravenscroft Balinteer Veste en velours bleu marine  
+Pour chaque version, à simple ou double boutonnage, le choix va de la pure laine vierge à des coupes à revers en pointe ou en col châle avec parements en gros-grain de soie. À partir de 495 £ la veste, les smokings Ede & Ravenscroft incarnent l'héritage d'un tailleur à l'histoire incomparable.
 
-Ede & Ravenscroft, situé au pied de Savile Row dans les jardins de Burlington, est le plus ancien tailleur de Londres, fondé en 1689. Le détenteur du Royal Warrant propose naturellement une merveilleuse ligne de classiques sur mesure, ainsi que de belles itérations du smoking standard.
+### Suitsupply
 
-Pour chaque veste à simple et double boutonnage, le choix va de 100 % de pure laine vierge, ainsi que des types à revers en pointe et en écharpe avec des parements en gros-grain de soie, à 495 £ pièce, Ede & Les vestes de smoking de Ravenscroft symbolisent la valeur inimaginable d’un tailleur doté d’un héritage aussi riche et apprécié.
+La marque néerlandaise Suitsupply a bouleversé le secteur du prêt-à-porter masculin dès son lancement en 2000, en proposant des coupes et des pièces séparées d'un excellent rapport qualité-prix, confectionnées dans des matières de qualité issues de certaines des meilleures manufactures au monde.
 
-_Magasinez maintenant chez Ede & Ravenscroft_
+La maison propose naturellement une offre très aboutie en matière de tenues de soirée. On y retrouve tous les modèles classiques : vestes de smoking noires et bleu marine nuit à larges revers en pointe, mais aussi de très belles variations modernes à double boutonnage.
 
-### Fourniture de costumes
-
-Costumesupply – Fumer Lazio noir  
-
-Costumesupply – Fumer Lazio bleu marine  
-
-La marque néerlandaise Suitsupply a modifié le secteur de la couture lors de son lancement en 2000, en proposant des coupes et des pièces séparées à un excellent rapport qualité-prix, confectionnées dans des matériaux de haute qualité provenant de certaines des plus grandes usines du monde.
-
-Bien sûr, vous pourrez alors compter sur un superbe niveau d’expertise et de sélection en matière de tenues de soirée de l’entreprise. Tous les types standards sont là, des vestes de smoking noires et bleu marine minuit avec de larges revers en pointe, aux belles variations modernes à double boutonnage.
-
-Avec un smoking et un pantalon coûtant moins de 800 £, l’offre de Suitsupply présentera un retour sur investissement incroyable.
-
-_Magasinez maintenant chez Suitsupply_
+Avec un smoking complet à moins de 800 £, l'offre Suitsupply offre un retour sur investissement difficile à battre.
 
 ### Dolce & Gabbana
 
-Dolce & Maillot de bain smoking en jacquard de laine Gabbana  
+Vous avez probablement déjà croisé la ligne Alta Sartoria de Dolce & Gabbana : nul doute que le duo italien aime le glamour, et ce goût du spectacle vestimentaire se retrouve dans sa gamme de smokings prêts-à-porter.
 
-Dolce & Maillot de bain trois pièces à serrage simple Gabbana  
+Avec une coupe ajustée et une silhouette élancée, les smokings Dolce & Gabbana ne manquent pas d'options : des modèles classiques en laine et soie noire, qui respirent la sophistication, aux variations à double boutonnage dans le célèbre tissu Sicilia de la maison.
 
-Vous avez probablement déjà vu Dolce & Avec la ligne Alta Sartoria de Gabbana, vous réalisez que le duo italien aime le glamour, et ce sens du plaisir vestimentaire s’est infiltré dans sa gamme de smokings prêts à l’emploi.
+### Ralph Lauren Purple Label
 
-Avec une coupe slim et une silhouette svelte, Dolce & Les choix de smokings de Gabbana sont nombreux, avec des styles traditionnels en laine et en soie noire offrant une sophistication intemporelle, ainsi que des variations à double boutonnage très modernes dans le match Sicilia emblématique de la maison.
+Le Purple Label de Ralph Lauren est devenu une véritable signature du classicisme en matière de couture masculine.
 
-_Magasinez maintenant chez Farfetch_
-
-### Étiquette violette Ralph Lauren
-
-Ralph Lauren Purple Label Gregory laine Barathea écharpe smoking  
-
-Ralph Lauren Purple Label Smoking à pointe Gregory Barathea  
-
-Le Purple Label de Ralph Lauren est devenu le symbole du classicisme en matière de couture masculine.
-
-Utilisant les meilleurs matériaux pour créer des coupes intemporelles, le Purple Label regorge en fait de choix de smokings. Au premier rang d’entre eux se trouve la veste de smoking Gregory : un modèle entièrement en toile avec des revers en forme d’écharpe (un modèle à revers en pointe est également disponible), coupé à la main en laine barathea par des tailleurs italiens qualifiés et complété par des détails tels que des boutonnières et des bordures cousues à la main.
-
-_Magasinez maintenant chez Ralph Lauren_
+La ligne met les plus belles matières au service de coupes intemporelles, et l'on y trouve un choix pléthorique de smokings. En tête de gondole, la veste Gregory : un modèle entièrement doublé, à col châle (une version à revers en pointe est également disponible), taillé à la main dans une laine barathea par des artisans italiens, avec des finitions soignées comme des boutonnières et des bordures cousues main.
 
 ### Brioni
 
-Brioni Virgilio Veste de smoking en laine à finitions en soie  
+La maison romaine Brioni propose certaines des vestes de smoking prêts-à-porter les plus abouties que l'on puisse acheter, à condition d'y mettre le prix.
 
-Veste de smoking Brioni Narciso  
+Brioni n'a pas lésiné pour constituer une collection de smokings particulièrement réussie. Son modèle Policleto, entièrement doublé, est disponible en laine Super 160s et offre une coupe classique à deux boutons, à simple boutonnage, avec revers en pointe en satin.
 
-La maison de couture basée à Rome, Brioni, propose certaines des vestes de fumer prêtes à l’emploi les plus intéressantes que l’on puisse acheter en espèces, et vous aurez également besoin d’une bonne part.
-
-Brioni n’a épargné aucune dépense pour créer une collection de smokings assez intéressante. Son smoking Policleto entièrement doublé est disponible en laine Super 160s et est une veste classique à deux boutons à simple boutonnage avec des revers en pointe en satin traditionnels.
-
-La veste de smoking Narciso est chère, mais vous obtenez une œuvre d’art vestimentaire extrêmement construite, composée de cachemire, de laine et de mohair.
-
-_Magasinez maintenant chez Brioni_
+La veste Narciso est plus chère, mais on obtient une pièce d'une construction remarquable, mêlant cachemire, laine et mohair.
 
 ### Thom Sweeney
 
-Thom Sweeney Veste de smoking en coton et velours mélangés à finitions en satin  
+Le tailleur sur mesure Thom Sweeney propose une superbe collection prêt-à-porter qui comprend deux modèles de smoking fabriqués en Italie selon les exigences de la maison.
 
-Thom Sweeney – Maillot de bain à revers avec foulard  
+Taillé dans une coupe plus courte avec une silhouette élancée dans un mélange mérinos et mohair, le modèle à revers haut en bleu nuit galbe subtilement la carrure pour un drapé impeccable. Il existe également une version à col châle – les deux à simple boutonnage.
 
-Le tailleur sur mesure Thom Sweeney propose une superbe collection de prêt-à-porter comprenant deux modèles de costumes de dîner fabriqués en Italie selon les exigences exemplaires de la maison.
+### Saint Laurent
 
-Réduit avec une silhouette délicate dans un mélange de mérinos et de mohair, le modèle à revers haut en bleu nuit galbe subtilement le physique de celui qui le porte pour un drapé pur. Il existe également un modèle esthétique à revers foulard – tous deux à simple boutonnage.
+Du célèbre créateur français, qui fut le premier à imposer le smoking au vestiaire féminin, Yves Saint Laurent himself aurait sûrement apprécié les smokings actuels de sa maison de couture masculine : un trio de superbes modèles à simple et double boutonnage, en laine grain de poudre, à revers en satin et doublure de soie.
 
-_Magasinez maintenant chez Thom Sweeney_
+On a oublié les silhouettes ultra-slim de l'ancien directeur artistique Hedi Slimane : la génération actuelle du sur-mesure Saint Laurent, bien que toujours élancée, paraît mieux proportionnée et terriblement élégante.
 
-### Saint-Laurent
+## Comment bien porter son smoking
 
-Veste de smoking à finitions en soie Saint Laurent  
+S'il existe de nombreuses façons de personnaliser une tenue à cravate noire, le smoking noir ou bleu nuit reste la norme par défaut. Il se compose d'une veste en laine noir ou bleu marine nuit (le modèle à simple boutonnage reste la valeur sûre, mais on trouve aussi de très belles versions à double boutonnage), avec des revers en gros-grain de soie ou un col châle. Elle se porte avec un pantalon habillé assorti, orné d'une seule lignée de galons de soie le long de chaque jambe.
 
-Saint Laurent Veste De Smoking Croisée En Grain De Poudre  
+La chemise est généralement une chemise blanche unie en coton marcella d'épaisseur moyenne, avec un plastron (les plis et les volants restent toutefois acceptables). Un nœud papillon en soie ou en velours noir vient compléter l'ensemble classique (le look « Hollywood » se contente quant à lui d'une simple cravate noire à la place du nœud papillon).
 
-Du célèbre créateur français, qui a été le premier à accepter le smoking pour ses téléspectatrices, l’inventeur du Smoking peut être heureux des choix de smokings actuels de sa maison de mode pour hommes, qui comprend un trio de superbes smokings à simple et double bouton en laine grain de poudre avec revers en satin et doublure en soie.
+Aux pieds, on porte des richelieus noirs brillants, idéalement en cuir verni, ainsi que des chaussettes fines en soie noire. Le gilet n'est pas de mise pour une vraie cravate noire – seul un ceinturon de smoking peut venir compléter la silhouette au niveau de la taille. Un peu désuet aujourd'hui, il apporte toutefois une touche de couleur ou de motif bienvenue.
 
-Fini les silhouettes ultra-skinny de l’ancien directeur artistique Hedi Slimane : cette génération actuelle de tailleur Saint Laurent, bien que toujours svelte, semble mieux proportionnée et très élégante.
-
-_Magasinez maintenant chez Farfetch_
-
-## Comment enfiler un smoking
-
-Bien qu’il existe de nombreux choix totalement différents pour s’habiller avec une cravate noire, le smoking noir ou bleu nuit est la norme par défaut. Il comprend une veste en laine noir/bleu nuit (le simple boutonnage est le modèle incontournable, mais il existe également de nombreux jolis choix à double boutonnage) avec une visière en gros-grain en soie ou des revers d’écharpe. Il est porté avec un pantalon habillé assorti qui arbore une seule rangée de tresses de soie le long de chaque jambe extérieure.
-
-Parfois, la chemise est une chemise blanche unie en coton marcella d’épaisseur moyenne, qui comprend un plastron (bien que les plis et les volants soient également acceptables), et un nœud papillon en soie ou en velours noir est la cerise sur le gâteau traditionnel (la cravate noire « Hollywood » remplace simplement le nœud papillon par la cravate noire standard).
-
-Vous devez porter à vos pieds une paire de richelieus noirs brillants, idéalement en cuir verni, ainsi qu’une paire légère de chaussettes en soie noire. Les gilets ne sont pas un choix pour une cravate noire – le seul vêtement différent que vous pouvez porter sur votre torse est une ceinture de smoking, et bien qu’assez désuète aujourd’hui, elle offrira une bande de couleur ou de motif bienvenue.
-
-Ne négligez pas non plus la poche. Il est susceptible d’être de petite taille, mais un éclair de soie bien pensé dans votre poche de poitrine peut réellement rehausser votre look.
+Et n'oubliez pas la poche. De petite taille, elle n'en reste pas moins précieuse : un fin carré de soie bien choisi dans la pochette peut véritablement rehausser l'ensemble.

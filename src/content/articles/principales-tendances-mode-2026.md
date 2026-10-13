@@ -1,15 +1,15 @@
 ---
 title: "Les principales tendances de la mode de 2026 : du défilé à la vraie vie"
 date: "2026-03-23"
-postSlug: "the-top-fashion-trends-of-2026-from-runway-to-real-life"
+postSlug: "principales-tendances-mode-2026"
 year: "2026"
 month: "03"
 day: "23"
 categories: ["Tendance"]
 categorySlugs: ["trend"]
-excerpt: "Les principales tendances de la mode de 2026 : du défilé à la vraie vie La mode de 2026 est définie par la diversité et l'expression personnelle. L’époque où une seule tendance dominante dictait ce que chacun portait est désormais révolue. Au lieu de cela, cette année offre une gamme sans précédent de styles, de silhouettes ..."
+excerpt: "La mode de 2026 se caractérise par la diversité et l'expression personnelle. Cette année offre une liberté vestimentaire sans précédent, du luxe discret aux accessoires audacieux."
 image: "/images/article5_cover.jpg"
-urlPath: "/2026/03/23/the-top-fashion-trends-of-2026-from-runway-to-real-life"
+urlPath: "/2026/03/23/principales-tendances-mode-2026"
 ---
 
 # Les principales tendances de la mode de 2026 : du défilé à la vraie vie

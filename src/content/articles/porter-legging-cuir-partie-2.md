@@ -1,15 +1,15 @@
 ---
 title: "Comment porter le legging en cuir : astuces et inspirations (Partie 2)"
 date: "2025-12-20"
-postSlug: "find-out-how-to-put-on-leather-based-leggings-half-ii"
-image: "/images/find-out-how-to-put-on-leather-based-leggings-half-ii.jpg"
+postSlug: "porter-legging-cuir-partie-2"
+image: "/images/porter-legging-cuir-partie-2.jpg"
 year: "2025"
 month: "12"
 day: "20"
 categories: ["Mode Femme", "Tendance"]
 categorySlugs: ["womens-fashion", "trend"]
 excerpt: "Le legging en cuir reste une pièce maîtresse de la garde-robe féminine. Dans cette deuxième partie, découvrez de nouvelles façons de le porter avec audace et sophistication."
-urlPath: "/2025/12/20/find-out-how-to-put-on-leather-based-leggings-half-ii"
+urlPath: "/2025/12/20/porter-legging-cuir-partie-2"
 ---
 
 Le legging en cuir — ou simili cuir — est l'une de ces pièces polarisantes qu'on adore ou qu'on appréhende. Pourtant, bien stylisé, il devient un allié mode redoutable qui s'adapte à presque toutes les occasions. Après une première partie consacrée aux basiques, explorons des associations plus audacieuses.

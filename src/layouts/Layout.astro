@@ -23,6 +23,7 @@ const siteDescription =
   <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+        <link rel="canonical" href={new URL(Astro.url.pathname, `https://www.fashionableexpert.com`)} />
     <title>{siteTitle}</title>
     <meta name="description" content={siteDescription} />
     <link rel="icon" type="image/svg+xml" href="/favicon.svg" />
@@ -38,6 +39,16 @@ const siteDescription =
     <meta property="og:type" content="website" />
     <meta property="og:site_name" content="FashionableExpert" />
     {image && <meta property="og:image" content={image} />}
+      
+    
+      <!-- Google tag (gtag.js) -->
+    <script is:inline async src="https://www.googletagmanager.com/gtag/js?id=G-SPCRNZBWG3"></script>
+    <script is:inline>
+      window.dataLayer = window.dataLayer || [];
+      function gtag(){dataLayer.push(arguments);}
+      gtag('js', new Date());
+      gtag('config', 'G-SPCRNZBWG3');
+    </script>
   </head>
   <body>
     <Header />

@@ -1,15 +1,15 @@
 ---
 title: "Mes shorts en jean préférés de la saison"
 date: "2025-12-13"
-postSlug: "my-favourite-denim-shorts-2"
-image: "/images/my-favourite-denim-shorts-2.jpg"
+postSlug: "mes-shorts-jean-preferes"
+image: "/images/mes-shorts-jean-preferes.jpg"
 year: "2025"
 month: "12"
 day: "13"
 categories: ["Favoris en jean"]
 categorySlugs: ["denim-favorites"]
 excerpt: "Après des mois de recherche, voici ma sélection personnelle des meilleurs shorts en jean de l'année. Coupes, longueurs, lavages — il y en a pour tous les goûts."
-urlPath: "/2025/12/13/my-favourite-denim-shorts-2"
+urlPath: "/2025/12/13/mes-shorts-jean-preferes"
 ---
 
 Chaque année, la quête du short en jean parfait recommence. Et chaque année, je me dis que cette fois, je vais trouver LE modèle qui coche toutes les cases : confortable, flatteur, ni trop long ni trop court, et qui résiste à plus de trois lavages. Cette saison, j'ai testé des dizaines de modèles. Voici mes préférés.

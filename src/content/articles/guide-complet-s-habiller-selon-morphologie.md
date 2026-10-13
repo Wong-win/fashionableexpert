@@ -1,15 +1,15 @@
 ---
 title: "Le guide complet pour s'habiller en fonction de votre morphologie : des styles flatteurs pour chaque forme"
 date: "2026-03-03"
-postSlug: "the-complete-guide-to-dressing-for-your-body-type-flattering-styles-for-every-shape"
+postSlug: "guide-complet-s-habiller-selon-morphologie"
 year: "2026"
 month: "03"
 day: "03"
 categories: ["Inspiration vestimentaire"]
 categorySlugs: ["dress-inspiration"]
-excerpt: "Le guide complet pour s'habiller en fonction de votre morphologie : des styles flatteurs pour chaque forme L'une des révélations de style les plus stimulantes que vous puissiez avoir est de comprendre que la mode n'est pas une solution universelle. Les tenues qui sont superbes sur une personne peuvent sembler totalement fausses sur une autre – ..."
+excerpt: "La mode n'est pas une solution universelle. Ce guide explore comment s'habiller en fonction de sa morphologie pour mettre en valeur chaque silhouette avec style et confiance."
 image: "/images/article2_cover.jpg"
-urlPath: "/2026/03/03/the-complete-guide-to-dressing-for-your-body-type-flattering-styles-for-every-shape"
+urlPath: "/2026/03/03/guide-complet-s-habiller-selon-morphologie"
 ---
 
 # Le guide complet pour s’habiller en fonction de votre morphologie : des styles flatteurs pour chaque forme

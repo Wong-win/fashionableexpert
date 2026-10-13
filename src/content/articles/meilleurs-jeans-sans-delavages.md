@@ -1,7 +1,7 @@
 ---
 title: "Les meilleurs jeans sans déchirures : élégance intemporelle pour toutes les occasions"
 date: "2025-09-17"
-postSlug: "the-finest-non-distressed-denims"
+postSlug: "meilleurs-jeans-sans-delavages"
 image: "/images/the-finest-non-distressed-denims.jpg"
 year: "2025"
 month: "09"
@@ -9,7 +9,7 @@ day: "17"
 categories: ["Favoris en jean"]
 categorySlugs: ["denim-favorites"]
 excerpt: "Les jeans déchirés ont eu leur moment de gloire, mais le denim sans déchirures revient en force. Découvrez notre sélection des plus beaux jeans intacts pour un look propre, élégant et résolument moderne."
-urlPath: "/2025/09/17/the-finest-non-distressed-denims"
+urlPath: "/2025/09/17/meilleurs-jeans-sans-delavages"
 ---
 
 Les jeans déchirés ont dominé les tendances pendant des années, mais le vent tourne. Aujourd'hui, la mode se dirige vers des pièces plus épurées, et le **jean sans déchirures** s'impose comme l'incontournable d'une garde-robe élégante et polyvalente.

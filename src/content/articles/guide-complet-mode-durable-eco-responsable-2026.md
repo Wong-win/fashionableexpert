@@ -1,15 +1,15 @@
 ---
 title: "Mode durable : le guide complet du style écologique en 2026"
 date: "2026-04-06"
-postSlug: "sustainable-fashion-the-complete-guide-to-eco-friendly-style-in-2026"
+postSlug: "guide-complet-mode-durable-eco-responsable-2026"
 year: "2026"
 month: "04"
 day: "06"
 categories: ["Mode Femme"]
 categorySlugs: ["womens-fashion"]
-excerpt: "Mode durable : le guide complet du style écologique en 2026 L'industrie de la mode est à la croisée des chemins. Pendant des décennies, le système a été construit sur un modèle de consommation constante : produire plus de vêtements, plus rapidement et moins cher, encourageant les consommateurs à acheter, à porter brièvement et à jeter. ..."
+excerpt: "L'industrie de la mode est à la croisée des chemins. Découvrez comment construire une garde-robe durable et éthique sans sacrifier le style, avec notre guide complet 2026."
 image: "/images/article7_cover.jpg"
-urlPath: "/2026/04/06/sustainable-fashion-the-complete-guide-to-eco-friendly-style-in-2026"
+urlPath: "/2026/04/06/guide-complet-mode-durable-eco-responsable-2026"
 ---
 
 # Mode durable : le guide complet du style écologique en 2026

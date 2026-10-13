@@ -1,15 +1,15 @@
 ---
 title: "Comment prendre soin de votre denim : le guide ultime pour laver, réparer et faire durer votre jean pour toujours"
 date: "2026-04-19"
-postSlug: "how-to-care-for-your-denim-the-ultimate-guide-to-washing-repairing-and-making-your-jeans-last-forever"
+postSlug: "guide-complet-entretien-du-jean"
 year: "2026"
 month: "04"
 day: "19"
 categories: ["Favoris en jean"]
 categorySlugs: ["denim-favorites"]
-excerpt: "Comment prendre soin de votre jean : le guide ultime pour laver, réparer et faire durer votre jean pour toujours Une belle paire de jeans est un investissement. Que vous ayez dépensé 50 $ pour un jean fiable de tous les jours ou 300 $ pour un denim brut de qualité supérieure, vous voulez qu'ils durent ..."
+excerpt: "Une belle paire de jeans est un investissement qui mérite d'être préservé. Voici le guide ultime pour laver, réparer et faire durer votre denim saison après saison."
 image: "/images/a9_cover.jpg"
-urlPath: "/2026/04/19/how-to-care-for-your-denim-the-ultimate-guide-to-washing-repairing-and-making-your-jeans-last-forever"
+urlPath: "/2026/04/19/guide-complet-entretien-du-jean"
 ---
 
 # Comment prendre soin de votre jean : le guide ultime pour laver, réparer et faire durer votre jean pour toujours

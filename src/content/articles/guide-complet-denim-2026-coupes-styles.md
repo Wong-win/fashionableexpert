@@ -1,15 +1,15 @@
 ---
 title: "Le guide complet du denim en 2026 : styles, coupes et comment porter des jeans pour chaque morphologie et chaque occasion"
 date: "2026-02-25"
-postSlug: "the-complete-guide-to-denim-in-2026-styles-fits-and-how-to-wear-jeans-for-every-body-type-and-occasion"
+postSlug: "guide-complet-denim-2026-coupes-styles"
 year: "2026"
 month: "02"
 day: "25"
 categories: ["Favoris en jean"]
 categorySlugs: ["denim-favorites"]
-excerpt: "Le guide complet du denim en 2026 : styles, coupes et comment porter des jeans pour chaque morphologie et chaque occasion Le denim est depuis longtemps l'épine dorsale de la garde-robe moderne. Depuis ses humbles origines comme vêtement de travail pour les mineurs et les ouvriers à la fin du XIXe siècle jusqu'à son statut actuel ..."
+excerpt: "Le denim reste l'épine dorsale de toute garde-robe moderne. Ce guide explore les styles, coupes et façons de porter le jean pour chaque morphologie et chaque occasion en 2026."
 image: "/images/denim_cover.jpg"
-urlPath: "/2026/02/25/the-complete-guide-to-denim-in-2026-styles-fits-and-how-to-wear-jeans-for-every-body-type-and-occasion"
+urlPath: "/2026/02/25/guide-complet-denim-2026-coupes-styles"
 ---
 
 # Le guide complet du denim en 2026 : styles, coupes et comment porter des jeans pour chaque morphologie et chaque occasion

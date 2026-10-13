@@ -1,7 +1,7 @@
 ---
 title: "Les plus beaux modèles de robes en damas de la saison"
 date: "2025-06-09"
-postSlug: "newest-damask-robe-types"
+postSlug: "plus-belles-robes-damas-saison"
 image: "/images/newest-damask-robe-types.jpg"
 year: "2025"
 month: "06"
@@ -9,7 +9,7 @@ day: "09"
 categories: ["Mode Femme"]
 categorySlugs: ["womens-fashion"]
 excerpt: "Le tissu damas fait son grand retour dans la mode féminine. Découvrez les plus belles robes en damas pour un look sophistiqué et résolument élégant."
-urlPath: "/2025/06/09/newest-damask-robe-types"
+urlPath: "/2025/06/09/plus-belles-robes-damas-saison"
 ---
 
 Le damas, ce tissu noble aux motifs tissés directement dans la fibre, connaît une renaissance spectaculaire. Longtemps associé aux intérieurs classiques et aux nappes de grand-mère, il s'invite aujourd'hui dans nos garde-robes avec une modernité surprenante.
