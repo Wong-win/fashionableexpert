@@ -261,17 +261,30 @@ h1, h2, h3, h4, h5, h6 {
   grid-template-columns: 1fr 1fr;
   gap: 24px;
 }
+/* La carte principale est un colonne : son image encaisse la hauteur
+   restante quand la liste de droite est plus haute. */
+.mixed-block .main-card {
+  display: flex;
+  flex-direction: column;
+}
 .mixed-block .main-card img {
+  flex: 1 1 auto;
   height: 320px;
+  min-height: 320px;
   object-fit: cover;
 }
+/* La liste occupe toute la hauteur de la ligne : chaque article prend une
+   part égale de l'espace restant, le texte centré dans son bandeau.
+   Sans cela, un vide apparaissait sous la dernière entrée. */
 .mixed-block .list-card {
   display: flex;
   flex-direction: column;
-  gap: 16px;
 }
 .mixed-block .list-item {
-  padding-bottom: 16px;
+  flex: 1 0 auto;
+  display: flex;
+  align-items: center;
+  padding: 10px 0;
   border-bottom: 1px solid var(--color-border);
 }
 .mixed-block .list-item:last-child { border-bottom: none; }

@@ -24,10 +24,11 @@ if (hero) markShown(hero);
 const featured = articles.filter((a) => a.data.featured && isNew(a));
 featured.forEach(markShown);
 
-// 3. Category sections: each gets 4 deduped articles from that category
+// 3. Category sections: each gets 5 deduped articles from that category
+//    (1 en carte principale + 4 dans la liste latérale)
 const catArticles = [];
 for (const cat of categories) {
-  const picked = articles.filter((a) => a.data.categorySlugs.includes(cat.slug) && isNew(a)).slice(0, 4);
+  const picked = articles.filter((a) => a.data.categorySlugs.includes(cat.slug) && isNew(a)).slice(0, 5);
   picked.forEach(markShown);
   catArticles.push({ ...cat, articles: picked });
 }
