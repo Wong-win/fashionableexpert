@@ -88,19 +88,28 @@ const consentMaxAge = String(siteInfo.consent.maxAgeDays * 24 * 3600 * 1000);
         /**
          * Supprime les cookies et le stockage local de mesure d'audience
          * (_ga, _ga_XXXX, _gcs) ainsi que ceux des réseaux d'affiliation.
+         *
+         * Un cookie ne peut être supprimé que si le domaine et le chemin
+         * correspondent à ceux utilisés lors de son dépôt : Google Analytics
+         * pose ses cookies sur le domaine principal (fashionableexpert.com),
+         * pas sur le sous-domaine www. On essaie donc toutes les variantes.
          */
         function purgeOptionalCookies() {
           try {
+            var host = location.hostname;
+            var bare = host.replace(/^www\./, "");
+            var domains = [null, host, bare, "." + bare];
             var cookies = document.cookie ? document.cookie.split(";") : [];
             for (var i = 0; i < cookies.length; i++) {
               var name = cookies[i].split("=")[0].trim();
               if (!name) continue;
               if (/^_ga/.test(name) || name === "_gcs" || /^kwkn/i.test(name)) {
-                document.cookie = name + "=;expires=Thu, 01 Jan 1970 00:00:00 GMT;path=/";
-                document.cookie =
-                  name +
-                  "=;expires=Thu, 01 Jan 1970 00:00:00 GMT;path=/;domain=" +
-                  location.hostname;
+                for (var d = 0; d < domains.length; d++) {
+                  document.cookie =
+                    name +
+                    "=;expires=Thu, 01 Jan 1970 00:00:00 GMT;path=/" +
+                    (domains[d] ? ";domain=" + domains[d] : "");
+                }
               }
             }
             Object.keys(localStorage).forEach(function (k) {
