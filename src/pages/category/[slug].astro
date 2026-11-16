@@ -51,11 +51,6 @@ const articles = (await getCollection("articles"))
           <h3 class="card-title">
             <a href={`/${a.data.year}/${a.data.month}/${a.data.day}/${a.data.postSlug}/`}>{a.data.title}</a>
           </h3>
-          <div class="card-meta">
-            {new Date(a.data.date).toLocaleDateString("fr-FR", {
-              year: "numeric", month: "long", day: "numeric",
-            })}
-          </div>
           {a.data.excerpt && <p class="card-excerpt">{a.data.excerpt.slice(0, 120)}...</p>}
         </div>
       </div>

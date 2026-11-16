@@ -17,7 +17,7 @@ export async function getStaticPaths() {
 
 const { article } = Astro.props;
 const { Content } = await article.render();
-const { title, date, categories, categorySlugs, image, excerpt } = article.data;
+const { title, categories, categorySlugs, image, excerpt } = article.data;
 ---
 
 <Layout
@@ -34,26 +34,18 @@ const { title, date, categories, categorySlugs, image, excerpt } = article.data;
       />
     )}
     <h1>{title}</h1>
-    <div class="article-meta">
-      <time datetime={date}>
-        {new Date(date).toLocaleDateString("fr-FR", {
-          year: "numeric",
-          month: "long",
-          day: "numeric",
-        })}
-      </time>
-      {
-        categories.length > 0 && (
-          <span> &middot; </span>
-        )
-      }
-      {categories.map((cat: string, i: number) => (
-        <span>
-          <a href={`/category/${categorySlugs[i] || cat.toLowerCase().replace(/ /g, "-")}/`} class="card-category">{cat}</a>
-          {i < categories.length - 1 && ", "}
-        </span>
-      ))}
-    </div>
+    {
+      categories.length > 0 && (
+        <div class="article-meta">
+          {categories.map((cat: string, i: number) => (
+            <span>
+              <a href={`/category/${categorySlugs[i] || cat.toLowerCase().replace(/ /g, "-")}/`} class="card-category">{cat}</a>
+              {i < categories.length - 1 && ", "}
+            </span>
+          ))}
+        </div>
+      )
+    }
     <div class="article-content">
       <Content />
     </div>

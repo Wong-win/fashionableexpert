@@ -1,6 +1,8 @@
 ---
 import Header from "../components/Header.astro";
 import Footer from "../components/Footer.astro";
+import CookieConsent from "../components/CookieConsent.astro";
+import { siteInfo } from "../data/site-info";
 import "../styles/global.css";
 
 export interface Props {
@@ -16,6 +18,7 @@ const siteTitle = title
 const siteDescription =
   description ||
   "Inspiration vestimentaire, tendances mode femme, style masculin et favoris en jean — votre magazine mode au quotidien.";
+const consentMaxAge = String(siteInfo.consent.maxAgeDays * 24 * 3600 * 1000);
 ---
 
 <!doctype html>
@@ -39,15 +42,192 @@ const siteDescription =
     <meta property="og:type" content="website" />
     <meta property="og:site_name" content="FashionableExpert" />
     {image && <meta property="og:image" content={image} />}
-      
-    
-      <!-- Google tag (gtag.js) -->
-    <script is:inline async src="https://www.googletagmanager.com/gtag/js?id=G-SPCRNZBWG3"></script>
+
+    <!-- Configuration du module de consentement (source unique : src/data/site-info.ts) -->
+    <meta name="fe-ga-id" content={siteInfo.analytics.id} />
+    <meta name="fe-consent-key" content={siteInfo.consent.storageKey} />
+    <meta name="fe-consent-max-age" content={consentMaxAge} />
+
+    <!--
+      Consentement cookies + chargement de la mesure d'audience.
+
+      Principe retenu : la mesure d'audience est chargée par défaut, sans
+      attendre un choix, afin que chaque visite soit comptée comme un hit
+      réel. Seul un refus explicite (bouton « Refuser », ou signal DNT/GPC)
+      la neutralise. Les signaux « Do Not Track » et « Global Privacy
+      Control » sont lus comme un refus : aucun traceur de mesure n'est
+      alors chargé et les cookies déjà déposés sont purgés.
+    -->
     <script is:inline>
-      window.dataLayer = window.dataLayer || [];
-      function gtag(){dataLayer.push(arguments);}
-      gtag('js', new Date());
-      gtag('config', 'G-SPCRNZBWG3');
+      (function () {
+        var metaGa = document.querySelector('meta[name="fe-ga-id"]');
+        var metaKey = document.querySelector('meta[name="fe-consent-key"]');
+        var metaAge = document.querySelector('meta[name="fe-consent-max-age"]');
+        var GA_ID = metaGa ? metaGa.getAttribute("content") : "";
+        var KEY = metaKey ? metaKey.getAttribute("content") : "fe_cookie_consent";
+        var MAX_AGE = metaAge ? parseInt(metaAge.getAttribute("content"), 10) : 15552000000;
+
+        /**
+         * « Do Not Track » (DNT) et « Global Privacy Control » (GPC) sont
+         * lus comme un refus : ces signaux valent expression du choix de
+         * l'utilisateur. Un choix explicite fait depuis le lien
+         * « Gérer les cookies » reste prioritaire.
+         */
+        function privacySignalRequested() {
+          try {
+            return (
+              navigator.globalPrivacyControl === true ||
+              navigator.doNotTrack === "1" ||
+              navigator.doNotTrack === "yes"
+            );
+          } catch (e) {
+            return false;
+          }
+        }
+
+        /**
+         * Supprime les cookies et le stockage local de mesure d'audience
+         * (_ga, _ga_XXXX, _gcs) ainsi que ceux des réseaux d'affiliation.
+         */
+        function purgeOptionalCookies() {
+          try {
+            var cookies = document.cookie ? document.cookie.split(";") : [];
+            for (var i = 0; i < cookies.length; i++) {
+              var name = cookies[i].split("=")[0].trim();
+              if (!name) continue;
+              if (/^_ga/.test(name) || name === "_gcs" || /^kwkn/i.test(name)) {
+                document.cookie = name + "=;expires=Thu, 01 Jan 1970 00:00:00 GMT;path=/";
+                document.cookie =
+                  name +
+                  "=;expires=Thu, 01 Jan 1970 00:00:00 GMT;path=/;domain=" +
+                  location.hostname;
+              }
+            }
+            Object.keys(localStorage).forEach(function (k) {
+              if (/^_ga/.test(k) || /^kwkn/i.test(k)) localStorage.removeItem(k);
+            });
+          } catch (e) {}
+        }
+
+        window.FE_CONSENT = {
+          key: KEY,
+          maxAge: MAX_AGE,
+          get: function () {
+            try {
+              var raw = localStorage.getItem(this.key);
+              if (!raw) return null;
+              var c = JSON.parse(raw);
+              if (!c || typeof c.ts !== "number" || Date.now() - c.ts > this.maxAge) {
+                localStorage.removeItem(this.key);
+                return null;
+              }
+              return c;
+            } catch (e) {
+              return null;
+            }
+          },
+          set: function (c) {
+            c.ts = Date.now();
+            try {
+              localStorage.setItem(this.key, JSON.stringify(c));
+            } catch (e) {}
+            window.dispatchEvent(new CustomEvent("fe:consent-changed", { detail: c }));
+          },
+          allows: function (cat) {
+            var c = this.get();
+            return !!(c && c[cat]);
+          },
+          purge: function () {
+            purgeOptionalCookies();
+          },
+          privacySignal: function () {
+            return privacySignalRequested();
+          },
+          loadAnalytics: function () {
+            loadAnalytics();
+          },
+        };
+
+        window.dataLayer = window.dataLayer || [];
+        window.gtag =
+          window.gtag ||
+          function () {
+            window.dataLayer.push(arguments);
+          };
+        // La mesure d'audience est autorisée par défaut : chaque visite est
+        // comptée. Aucune finalité publicitaire n'est autorisée.
+        window.gtag("consent", "default", {
+          analytics_storage: "granted",
+          ad_storage: "denied",
+          ad_user_data: "denied",
+          ad_personalization: "denied",
+        });
+
+        function loadAnalytics() {
+          if (!GA_ID || document.getElementById("fe-ga-script")) return;
+          var s = document.createElement("script");
+          s.id = "fe-ga-script";
+          s.async = true;
+          s.src = "https://www.googletagmanager.com/gtag/js?id=" + GA_ID;
+          document.head.appendChild(s);
+          window.gtag("js", new Date());
+          window.gtag("config", GA_ID);
+        }
+
+        function applyConsent(c) {
+          var analytics = !!(c && c.analytics);
+          window.gtag("consent", "update", {
+            analytics_storage: analytics ? "granted" : "denied",
+            ad_storage: "denied",
+            ad_user_data: "denied",
+            ad_personalization: "denied",
+          });
+          if (analytics) loadAnalytics();
+          else purgeOptionalCookies();
+        }
+
+        // ---- Démarrage ----
+        var stored = window.FE_CONSENT.get();
+
+        // DNT / GPC : refus exprimé par le navigateur. Aucun traceur de
+        // mesure n'est chargé, le bandeau ne s'affiche pas et ce qui a pu
+        // être déposé auparavant est effacé.
+        if (privacySignalRequested()) {
+          window.FE_CONSENT.set({ necessary: true, analytics: false, ts: Date.now() });
+          purgeOptionalCookies();
+          window.gtag("consent", "update", {
+            analytics_storage: "denied",
+            ad_storage: "denied",
+            ad_user_data: "denied",
+            ad_personalization: "denied",
+          });
+          return;
+        }
+
+        // Mesure d'audience : chargée par défaut (hit réel à chaque visite),
+        // sauf si un refus a déjà été enregistré lors d'une visite précédente.
+        if (!stored || stored.analytics !== false) {
+          loadAnalytics();
+          window.gtag("consent", "update", {
+            analytics_storage: "granted",
+            ad_storage: "denied",
+            ad_user_data: "denied",
+            ad_personalization: "denied",
+          });
+        } else {
+          window.gtag("consent", "update", {
+            analytics_storage: "denied",
+            ad_storage: "denied",
+            ad_user_data: "denied",
+            ad_personalization: "denied",
+          });
+          purgeOptionalCookies();
+        }
+
+        window.addEventListener("fe:consent-changed", function (e) {
+          applyConsent(e.detail);
+        });
+      })();
     </script>
   </head>
   <body>
@@ -56,5 +236,6 @@ const siteDescription =
       <slot />
     </main>
     <Footer />
+    <CookieConsent />
   </body>
 </html>

@@ -1,6 +1,9 @@
 /sitemap.xml /sitemap-index.xml 301
 /google3475bcd281c72eda.html /google3475bcd281c72eda.html 200
 
+# Ancienne page « politique de confidentialité » remplacée par la version RGPD complète
+/privacy-policy/ /politique-de-confidentialite/ 301
+
 # Slug migration 2026-09-07 (English → French)
 /2025/08/08/12-gorgeous-braided-bob-types/ /2025/08/08/12-magnifiques-types-bob-tresses/ 301
 /2025/10/14/20-newest-and-trending-ankara-flare-quick-robes/ /2025/10/14/20-robes-evasees-ankara-tendance/ 301

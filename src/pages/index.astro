@@ -54,11 +54,6 @@ const latest = articles.filter(isNew).slice(0, 8);
           <h2 class="card-title">
             <a href={postUrl(hero)}>{hero.data.title}</a>
           </h2>
-          <div class="card-meta">
-            {new Date(hero.data.date).toLocaleDateString("fr-FR", {
-              year: "numeric", month: "long", day: "numeric",
-            })}
-          </div>
           <a href={postUrl(hero)} class="btn-read-more">READ MORE</a>
         </div>
       </div>
@@ -88,9 +83,6 @@ const latest = articles.filter(isNew).slice(0, 8);
                 ))}
               </div>
               <h3 class="card-title"><a href={postUrl(cat.articles[0])}>{cat.articles[0].data.title}</a></h3>
-              <div class="card-meta">
-                {new Date(cat.articles[0].data.date).toLocaleDateString("fr-FR", { year: "numeric", month: "long", day: "numeric" })}
-              </div>
             </div>
           </div>
           <!-- Side list -->
@@ -98,9 +90,6 @@ const latest = articles.filter(isNew).slice(0, 8);
             {cat.articles.slice(1).map((a) => (
               <div class="list-item">
                 <a href={postUrl(a)}>{a.data.title}</a>
-                <div class="card-meta" style="margin-top:4px">
-                  {new Date(a.data.date).toLocaleDateString("fr-FR", { year: "numeric", month: "long", day: "numeric" })}
-                </div>
               </div>
             ))}
           </div>

@@ -1,0 +1,255 @@
+---
+import { siteInfo } from "../data/site-info";
+
+const hasAds = siteInfo.adNetworks.length > 0;
+---
+
+<div id="fe-cc" class="fe-cc" hidden>
+  <div class="fe-cc__box" role="dialog" aria-modal="false" aria-label="Gestion des cookies">
+    <p class="fe-cc__text">
+      <strong>Ce site mesure votre audience.</strong>
+      {siteInfo.analytics.provider} compte les visites et les articles lus, sans revente de données ni profilage
+      publicitaire.
+      {
+        hasAds ? (
+          <>
+            {" "}Nos partenaires d'affiliation ne diffusent de la publicité qu'avec votre accord.
+          </>
+        ) : (
+          <>
+            {" "}Ce site ne comporte aucune publicité, aucune bannière et aucun lien d'affiliation.
+          </>
+        )
+      }{" "}Cloudflare mesure la fréquentation de façon anonyme, sans cookie ni identifiant publicitaire. Vous pouvez
+      accepter, refuser ou personnaliser à tout moment.
+      <a href="/politique-de-confidentialite/#cookies">Politique de confidentialité</a>
+    </p>
+    <div class="fe-cc__actions">
+      <button type="button" class="fe-cc__btn" data-action="refuse">Refuser</button>
+      <button type="button" class="fe-cc__btn" data-action="accept">Accepter</button>
+      <button type="button" class="fe-cc__link" data-action="customise">Personnaliser</button>
+    </div>
+  </div>
+
+  <div class="fe-cc__panel" id="fe-cc-panel" hidden>
+    <h2 class="fe-cc__title">Préférences de cookies</h2>
+    <ul class="fe-cc__list">
+      <li class="fe-cc__item">
+        <label class="fe-cc__label">
+          <input type="checkbox" data-cat="analytics" checked />
+          <span>Mesure d'audience</span>
+        </label>
+        <p class="fe-cc__desc">
+          {siteInfo.analytics.provider} compte les visites et les articles lus. Aucune revente de données, aucun usage
+          publicitaire. Si vous refusez, les cookies de mesure sont supprimés de votre navigateur et la mesure n'est
+          plus chargée lors de vos visites suivantes.
+        </p>
+      </li>
+      <li class="fe-cc__item">
+        <label class="fe-cc__label">
+          <input type="checkbox" checked disabled />
+          <span>Sécurité et mesure d'audience anonyme</span>
+        </label>
+        <p class="fe-cc__desc">
+          {siteInfo.hosting.name} protège le site contre les requêtes automatisées abusives et mesure la fréquentation
+          sans cookie, sans identifiant publicitaire et sans suivi d'une page à l'autre. Ce traceur est anonyme : il
+          n'est pas désactivable depuis cette page.
+        </p>
+      </li>
+    </ul>
+    <div class="fe-cc__actions">
+      <button type="button" class="fe-cc__btn" data-action="refuse">Tout refuser</button>
+      <button type="button" class="fe-cc__btn" data-action="save">Enregistrer mes choix</button>
+    </div>
+  </div>
+</div>
+
+<style>
+  .fe-cc {
+    position: fixed;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    z-index: 1000;
+    font-family: var(--font-sans);
+  }
+  .fe-cc[hidden] {
+    display: none;
+  }
+  .fe-cc__box,
+  .fe-cc__panel {
+    background: #111;
+    color: #e8e6e1;
+    border-top: 1px solid rgba(255, 255, 255, 0.1);
+  }
+  .fe-cc__box {
+    max-width: var(--max-width);
+    margin: 0 auto;
+    padding: 1.1rem 1rem;
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    gap: 1rem;
+  }
+  .fe-cc__text {
+    flex: 1 1 460px;
+    font-size: 0.82rem;
+    line-height: 1.55;
+    margin: 0;
+    color: #b8b5b0;
+  }
+  .fe-cc__text strong {
+    color: #fff;
+    display: block;
+    margin-bottom: 0.2rem;
+    font-size: 0.88rem;
+  }
+  .fe-cc__text a {
+    color: #fff;
+    text-decoration: underline;
+    text-underline-offset: 2px;
+  }
+  .fe-cc__actions {
+    display: flex;
+    align-items: center;
+    gap: 0.5rem;
+    flex-wrap: wrap;
+  }
+  /* Refuser et Accepter : même taille, même poids visuel, même nombre de clics. */
+  .fe-cc__btn {
+    font-family: inherit;
+    font-size: 0.82rem;
+    font-weight: 600;
+    color: #fff;
+    background: transparent;
+    border: 1px solid rgba(255, 255, 255, 0.4);
+    border-radius: 3px;
+    padding: 0.6rem 1.15rem;
+    cursor: pointer;
+    min-width: 110px;
+    transition: background 0.15s, border-color 0.15s;
+  }
+  .fe-cc__btn:hover {
+    background: rgba(255, 255, 255, 0.12);
+    border-color: rgba(255, 255, 255, 0.7);
+  }
+  .fe-cc__link {
+    font-family: inherit;
+    font-size: 0.8rem;
+    color: #b8b5b0;
+    background: none;
+    border: 0;
+    padding: 0.4rem 0.2rem;
+    cursor: pointer;
+    text-decoration: underline;
+    text-underline-offset: 2px;
+  }
+  .fe-cc__link:hover {
+    color: #fff;
+  }
+  .fe-cc__panel {
+    max-width: var(--max-width);
+    margin: 0 auto;
+    padding: 1.25rem 1rem 1.4rem;
+    border-top: 1px solid rgba(255, 255, 255, 0.06);
+  }
+  .fe-cc__panel[hidden] {
+    display: none;
+  }
+  .fe-cc__title {
+    font-size: 0.95rem;
+    font-weight: 700;
+    color: #fff;
+    margin: 0 0 0.9rem;
+    font-family: var(--font-sans);
+  }
+  .fe-cc__list {
+    list-style: none;
+    margin: 0 0 1rem;
+    padding: 0;
+    display: grid;
+    gap: 0.85rem;
+  }
+  .fe-cc__label {
+    display: flex;
+    align-items: center;
+    gap: 0.55rem;
+    font-size: 0.85rem;
+    font-weight: 600;
+    color: #fff;
+    cursor: pointer;
+  }
+  .fe-cc__label input {
+    width: 16px;
+    height: 16px;
+    accent-color: var(--color-accent);
+    cursor: pointer;
+  }
+  .fe-cc__label input:disabled {
+    opacity: 0.6;
+    cursor: not-allowed;
+  }
+  .fe-cc__desc {
+    font-size: 0.78rem;
+    line-height: 1.5;
+    color: #9d9a94;
+    margin: 0.25rem 0 0 1.65rem;
+  }
+  @media (max-width: 640px) {
+    .fe-cc__box {
+      flex-direction: column;
+      align-items: stretch;
+    }
+    .fe-cc__actions {
+      justify-content: stretch;
+    }
+    .fe-cc__btn {
+      flex: 1;
+    }
+  }
+</style>
+
+<script>
+  const root = document.getElementById("fe-cc");
+  const panel = document.getElementById("fe-cc-panel");
+  if (root && panel && window.FE_CONSENT) {
+    const analyticsBox = panel.querySelector<HTMLInputElement>('[data-cat="analytics"]');
+
+    const show = () => {
+      root.hidden = false;
+      panel.hidden = true;
+    };
+    const hide = () => {
+      root.hidden = true;
+      panel.hidden = true;
+    };
+
+    const write = (analytics: boolean) => {
+      window.FE_CONSENT.set({ necessary: true, analytics, ts: Date.now() });
+      if (!analytics) window.FE_CONSENT.purge();
+      hide();
+    };
+
+    const openPreferences = () => {
+      const c = window.FE_CONSENT.get();
+      if (analyticsBox) analyticsBox.checked = c ? c.analytics !== false : true;
+      root.hidden = false;
+      panel.hidden = false;
+    };
+
+    root.addEventListener("click", (event) => {
+      const target = event.target as HTMLElement;
+      const action = target.getAttribute("data-action");
+      if (!action) return;
+      if (action === "accept") write(true);
+      else if (action === "refuse") write(false);
+      else if (action === "customise") openPreferences();
+      else if (action === "save") write(!!(analyticsBox && analyticsBox.checked));
+    });
+
+    // API exposée pour le pied de page (« Gérer les cookies »).
+    window.FE_CONSENT.openPreferences = openPreferences;
+
+    if (!window.FE_CONSENT.get() && !window.FE_CONSENT.privacySignal()) show();
+  }
+</script>

@@ -1,0 +1,213 @@
+---
+import Layout from "../layouts/Layout.astro";
+import { siteInfo, publisherAddressHtml } from "../data/site-info";
+---
+
+<Layout
+  title="Mentions légales"
+  description="Mentions légales de FashionableExpert — éditeur, direction de la publication, hébergeur, publicité et propriété intellectuelle."
+>
+  <div class="page-content legal">
+    <h1>Mentions légales</h1>
+
+    <p class="legal-lead">
+      Conformément à la loi n° 2004-575 du 21 juin 2004 pour la confiance dans l'économie
+      numérique (LCEN) et à la directive 2000/31/CE du 8 juin 2000 relative à la médiation en
+      matière de commerce électronique, les informations suivantes sont mises à la disposition
+      des utilisateurs du site <strong>{siteInfo.domain}</strong>.
+    </p>
+
+    <h2>1. Éditeur du site</h2>
+    <ul class="legal-list">
+      <li><strong>Nom du site :</strong> {siteInfo.siteName}</li>
+      <li><strong>Éditeur :</strong> {siteInfo.publisher.name}</li>
+      <li><strong>Qualité :</strong> {siteInfo.publisher.role}</li>
+      <li><strong>Statut :</strong> {siteInfo.publisher.legalStatus}</li>
+      <li><strong>Adresse :</strong> <span set:html={publisherAddressHtml} /></li>
+      <li><strong>Adresse électronique :</strong>
+        <a href={`mailto:${siteInfo.publisher.email}`}>{siteInfo.publisher.email}</a></li>
+      <li><strong>Téléphone :</strong> {siteInfo.publisher.phone}</li>
+      <li><strong>Immatriculation :</strong> non applicable — l'éditeur est une personne physique
+        qui n'est pas immatriculée au Registre du commerce et des sociétés, ni à un registre
+        public équivalent au Royaume-Uni.</li>
+    </ul>
+
+    <h2>2. Direction de la publication</h2>
+    <p>
+      {siteInfo.publisher.directorOfPublication} assume la responsabilité de l'information
+      publiée sur {siteInfo.domain}, conformément à l'article 6 de la loi n° 2004-575 du 21 juin
+      2004 pour la confiance dans l'économie numérique. Les demandes relatives aux contenus
+      publiés peuvent être adressées via la page de <a href="/contact-me/">contact</a> : elles sont
+      traitées sans délai.
+    </p>
+
+    <h2>3. Hébergeur</h2>
+    <ul class="legal-list">
+      <li><strong>Hébergeur :</strong> {siteInfo.hosting.name}</li>
+      <li><strong>Adresse :</strong> {siteInfo.hosting.address}</li>
+      <li><strong>Téléphone :</strong> {siteInfo.hosting.phone}</li>
+      <li><strong>Site web :</strong>
+        <a href={siteInfo.hosting.url} target="_blank" rel="noopener noreferrer">{siteInfo.hosting.url}</a></li>
+    </ul>
+    <p>
+      Le site est hébergé sur le réseau de distribution de contenu Cloudflare Pages. Les fichiers
+      du site sont répliqués sur des serveurs de distribution situés notamment dans l'Union
+      européenne, afin de servir les pages au plus près des visiteurs.
+    </p>
+
+    <h2>4. Publicité et liens d'affiliation</h2>
+    {
+      siteInfo.adNetworks.length > 0 ? (
+        <>
+          <p>
+            Ce site est financé par la publicité d'affiliation. Lorsqu'un visiteur suit un lien
+            d'affiliation et réalise un achat, une commission est perçue auprès du marchand. Ce
+            mécanisme n'entraîne aucun surcoût pour le visiteur : le prix affiché et payé reste
+            identique, et le classement des produits présentés n'est jamais dicté par la
+            rémunération perçue.
+          </p>
+          <p>
+            Les régies et réseaux d'affiliation mobilisés sur ce site sont les suivants. Cette
+            liste n'est pas limitative et peut évoluer : le détail à jour des traceurs déposés
+            figure dans notre <a href="/politique-de-confidentialite/">politique de
+            confidentialité</a>.
+          </p>
+          <ul class="legal-list">
+            {
+              siteInfo.adNetworks.map((n) => (
+                <li>
+                  <strong>{n.name}</strong> — {n.role}
+                  {n.legalId && <> ({n.legalId})</>}
+                  {n.address && <> — {n.address}</>}
+                </li>
+              ))
+            }
+          </ul>
+        </>
+      ) : (
+        <>
+          <p>
+            À ce jour, ce site ne comporte <strong>ni publicité, ni bannière publicitaire, ni lien
+            d'affiliation</strong>. Aucun réseau d'affiliation ni aucune régie publicitaire n'y est
+            mobilisé, et aucun traceur publicitaire n'y est déposé. Les contenus publiés sont
+            présentés sans rémunération de la part des marques citées.
+          </p>
+          <p>
+            Si un lien d'affiliation ou une régie publicitaire était introduit ultérieurement,
+            cette page serait mise à jour : la liste des réseaux concernés, l'identification de
+            l'annonceur et le détail des traceurs déposés y figureraient, ainsi que dans notre
+            <a href="/politique-de-confidentialite/">politique de confidentialité</a>.
+          </p>
+        </>
+      )
+    }
+
+    <h2>5. Marques et produits mentionnés</h2>
+    <p>
+      Les noms de marques, enseignes et produits cités dans les articles demeurent la propriété
+      de leurs titulaires respectifs. L'éditeur n'est lié à aucune de ces marques, n'est pas
+      mandaté par elles et n'est pas responsable du contenu des sites tiers vers lesquels ces
+      articles renvoient.
+    </p>
+
+    <h2>6. Propriété intellectuelle</h2>
+    <p>
+      L'ensemble des éléments composant ce site — textes, photographies, illustrations, identité
+      visuelle, structure, code source et bases de données — est protégé par le droit d'auteur et
+      demeure la propriété de l'éditeur ou de ses contributeurs.
+    </p>
+    <p>
+      Toute reproduction, totale ou partielle, de tout ou partie des contenus, sans autorisation
+      écrite préalable, est interdite. Les demandes de reproduction peuvent être adressées via la
+      page de <a href="/contact-me/">contact</a>. Les demandes de retrait d'un contenu sont
+      traitées sans délai.
+    </p>
+
+    <h2>7. Crédits photographiques</h2>
+    <p>
+      Les photographies illustrant les articles proviennent principalement d'Unsplash, plateforme
+      distribuée sous licence Unsplash, qui autorise l'utilisation commerciale et éditoriale sans
+      attribution obligatoire. Certaines illustrations proviennent d'autres sources libres de
+      droits. L'ensemble des visuels est hébergé sur le site lui-même.
+    </p>
+
+    <h2>8. Responsabilité</h2>
+    <p>
+      Les informations publiées sur ce site le sont à titre indicatif, sur la base des
+      connaissances disponibles à la date de rédaction. L'éditeur met tout en œuvre pour assurer
+      l'exactitude des informations, mais ne saurait être tenu responsable d'une erreur
+      typographique, d'une omission, de l'indisponibilité temporaire d'un contenu, ni d'un dommage
+      direct ou indirect résultant de l'utilisation du site ou des sites tiers cités.
+    </p>
+    <p>
+      Les conseils de mode publiés sur ce site sont de portée générale : ils ne constituent ni un
+      avis médical, ni une prestation individualisée, et ne remplacent pas la consultation d'un
+      professionnel qualifié. L'utilisateur reste seul responsable des achats qu'il effectue et de
+      l'usage qu'il fait des produits présentés.
+    </p>
+
+    <h2>9. Droit applicable et juridiction compétente</h2>
+    <p>
+      Le site s'adresse à un public francophone. Le droit français lui est applicable. En cas de
+      litige, et après recherche d'une solution amiable, les tribunaux français seront seuls
+      compétents pour en connaître. L'éditeur, établi au Royaume-Uni, est par ailleurs soumis à la
+      législation britannique qui lui est applicable, notamment en matière de protection des
+      données (UK GDPR).
+    </p>
+
+    <h2>10. Contact</h2>
+    <p>
+      Pour toute question relative au site, à ses contenus ou à l'exercice de vos droits, vous
+      pouvez nous écrire à l'adresse <a href={`mailto:${siteInfo.publisher.email}`}>{siteInfo.publisher.email}</a>
+      ou utiliser la page <a href="/contact-me/">contact</a>.
+    </p>
+  </div>
+</Layout>
+
+<style>
+  .legal h1 {
+    font-family: var(--font-serif);
+    font-size: 2rem;
+    margin-bottom: 16px;
+  }
+  .legal-lead {
+    color: var(--color-muted);
+    font-size: 0.92rem;
+    line-height: 1.6;
+    padding-bottom: 1.25rem;
+    margin-bottom: 0.5rem;
+    border-bottom: 1px solid var(--color-border);
+  }
+  .legal h2 {
+    font-size: 1.02rem;
+    font-weight: 700;
+    text-transform: uppercase;
+    letter-spacing: 0.04em;
+    margin: 1.9rem 0 0.7rem;
+    padding-bottom: 0.4rem;
+    border-bottom: 2px solid var(--color-border);
+  }
+  .legal p {
+    font-size: 0.93rem;
+    line-height: 1.7;
+    color: var(--color-text);
+    margin-bottom: 0.9rem;
+  }
+  .legal a {
+    color: var(--color-accent-dark);
+  }
+  .legal-list {
+    list-style: none;
+    margin: 0 0 0.9rem;
+    padding: 0;
+  }
+  .legal-list li {
+    font-size: 0.93rem;
+    line-height: 1.7;
+    padding: 0.2rem 0;
+    border-bottom: 1px dashed var(--color-border);
+  }
+  .legal-list li:last-child {
+    border-bottom: 0;
+  }
+</style>
