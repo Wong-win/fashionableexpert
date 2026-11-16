@@ -12,8 +12,6 @@ image: "/images/article2_cover.jpg"
 featured: true
 ---
 
-# Le guide complet pour s’habiller en fonction de votre morphologie : des styles flatteurs pour chaque forme
-
 L’une des révélations de style les plus stimulantes que vous puissiez avoir est de comprendre que la mode n’est pas une solution universelle. Les tenues qui sont superbes sur une personne peuvent sembler totalement fausses sur une autre – et ce n’est pas un défaut chez vous ou dans les vêtements. C’est simplement une question d’alignement. Lorsque vous comprenez votre type de corps et apprenez quelles silhouettes, coupes et proportions conviennent le mieux à votre forme unique, tout change. Faire les courses devient plus facile. S’habiller devient plus agréable. Et votre façon de vous comporter se transforme parce que vous vous sentez enfin en confiance dans ce que vous portez.
 
 Ce guide complet vous aidera à identifier votre type de corps et vous fournira des conseils détaillés et pratiques sur la façon de vous habiller de manière à mettre en valeur vos meilleurs atouts et à vous sentir incroyable chaque jour.

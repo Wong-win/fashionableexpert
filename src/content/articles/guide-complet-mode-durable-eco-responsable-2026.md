@@ -12,8 +12,6 @@ image: "/images/article7_cover.jpg"
 featured: true
 ---
 
-# Mode durable : le guide complet du style écologique en 2026
-
 L’industrie de la mode est à la croisée des chemins. Pendant des décennies, le système a été construit sur un modèle de consommation constante : produire plus de vêtements, plus rapidement et moins cher, encourageant les consommateurs à acheter, à porter brièvement et à jeter. Les coûts environnementaux et humains de ce système sont devenus impossibles à ignorer. L’industrie de la mode est responsable d’environ 10 % des émissions mondiales de carbone, soit plus que les vols internationaux et le transport maritime réunis. C’est le deuxième consommateur d’eau au monde, et la teinture textile est le deuxième pollueur d’eau potable au monde. Environ 85 % de tous les textiles produits finissent dans les décharges chaque année, et moins de 1 % des vêtements sont recyclés en nouveaux vêtements.
 
 Ces statistiques donnent à réfléchir, mais elles ne représentent pas tout. Partout dans le monde, les créateurs, les marques et les consommateurs s’efforcent de construire un meilleur système de mode, respectueux à la fois des personnes et de la planète. La mode durable est passée d’une préoccupation de niche à un mouvement grand public, et en 2026, il existe plus d’options que jamais pour s’habiller de manière éthique et élégante. Ce guide vous aidera à comprendre ce que signifie la mode durable et comment créer une garde-robe qui correspond à vos valeurs sans compromettre le style.

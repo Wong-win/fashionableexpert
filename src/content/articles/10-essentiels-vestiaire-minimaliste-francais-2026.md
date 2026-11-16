@@ -11,8 +11,6 @@ excerpt: "En 2026, le vestiaire minimaliste à la française n'est plus une tend
 image: "/images/minimalist-wardrobe-fr-2026-cover.jpg"
 ---
 
-# Les 10 essentiels du vestiaire minimaliste français en 2026 : moins d'achats, plus de style
-
 Je possède trente-quatre vêtements. Pas cent, pas deux cents. Trente-quatre, recensés sur un tableur après un dimanche pluvieux de novembre 2024, un peu par défi, beaucoup par curiosité. En mars 2026, j'en possédais quarante et un. Sept ajouts en dix-huit mois. C'est moins que ce que j'achetais en un trimestre avant de commencer cette expérience. Le vestiaire minimaliste à la française n'a rien d'austère ni de rigoriste : c'est une discipline d'achat qui consiste à choisir dix pièces qui se marient entre elles, à cesser de courir après les collections capsules, et à accepter que le style durable se construit mieux sur cinq ans que sur cinq semaines. Voici la liste précise de ce qui fonctionne vraiment, après deux saisons complètes d'usage réel.
 
 ## Ce que j'utilise vraiment

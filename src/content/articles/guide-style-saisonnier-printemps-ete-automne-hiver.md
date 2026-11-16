@@ -12,8 +12,6 @@ image: "/images/a10_cover.jpg"
 featured: true
 ---
 
-# Guide de style saisonnier : que porter au printemps, en été, en automne et en hiver
-
 L’une des caractéristiques déterminantes d’une grande garde-robe est son adaptabilité aux saisons. Les personnes les plus élégantes n’ont pas de garde-robe séparée pour chaque saison, mais plutôt une collection de base de pièces toute l’année complétée par des ajouts saisonniers qui s’adaptent aux changements climatiques, aux activités et aux humeurs esthétiques. Maîtriser l’habillage saisonnier vous permet d’extraire un maximum d’utilité de votre garde-robe tout en restant confortable et élégant tout au long de l’année.
 
 Ce guide complet couvre les considérations clés pour chaque saison (des tissus et des couleurs aux silhouettes et aux stratégies de superposition) pour vous aider à créer une garde-robe qui vous servira à merveille à chaque saison. Les principes ici s’appliquent aussi bien aux hommes qu’aux femmes, avec des recommandations spécifiques que vous pouvez adapter à votre style personnel et à votre climat.

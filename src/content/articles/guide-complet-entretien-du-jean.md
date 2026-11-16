@@ -11,8 +11,6 @@ excerpt: "Une belle paire de jeans est un investissement qui mérite d'être pr�
 image: "/images/a9_cover.jpg"
 ---
 
-# Comment prendre soin de votre jean : le guide ultime pour laver, réparer et faire durer votre jean pour toujours
-
 Une belle paire de jeans est un investissement. Que vous ayez dépensé 50 $ pour un jean fiable de tous les jours ou 300 $ pour un denim brut de qualité supérieure, vous voulez qu’ils durent le plus longtemps possible. La bonne nouvelle est que le denim est l’un des tissus les plus durables de votre garde-robe lorsqu’il est correctement entretenu. La mauvaise nouvelle est que la plupart des gens détruisent involontairement leurs jeans à cause de mauvaises habitudes de lavage, de séchage et de stockage.
 
 L’entretien du jean n’est pas difficile, mais il nécessite de désapprendre certaines habitudes courantes. La façon dont la plupart des gens lavent leurs vêtements – eau chaude, détergent agressif, séchage en machine – est particulièrement dommageable pour le denim. En apportant quelques changements simples à la façon dont vous entretenez vos jeans, vous pouvez prolonger considérablement leur durée de vie, économiser de l’argent sur les remplacements et développer une patine personnalisée qui rendra votre jean unique.

@@ -12,8 +12,6 @@ image: "/images/article3_cover.jpg"
 featured: true
 ---
 
-# Le guide ultime du style pour hommes : créer une garde-robe polyvalente pour chaque occasion
-
 Le style masculin a énormément évolué ces dernières années. Les anciennes règles – costumes sombres pour le travail, jeans pour le week-end, et pas grand-chose entre les deux – ont cédé la place à une approche vestimentaire plus nuancée et plus expressive. L’homme bien habillé d’aujourd’hui comprend que le style ne consiste pas à suivre des règles rigides mais à comprendre les principes de coupe, de proportion, de couleur et d’occasion qui lui permettent de faire des choix en toute confiance à chaque fois qu’il s’habille.
 
 Que vous construisiez votre garde-robe à partir de zéro ou que vous cherchiez à rehausser votre style existant, ce guide complet vous guidera à travers tout ce que vous devez savoir. De la compréhension des principes fondamentaux de l’ajustement à la maîtrise de l’art de l’accessoirisation, considérez ceci comme votre manuel complet pour bien vous habiller dans tous les aspects de votre vie.
