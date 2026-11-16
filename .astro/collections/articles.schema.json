@@ -42,8 +42,9 @@
         "image": {
           "type": "string"
         },
-        "urlPath": {
-          "type": "string"
+        "featured": {
+          "type": "boolean",
+          "default": false
         },
         "$schema": {
           "type": "string"
@@ -55,8 +56,7 @@
         "postSlug",
         "year",
         "month",
-        "day",
-        "urlPath"
+        "day"
       ],
       "additionalProperties": false
     }

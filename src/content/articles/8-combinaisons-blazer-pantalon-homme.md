@@ -9,7 +9,6 @@ categories: ["Inspiration vestimentaire"]
 categorySlugs: ["dress-inspiration"]
 excerpt: "Apéritifs, événements, dîners, dates, vernissages : ces moments où le costume complet fait trop, mais où une tenue décontractée fait un peu juste. Découvrez 8 combinaisons blazer-pantalon toujours élégantes."
 image: "/images/8-combinaisons-blazer-pantalon-homme.jpg"
-urlPath: "/2026/01/29/8-combinaisons-blazer-pantalon-homme"
 ---
 
 Apéritifs, événements professionnels, dîners, dates et vernissages. Ce sont ces moments intermédiaires où un costume complet fait trop formel, mais où une tenue entièrement décontractée peut paraître un peu juste. Pour l'homme soucieux de son style, il existe une troisième voie. Mais elle inquiète souvent ceux qui ne l'ont jamais tentée.

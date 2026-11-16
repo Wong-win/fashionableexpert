@@ -9,7 +9,6 @@ categories: ["Style masculin"]
 categorySlugs: ["mens-style"]
 excerpt: "Silhouette culte héritée de l'armée, le blouson aviateur traverse les décennies sans prendre une ride. Voici les marques qui signent les plus belles pièces du moment."
 image: "/images/meilleurs-blousons-aviateur-homme.jpg"
-urlPath: "/2025/11/03/meilleurs-blousons-aviateur-homme"
 ---
 
 Sur les quais n'est sans doute pas le film le plus mémorable de Marlon Brando, mais il y a un détail qui reste gravé dans les mémoires : un blouson de vol en peau de mouton retournée absolument magnifique. Une silhouette qui respire une masculinité sans complexe.

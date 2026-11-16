@@ -9,7 +9,6 @@ categories: ["Inspiration vestimentaire"]
 categorySlugs: ["dress-inspiration"]
 excerpt: "Le jean noir est l'une des pièces les plus polyvalentes du vestiaire masculin. Voici six combinaisons fiables pour le porter avec style, du rendez-vous habillé au look épuré du quotidien."
 image: "/images/6-tenues-jean-noir-homme.jpg"
-urlPath: "/2025/06/22/6-tenues-jean-noir-homme"
 ---
 
 Un jean noir est l'une des pièces les plus polyvalentes de la garde-robe masculine. Il est à la fois sobre, décontracté, totalement trans-saisonnier, et il est pratiquement impossible de l'associer de travers.

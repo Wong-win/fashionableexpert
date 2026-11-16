@@ -9,7 +9,6 @@ day: "30"
 categories: ["Favoris en jean"]
 categorySlugs: ["denim-favorites"]
 excerpt: "La tendance skinny a fait son temps. Découvrez les coupes alternatives qui offrent confort et style sans sacrifier l'élégance. Voici les jeans non-skinny qui ont conquis ma garde-robe cette année."
-urlPath: "/2025/04/30/jeans-non-skinny-que-jaime-porter"
 ---
 
 Si vous êtes comme moi, vous avez passé la dernière décennie à porter des jeans skinny quasiment tous les jours. Mais avouons-le : la coupe skinny, bien que flatteuse, n'est pas toujours la plus confortable. Ces dernières années, j'ai exploré des alternatives et je ne reviendrai pas en arrière.

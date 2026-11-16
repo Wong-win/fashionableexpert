@@ -9,7 +9,7 @@ categories: ["Mode Femme"]
 categorySlugs: ["womens-fashion"]
 excerpt: "Les personnes les plus élégantes ne possèdent pas une garde-robe par saison, mais une collection de bases complétée par des ajouts saisonniers. Notre guide annuel vous accompagne du printemps à l'hiver."
 image: "/images/a10_cover.jpg"
-urlPath: "/2026/04/26/guide-style-saisonnier-printemps-ete-automne-hiver"
+featured: true
 ---
 
 # Guide de style saisonnier : que porter au printemps, en été, en automne et en hiver

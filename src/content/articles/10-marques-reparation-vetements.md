@@ -9,7 +9,6 @@ categories: ["Style masculin"]
 categorySlugs: ["mens-style"]
 excerpt: "Un vêtement bien fait se reconnaît à sa durée de vie. Découvrez dix marques qui proposent un service de réparation pour prolonger la vie de vos pièces préférées."
 image: "/images/10-marques-reparation-vetements.jpg"
-urlPath: "/2026/01/09/10-marques-reparation-vetements"
 ---
 
 La règle générale pour juger un véritable investissement vestimentaire, c'est de regarder combien de temps il va durer. Beaucoup de vêtements que nous achetons s'abîment au bout de quelques lavages à peine. À l'heure où l'impact environnemental de la mode est sur toutes les lèvres, il vaut mieux se demander comment faire durer ses vêtements plus longtemps.

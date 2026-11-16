@@ -9,7 +9,6 @@ categories: ["Favoris en jean", "Mode Femme"]
 categorySlugs: ["denim-favorites", "womens-fashion"]
 excerpt: "Le jean boyfriend est la pièce caméléon par excellence. Décontracté en journée, chic en soirée : voici comment le porter 24h/24 sans jamais vous ennuyer."
 image: "/images/jean-boyfriend-journee-soiree.jpg"
-urlPath: "/2025/12/07/jean-boyfriend-journee-soiree"
 ---
 
 Le jean boyfriend doit son nom à cette coupe empruntée au vestiaire masculin : une taille basse ou mi-haute, des hanches généreuses et des jambes légèrement loose qui se resserrent sur la cheville. C'est le jean du confort absolu — et avec les bons accords, il se porte du petit-déjeuner au dernier verre.

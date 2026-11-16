@@ -1,29 +1,30 @@
 ---
-// Header.astro — mirrored from WordPress Pixwell theme navigation
+// Header.astro — navigation, recherche et menu mobile
 ---
 
 <header class="site-header">
   <div class="header-inner">
-    <a href="/" class="logo-link" aria-label="FashionableExpert Home">
+    <a href="/" class="logo-link" aria-label="FashionableExpert — accueil">
       <span class="logo-text">Fashionable<span class="logo-accent">Expert</span></span>
     </a>
 
-    <nav class="main-nav" aria-label="Main navigation">
-      <a href="/" class="nav-link active">Home</a>
+    <nav class="main-nav" aria-label="Navigation principale">
+      <a href="/" class="nav-link active">Accueil</a>
       <a href="/category/mens-style/" class="nav-link">Style masculin</a>
       <a href="/category/trend/" class="nav-link">Tendance</a>
       <a href="/category/dress-inspiration/" class="nav-link">Inspiration vestimentaire</a>
       <a href="/category/womens-fashion/" class="nav-link">Mode Femme</a>
       <a href="/category/denim-favorites/" class="nav-link">Favoris en jean</a>
+      <a href="/articles/" class="nav-link">Tous les articles</a>
     </nav>
 
-    <button class="search-toggle" aria-label="Search" id="searchToggle">
+    <button class="search-toggle" aria-label="Rechercher" id="searchToggle">
       <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
         <circle cx="11" cy="11" r="8"/><line x1="21" y1="21" x2="16.65" y2="16.65"/>
       </svg>
     </button>
 
-    <button class="mobile-menu-toggle" aria-label="Menu" id="mobileMenuToggle">
+    <button class="mobile-menu-toggle" aria-label="Ouvrir le menu" id="mobileMenuToggle">
       <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
         <line x1="3" y1="6" x2="21" y2="6"/><line x1="3" y1="12" x2="21" y2="12"/><line x1="3" y1="18" x2="21" y2="18"/>
       </svg>
@@ -37,26 +38,29 @@
         type="text"
         id="searchInput"
         class="search-input"
-        placeholder="Rechercher..."
+        placeholder="Rechercher un article…"
         autocomplete="off"
+        aria-label="Rechercher un article"
       />
-      <button class="search-close" id="searchClose" aria-label="Close search">
+      <button class="search-close" aria-label="Fermer la recherche" id="searchClose">
         <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
           <line x1="18" y1="6" x2="6" y2="18"/><line x1="6" y1="6" x2="18" y2="18"/>
         </svg>
       </button>
+      <p class="search-status" id="searchStatus" aria-live="polite"></p>
       <div class="search-results" id="searchResults"></div>
     </div>
   </div>
 
   <!-- Mobile nav -->
   <div class="mobile-nav" id="mobileNav">
-    <a href="/" class="nav-link">Home</a>
+    <a href="/" class="nav-link">Accueil</a>
     <a href="/category/mens-style/" class="nav-link">Style masculin</a>
     <a href="/category/trend/" class="nav-link">Tendance</a>
     <a href="/category/dress-inspiration/" class="nav-link">Inspiration vestimentaire</a>
     <a href="/category/womens-fashion/" class="nav-link">Mode Femme</a>
     <a href="/category/denim-favorites/" class="nav-link">Favoris en jean</a>
+    <a href="/articles/" class="nav-link">Tous les articles</a>
   </div>
 </header>
 
@@ -66,36 +70,98 @@
   const searchClose = document.getElementById('searchClose');
   const searchInput = document.getElementById('searchInput');
   const searchResults = document.getElementById('searchResults');
+  const searchStatus = document.getElementById('searchStatus');
   const mobileMenuToggle = document.getElementById('mobileMenuToggle');
   const mobileNav = document.getElementById('mobileNav');
 
+  const closeSearch = () => {
+    searchOverlay?.classList.remove('active');
+  };
+
   searchToggle?.addEventListener('click', () => {
     searchOverlay?.classList.add('active');
-    searchInput?.focus();
+    const q = new URLSearchParams(window.location.search).get('q') || '';
+    if (searchInput) {
+      searchInput.value = q;
+      searchInput.focus();
+    }
+    if (q) runSearch(q);
   });
-  searchClose?.addEventListener('click', () => searchOverlay?.classList.remove('active'));
-  mobileMenuToggle?.addEventListener('click', () => mobileNav?.classList.toggle('active'));
+  searchClose?.addEventListener('click', closeSearch);
+  searchOverlay?.addEventListener('click', (e) => {
+    if (e.target === searchOverlay) closeSearch();
+  });
+  document.addEventListener('keydown', (e) => {
+    if (e.key === 'Escape') closeSearch();
+  });
 
-  // Client-side search through pagefind or simple filter
-  let allPosts: { title: string; url: string; excerpt: string }[] = [];
-  fetch('/search-index.json')
-    .then(r => r.json())
-    .then(data => { allPosts = data; })
-    .catch(() => {});
+  mobileMenuToggle?.addEventListener('click', () => mobileNav?.classList.toggle('active'));
+  mobileMenuToggle?.addEventListener('keydown', (e) => {
+    if (e.key === 'Enter' || e.key === ' ') mobileNav?.classList.toggle('active');
+  });
+
+  // Index statique : la recherche est exécutée dans le navigateur.
+  let index = null;
+  const loadIndex = async () => {
+    if (index) return index;
+    try {
+      const r = await fetch('/search-index.json');
+      index = r.ok ? await r.json() : [];
+    } catch {
+      index = [];
+    }
+    return index;
+  };
+
+  // Comparaison insensible aux accents et à la casse.
+  const normalize = (s) =>
+    (s || '')
+      .toLowerCase()
+      .normalize('NFD')
+      .replace(/[\u0300-\u036f]/g, '')
+      .replace(/['’]/g, ' ');
+
+  const escapeHtml = (s) =>
+    (s || '').replace(/[&<>"']/g, (c) =>
+      ({ '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;', "'": '&#39;' })[c] as string
+    );
+
+  async function runSearch(term) {
+    const q = normalize(term).trim();
+    if (!q) {
+      if (searchResults) searchResults.innerHTML = '';
+      if (searchStatus) searchStatus.textContent = '';
+      return;
+    }
+    const data = await loadIndex();
+    const hits = data
+      .filter((p) => normalize(p.t).includes(q) || normalize(p.e).includes(q))
+      .slice(0, 10);
+
+    if (searchStatus) {
+      searchStatus.textContent = hits.length
+        ? `${hits.length} résultat${hits.length > 1 ? 's' : ''} pour « ${term} »`
+        : `Aucun article ne correspond à « ${term} »`;
+    }
+    if (!searchResults) return;
+    searchResults.innerHTML = hits
+      .map(
+        (p) => `
+        <a href="${p.u}" class="search-result-item">
+          <strong>${escapeHtml(p.t)}</strong>
+          <span>${escapeHtml(p.e).slice(0, 110)}…</span>
+        </a>`
+      )
+      .join('');
+  }
 
   searchInput?.addEventListener('input', () => {
-    const q = searchInput.value.toLowerCase().trim();
-    if (!searchResults) return;
-    if (q.length < 2) { searchResults.innerHTML = ''; return; }
-    const results = allPosts.filter(p =>
-      p.title.toLowerCase().includes(q) || p.excerpt.toLowerCase().includes(q)
-    ).slice(0, 10);
-    searchResults.innerHTML = results.map(p =>
-      `<a href="${p.url}" class="search-result-item">
-        <strong>${p.title}</strong>
-        <span>${p.excerpt.slice(0, 100)}...</span>
-      </a>`
-    ).join('');
+    const term = searchInput.value;
+    runSearch(term);
+    const url = new URL(window.location.href);
+    if (term) url.searchParams.set('q', term);
+    else url.searchParams.delete('q');
+    window.history.replaceState({}, '', url);
   });
 </script>
 
@@ -125,14 +191,15 @@
     letter-spacing: -0.5px;
   }
   .logo-accent { color: #c4a265; }
-  .main-nav { display: flex; gap: 24px; }
+  .main-nav { display: flex; gap: 16px; }
   .nav-link {
     text-decoration: none;
     color: #333;
-    font-size: 0.85rem;
+    font-size: 0.78rem;
     font-weight: 500;
     text-transform: uppercase;
     letter-spacing: 0.5px;
+    white-space: nowrap;
     transition: color 0.2s;
   }
   .nav-link:hover, .nav-link.active { color: #c4a265; }
@@ -150,7 +217,7 @@
     display: none;
     position: fixed;
     inset: 0;
-    background: rgba(255,255,255,0.97);
+    background: rgba(255, 255, 255, 0.97);
     z-index: 200;
     padding: 60px 20px 20px;
   }
@@ -173,7 +240,13 @@
     border: none;
     cursor: pointer;
   }
+  .search-status {
+    font-size: 0.85rem;
+    color: #777;
+    margin: 14px 0 0;
+  }
   .search-results { margin-top: 16px; }
+  .search-results:empty { margin-top: 0; }
   .search-result-item {
     display: block;
     padding: 12px 0;
@@ -182,7 +255,7 @@
     color: #333;
   }
   .search-result-item strong { display: block; margin-bottom: 4px; }
-  .search-result-item span { font-size: 0.85rem; color: #777; }
+  .search-result-item span { font-size: 0.9rem; color: #777; }
 
   /* Mobile nav */
   .mobile-nav {
@@ -195,7 +268,11 @@
   .mobile-nav.active { display: flex; }
   .mobile-nav .nav-link { padding: 10px 0; border-bottom: 1px solid #f0f0f0; }
 
-  @media (max-width: 768px) {
+  @media (max-width: 1080px) {
+    .main-nav { gap: 12px; }
+    .nav-link { font-size: 0.72rem; letter-spacing: 0.3px; }
+  }
+  @media (max-width: 900px) {
     .main-nav { display: none; }
     .mobile-menu-toggle { display: block; }
   }

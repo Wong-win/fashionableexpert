@@ -1,6 +1,8 @@
 ---
 import { getCollection } from "astro:content";
 import Layout from "../../layouts/Layout.astro";
+import { categories, categoryUrl, getCategory } from "../../lib/categories";
+import { categoryDescription, truncate } from "../../lib/format";
 
 export async function getStaticPaths() {
   const articles = await getCollection("articles");
@@ -18,20 +20,32 @@ export async function getStaticPaths() {
 
   return Array.from(catMap.keys()).map((slug) => ({
     params: { slug },
-    props: { categoryName: catMap.get(slug)!, categorySlug: slug, count: catCount.get(slug) || 0 },
+    props: {
+      categoryName: catMap.get(slug)!,
+      categorySlug: slug,
+      count: catCount.get(slug) || 0,
+    },
   }));
 }
 
 const { categoryName, categorySlug, count } = Astro.props;
+const def = getCategory(categorySlug);
+const displayName = def?.name ?? categoryName;
+const description = def?.description ?? `Articles de la catégorie ${categoryName}.`;
+const metaDesc = categoryDescription(description, count);
+
 const articles = (await getCollection("articles"))
   .filter((a) => a.data.categorySlugs.includes(categorySlug) || a.data.categories.includes(categoryName))
   .sort((a, b) => b.data.date.localeCompare(a.data.date));
+
+const others = categories.filter((c) => c.slug !== categorySlug);
 ---
 
-<Layout title={categoryName} description={`${count} articles dans ${categoryName}`}>
+<Layout title={displayName} description={metaDesc}>
   <div class="category-header">
-    <h1>{categoryName}</h1>
-    <p>{count} articles</p>
+    <h1>{displayName}</h1>
+    <p>{count} article{count > 1 ? "s" : ""}</p>
+    <p class="category-intro">{description}</p>
   </div>
 
   <div class="post-grid">
@@ -51,9 +65,58 @@ const articles = (await getCollection("articles"))
           <h3 class="card-title">
             <a href={`/${a.data.year}/${a.data.month}/${a.data.day}/${a.data.postSlug}/`}>{a.data.title}</a>
           </h3>
-          {a.data.excerpt && <p class="card-excerpt">{a.data.excerpt.slice(0, 120)}...</p>}
+          {a.data.excerpt && <p class="card-excerpt">{truncate(a.data.excerpt, 140)}</p>}
         </div>
       </div>
     ))}
   </div>
+
+  <nav class="category-switch" aria-label="Autres catégories">
+    <h2>Autres catégories</h2>
+    <ul>
+      {others.map((c) => (
+        <li><a href={categoryUrl(c.slug)}>{c.name}</a></li>
+      ))}
+    </ul>
+  </nav>
 </Layout>
+
+<style>
+  .category-intro {
+    max-width: 680px;
+    margin: 12px auto 0 !important;
+    font-size: 0.95rem !important;
+    line-height: 1.65;
+    color: var(--color-text) !important;
+  }
+  .category-switch {
+    max-width: 1200px;
+    margin: 40px auto 60px;
+    padding: 24px 20px 0;
+    border-top: 1px solid var(--color-border);
+  }
+  .category-switch h2 {
+    font-size: 0.8rem;
+    text-transform: uppercase;
+    letter-spacing: 0.06em;
+    color: var(--color-muted);
+    margin: 0 0 12px;
+    text-align: center;
+  }
+  .category-switch ul {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+    display: flex;
+    flex-wrap: wrap;
+    gap: 10px 24px;
+    justify-content: center;
+  }
+  .category-switch a {
+    color: var(--color-accent-dark);
+    text-decoration: none;
+    font-weight: 600;
+    font-size: 0.9rem;
+  }
+  .category-switch a:hover { text-decoration: underline; }
+</style>

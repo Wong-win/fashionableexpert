@@ -12,7 +12,8 @@ const articles = defineCollection({
     categorySlugs: z.array(z.string()).default([]),
     excerpt: z.string().optional(),
     image: z.string().optional(),
-    urlPath: z.string(),
+    /** Mis en avant sur la page d'accueil (section « À la une »). */
+    featured: z.boolean().default(false),
   }),
 });
 

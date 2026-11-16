@@ -9,7 +9,6 @@ categories: ["Mode Femme"]
 categorySlugs: ["womens-fashion"]
 excerpt: "Le carré tressé revient en force, des box braids courtes aux bobs en passementerie. Découvrez douze styles inspirants pour adopter la tendance avec caractère."
 image: "/images/12-magnifiques-types-bob-tresses.jpg"
-urlPath: "/2025/08/08/12-magnifiques-types-bob-tresses"
 ---
 
 Le carré tressé est l'une des coiffures protectrices les plus polyvalentes qui existent. De la box braids courte au bob en passementerie, en passant par les cornrows et les tresses peules, les déclinaisons permettent de trouver un style adapté à chaque visage, chaque occasion et chaque envie.

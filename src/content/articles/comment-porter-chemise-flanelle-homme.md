@@ -9,7 +9,6 @@ categories: ["Inspiration vestimentaire"]
 categorySlugs: ["dress-inspiration"]
 excerpt: "Chaude, robuste, indémodable : la chemise en flanelle traverse les saisons sans prendre une ride. Voici comment la porter avec style, en toutes circonstances."
 image: "/images/comment-porter-chemise-flanelle-homme.jpg"
-urlPath: "/2025/11/10/comment-porter-chemise-flanelle-homme"
 ---
 
 Il existe peu de vêtements aussi universellement appréciés que la chemise en flanelle, capable de séduire aussi bien les citadins que les amateurs de grands espaces. Chaude, robuste, résistante et indémodable, c'est une pièce essentielle pour les superpositions hivernales comme pour les saisons de transition.

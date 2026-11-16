@@ -9,7 +9,7 @@ categories: ["Favoris en jean"]
 categorySlugs: ["denim-favorites"]
 excerpt: "Le denim reste l'épine dorsale de toute garde-robe moderne. Ce guide explore les styles, coupes et façons de porter le jean pour chaque morphologie et chaque occasion en 2026."
 image: "/images/denim_cover.jpg"
-urlPath: "/2026/02/25/guide-complet-denim-2026-coupes-styles"
+featured: true
 ---
 
 # Le guide complet du denim en 2026 : styles, coupes et comment porter des jeans pour chaque morphologie et chaque occasion

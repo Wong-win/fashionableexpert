@@ -9,7 +9,6 @@ day: "13"
 categories: ["Favoris en jean"]
 categorySlugs: ["denim-favorites"]
 excerpt: "Le jean blanc est un indispensable de l'été, mais trouver le bon modèle peut virer au casse-tête. Voici notre sélection pour dénicher la perle rare, sans transparence ni compromis."
-urlPath: "/2025/05/13/meilleurs-jeans-blancs"
 ---
 
 Le jean blanc est à la garde-robe d'été ce que le jean brut est à l'hiver : un essentiel absolu. Frais, lumineux et incroyablement polyvalent, il illumine n'importe quelle tenue. Mais qui dit blanc dit aussi transparence, entretien et coupe parfois capricieuse. Voici comment déjouer tous les pièges.

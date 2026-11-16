@@ -9,7 +9,6 @@ categories: ["Style masculin"]
 categorySlugs: ["mens-style"]
 excerpt: "Le smoking reste l'uniforme de référence du grand soir. Voici les marques qui le travaillent le mieux, du prêt-à-porter accessible aux maisons sur mesure, et nos conseils pour le porter avec élégance."
 image: "/images/meilleurs-costumes-smoking-homme.jpg"
-urlPath: "/2026/02/11/meilleurs-costumes-smoking-homme"
 ---
 
 Le smoking, véritable uniforme de référence du code vestimentaire à cravate noire, est un vêtement que chaque homme devrait avoir le plaisir de porter au moins une fois dans sa vie. Tenue par excellence des grandes occasions en soirée, il est par nature glamour, intemporel et raffiné.

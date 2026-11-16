@@ -9,7 +9,6 @@ categories: ["Mode Femme"]
 categorySlugs: ["womens-fashion"]
 excerpt: "Les robes smockées Ankara épousent le corps sans effort grâce à leur buste élastiqué. Confortables, féminines et faciles à porter, elles révèlent la silhouette tout en restant flatteuses."
 image: "/images/types-robes-smockees-ankara.jpg"
-urlPath: "/2025/10/21/types-robes-smockees-ankara"
 ---
 
 Les robes smockées Ankara séduisent par la manière dont elles épousent le haut du corps, créant une silhouette douce et galbée. L'un de leurs grands avantages pratiques : elles peuvent souvent se porter sans soutien-gorge, sans risque de voir le décolleté glisser le long du buste. Une liberté rare, très appréciée au quotidien.

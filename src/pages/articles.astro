@@ -1,0 +1,82 @@
+---
+import { getCollection } from "astro:content";
+import Layout from "../layouts/Layout.astro";
+import { categories, categoryUrl } from "../lib/categories";
+import { truncate } from "../lib/format";
+
+const articles = (await getCollection("articles"))
+  .sort((a, b) => b.data.date.localeCompare(a.data.date));
+
+const title = "Tous les articles";
+const description = `L'archive complète des ${articles.length} articles de FashionableExpert : mode femme et homme, tendances, inspiration vestimentaire et denim.`;
+---
+
+<Layout title={title} description={description}>
+  <div class="archive-header">
+    <h1>{title}</h1>
+    <p>{articles.length} article{articles.length > 1 ? "s" : ""} — du plus récent au plus ancien.</p>
+    <nav class="archive-cats" aria-label="Filtrer par catégorie">
+      {categories.map((c) => (
+        <a href={categoryUrl(c.slug)}>{c.name}</a>
+      ))}
+    </nav>
+  </div>
+
+  <div class="post-grid">
+    {articles.map((a) => (
+      <div class="card">
+        {a.data.image && (
+          <a href={`/${a.data.year}/${a.data.month}/${a.data.day}/${a.data.postSlug}/`}>
+            <img src={a.data.image} alt={a.data.title} class="card-image" loading="lazy" style="height:200px" />
+          </a>
+        )}
+        <div class="card-body">
+          <div class="card-categories">
+            {a.data.categories.map((cat: string, i: number) => (
+              <a href={`/category/${a.data.categorySlugs[i] || cat.toLowerCase().replace(/ /g, "-")}/`} class="card-category">{cat}</a>
+            ))}
+          </div>
+          <h3 class="card-title">
+            <a href={`/${a.data.year}/${a.data.month}/${a.data.day}/${a.data.postSlug}/`}>{a.data.title}</a>
+          </h3>
+          {a.data.excerpt && <p class="card-excerpt">{truncate(a.data.excerpt, 140)}</p>}
+        </div>
+      </div>
+    ))}
+  </div>
+</Layout>
+
+<style>
+  .archive-header {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 40px 20px 8px;
+    text-align: center;
+  }
+  .archive-header h1 {
+    font-family: var(--font-serif);
+    font-size: 2rem;
+    margin: 0 0 6px;
+  }
+  .archive-header p {
+    color: var(--color-muted);
+    font-size: 0.9rem;
+    margin: 0 0 18px;
+  }
+  .archive-cats {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 10px 20px;
+    margin-bottom: 8px;
+  }
+  .archive-cats a {
+    font-size: 0.78rem;
+    font-weight: 600;
+    text-transform: uppercase;
+    letter-spacing: 0.5px;
+    color: var(--color-accent-dark);
+    text-decoration: none;
+  }
+  .archive-cats a:hover { text-decoration: underline; }
+</style>

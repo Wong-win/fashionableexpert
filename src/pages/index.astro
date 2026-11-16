@@ -1,6 +1,8 @@
 ---
 import { getCollection } from "astro:content";
 import Layout from "../layouts/Layout.astro";
+import { categories, categoryUrl } from "../lib/categories";
+import { truncate } from "../lib/format";
 
 const articles = (await getCollection("articles"))
   .sort((a, b) => b.data.date.localeCompare(a.data.date));
@@ -18,25 +20,23 @@ function isNew(a: typeof articles[0]) { return !shown.has(a.data.postSlug); }
 const hero = articles[0];
 if (hero) markShown(hero);
 
-// 2. Category sections: each gets 4 deduped articles from that category
-const categorySections = [
-  { name: "Style masculin", slug: "mens-style", displayName: "Men's Style", more: "All Articles" },
-  { name: "Tendance", slug: "trend", displayName: "Trend", more: "More Articles" },
-  { name: "Inspiration vestimentaire", slug: "dress-inspiration", displayName: "Dress Inspiration", more: "More Articles" },
-  { name: "Mode Femme", slug: "womens-fashion", displayName: "Womens Fashion", more: "More Articles" },
-  { name: "Favoris en jean", slug: "denim-favorites", displayName: "Denim Favorites", more: "" },
-];
+// 2. À la une: articles mis en avant (champ `featured`)
+const featured = articles.filter((a) => a.data.featured && isNew(a));
+featured.forEach(markShown);
 
-// Process categories sequentially so each sees what was already picked
+// 3. Category sections: each gets 4 deduped articles from that category
 const catArticles = [];
-for (const cat of categorySections) {
+for (const cat of categories) {
   const picked = articles.filter((a) => a.data.categorySlugs.includes(cat.slug) && isNew(a)).slice(0, 4);
   picked.forEach(markShown);
   catArticles.push({ ...cat, articles: picked });
 }
 
-// 3. Latest: 8 more articles not shown anywhere
+// 4. Latest: 8 more articles not shown anywhere
 const latest = articles.filter(isNew).slice(0, 8);
+
+// 5. Ce qui reste n'est visible que par les pages de catégorie et l'archive
+const rest = articles.filter(isNew).length;
 ---
 
 <Layout>
@@ -54,8 +54,34 @@ const latest = articles.filter(isNew).slice(0, 8);
           <h2 class="card-title">
             <a href={postUrl(hero)}>{hero.data.title}</a>
           </h2>
-          <a href={postUrl(hero)} class="btn-read-more">READ MORE</a>
+          <a href={postUrl(hero)} class="btn-read-more">Lire la suite</a>
         </div>
+      </div>
+    </section>
+  )}
+
+  <!-- À LA UNE -->
+  {featured.length > 0 && (
+    <section class="home-section">
+      <h2 class="section-title">
+        À la une
+        <a href="/articles/">Tous les articles</a>
+      </h2>
+      <div class="latest-grid">
+        {featured.map((a) => (
+          <div class="card">
+            {a.data.image && (
+              <a href={postUrl(a)}>
+                <img src={a.data.image} alt={a.data.title} class="card-image" loading="lazy" />
+              </a>
+            )}
+            <div class="card-body">
+              <h3 class="card-title"><a href={postUrl(a)}>{a.data.title}</a></h3>
+              {a.data.excerpt && <p class="card-excerpt">{truncate(a.data.excerpt, 110)}</p>}
+              <a href={postUrl(a)} class="btn-read-more">Lire la suite</a>
+            </div>
+          </div>
+        ))}
       </div>
     </section>
   )}
@@ -65,8 +91,8 @@ const latest = articles.filter(isNew).slice(0, 8);
     cat.articles.length > 0 ? (
       <section class="home-section">
         <h2 class="section-title">
-          {cat.displayName}
-          {cat.more && <a href={`/category/${cat.slug}/`}>{cat.more}</a>}
+          {cat.name}
+          <a href={categoryUrl(cat.slug)}>Tous les articles</a>
         </h2>
         <div class="mixed-block">
           <!-- Main large card -->
@@ -101,7 +127,10 @@ const latest = articles.filter(isNew).slice(0, 8);
   <!-- LATEST ARTICLES (deduped) -->
   {latest.length > 0 && (
     <section class="home-section">
-      <h2 class="section-title">LATEST ARTICLES</h2>
+      <h2 class="section-title">
+        Derniers articles
+        <a href="/articles/">Tous les articles</a>
+      </h2>
       <div class="latest-grid">
         {latest.map((a) => (
           <div class="card">
@@ -112,12 +141,34 @@ const latest = articles.filter(isNew).slice(0, 8);
             )}
             <div class="card-body">
               <h3 class="card-title"><a href={postUrl(a)}>{a.data.title}</a></h3>
-              {a.data.excerpt && <p class="card-excerpt">{a.data.excerpt.slice(0, 80)}...</p>}
-              <a href={postUrl(a)} class="btn-read-more">READ MORE</a>
+              {a.data.excerpt && <p class="card-excerpt">{truncate(a.data.excerpt, 110)}</p>}
+              <a href={postUrl(a)} class="btn-read-more">Lire la suite</a>
             </div>
           </div>
         ))}
       </div>
     </section>
   )}
+
+  <!-- Les articles restants restent accessibles via l'archive et les pages de catégorie -->
+  {rest > 0 && (
+    <section class="home-section">
+      <p class="home-archive-note">
+        {rest} autre{rest > 1 ? "s" : ""} article{rest > 1 ? "s" : ""} est{rest > 1 ? "ont" : ""}
+        disponible{rest > 1 ? "s" : ""} dans l'archive — <a href="/articles/">voir tous les articles</a>.
+      </p>
+    </section>
+  )}
 </Layout>
+
+<style>
+  .home-archive-note {
+    text-align: center;
+    font-size: 0.9rem;
+    color: var(--color-muted);
+    margin: 0;
+  }
+  .home-archive-note a {
+    color: var(--color-accent-dark);
+  }
+</style>

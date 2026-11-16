@@ -9,7 +9,6 @@ categories: ["Style masculin"]
 categorySlugs: ["mens-style"]
 excerpt: "Votre carnation peut transformer radicalement l'effet d'une couleur sur vous. Voici comment identifier votre teint et choisir les teintes qui vous mettent vraiment en valeur."
 image: "/images/choisir-couleurs-appropriees-votre-teint.jpg"
-urlPath: "/2026/01/22/choisir-couleurs-appropriees-votre-teint"
 ---
 
 La coiffure que vous choisissez et la forme de votre visage peuvent à elles seules transformer — ou desservir — votre allure générale. Mais saviez-vous que votre carnation et les couleurs de vos vêtements jouent exactement le même rôle ?

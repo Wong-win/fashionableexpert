@@ -1,6 +1,7 @@
 ---
 import { getCollection } from "astro:content";
 import Layout from "../../../../layouts/Layout.astro";
+import { truncate } from "../../../../lib/format";
 
 export async function getStaticPaths() {
   const articles = await getCollection("articles");
@@ -18,12 +19,35 @@ export async function getStaticPaths() {
 const { article } = Astro.props;
 const { Content } = await article.render();
 const { title, categories, categorySlugs, image, excerpt } = article.data;
+
+// Articles liés : même catégorie en priorité, complétés par les plus
+// récents. Le maillage interne aide le référencement des pages profondes.
+const all = await getCollection("articles");
+const sameCategory = all
+  .filter(
+    (a) =>
+      a.data.postSlug !== article.data.postSlug &&
+      a.data.categorySlugs.some((s) => article.data.categorySlugs.includes(s))
+  )
+  .sort((a, b) => b.data.date.localeCompare(a.data.date))
+  .slice(0, 3);
+const related = sameCategory.length >= 3 ? sameCategory : [
+  ...sameCategory,
+  ...all
+    .filter(
+      (a) =>
+        a.data.postSlug !== article.data.postSlug &&
+        !sameCategory.some((s) => s.data.postSlug === a.data.postSlug)
+    )
+    .sort((a, b) => b.data.date.localeCompare(a.data.date)),
+].slice(0, 3);
 ---
 
 <Layout
   title={title}
   description={excerpt}
   image={image}
+  ogType="article"
 >
   <article class="article-single">
     {image && (
@@ -50,4 +74,70 @@ const { title, categories, categorySlugs, image, excerpt } = article.data;
       <Content />
     </div>
   </article>
+
+  {related.length > 0 && (
+    <section class="related">
+      <h2>À lire aussi</h2>
+      <div class="related-grid">
+        {related.map((a) => (
+          <a class="related-item" href={`/${a.data.year}/${a.data.month}/${a.data.day}/${a.data.postSlug}/`}>
+            {a.data.image && <img src={a.data.image} alt={a.data.title} loading="lazy" />}
+            <span class="related-title">{a.data.title}</span>
+            {a.data.excerpt && <span class="related-excerpt">{truncate(a.data.excerpt, 90)}</span>}
+          </a>
+        ))}
+      </div>
+    </section>
+  )}
 </Layout>
+
+<style>
+  .related {
+    max-width: 800px;
+    margin: 0 auto 60px;
+    padding: 0 20px;
+  }
+  .related h2 {
+    font-family: var(--font-serif);
+    font-size: 1.4rem;
+    margin: 40px 0 20px;
+    padding-bottom: 10px;
+    border-bottom: 2px solid var(--color-accent);
+  }
+  .related-grid {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 20px;
+  }
+  .related-item {
+    display: block;
+    text-decoration: none;
+    color: inherit;
+  }
+  .related-item img {
+    width: 100%;
+    height: 120px;
+    object-fit: cover;
+    border-radius: 4px;
+    margin-bottom: 10px;
+  }
+  .related-title {
+    display: block;
+    font-family: var(--font-serif);
+    font-size: 1rem;
+    font-weight: 700;
+    line-height: 1.4;
+    color: var(--color-heading);
+  }
+  .related-item:hover .related-title { color: var(--color-accent-dark); }
+  .related-excerpt {
+    display: block;
+    font-size: 0.85rem;
+    color: var(--color-muted);
+    line-height: 1.55;
+    margin-top: 6px;
+  }
+  @media (max-width: 700px) {
+    .related-grid { grid-template-columns: 1fr; }
+  }
+</style>

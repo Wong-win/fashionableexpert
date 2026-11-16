@@ -9,7 +9,6 @@ day: "02"
 categories: ["Mode Femme", "Inspiration vestimentaire"]
 categorySlugs: ["womens-fashion", "dress-inspiration"]
 excerpt: "Qui a dit que les événements spéciaux exigeaient des talons vertigineux ? Les chaussures plates s'invitent aux soirées les plus élégantes. Voici comment les porter avec style."
-urlPath: "/2025/06/02/porter-ballerines-evenement"
 ---
 
 Longtemps cantonnées au quotidien, les chaussures plates ont conquis leurs lettres de noblesse. Mariages, cocktails, dîners de gala — il est désormais parfaitement chic de fouler les plus beaux parquets en ballerines, mocassins ou sandales plates. Voici comment réussir ce pari stylistique.

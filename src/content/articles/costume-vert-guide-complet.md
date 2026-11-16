@@ -9,7 +9,6 @@ categories: ["Style masculin"]
 categorySlugs: ["mens-style"]
 excerpt: "Le vert est une couleur criminellement sous-estimée en couture masculine. Découvrez comment choisir, porter et accessoiriser un costume vert avec style et assurance."
 image: "/images/costume-vert-guide-complet.jpg"
-urlPath: "/2025/08/28/costume-vert-guide-complet"
 ---
 
 Le vert est une couleur criminellement sous-estimée en couture masculine. Souvent éclipsée par les valeurs sûres que sont le bleu marine, le gris et le marron, elle offre pourtant une polyvalence remarquable et peut être déclinée aussi bien en costume complet qu'en pièces séparées. Un costume vert ne conviendra pas à tout le monde, mais pour ceux qui veulent bousculer leur vestiaire, c'est un choix inspiré et rafraîchissant.

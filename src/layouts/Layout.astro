@@ -3,21 +3,27 @@ import Header from "../components/Header.astro";
 import Footer from "../components/Footer.astro";
 import CookieConsent from "../components/CookieConsent.astro";
 import { siteInfo } from "../data/site-info";
+import { metaDescription } from "../lib/format";
 import "../styles/global.css";
 
 export interface Props {
   title?: string;
   description?: string;
   image?: string;
+  ogType?: "website" | "article";
 }
 
-const { title, description, image } = Astro.props;
+const { title, description, image, ogType = "website" } = Astro.props;
 const siteTitle = title
   ? `${title} - FashionableExpert`
   : "FashionableExpert — Élégance & Mode au Quotidien";
 const siteDescription =
   description ||
   "Inspiration vestimentaire, tendances mode femme, style masculin et favoris en jean — votre magazine mode au quotidien.";
+// Les meta descriptions sont tronquées à 155 caractères : au-delà, Google
+// n'affiche plus la phrase entière.
+const metaDesc = description ? metaDescription(description) : siteDescription;
+const canonicalUrl = new URL(Astro.url.pathname, siteInfo.origin).href;
 const consentMaxAge = String(siteInfo.consent.maxAgeDays * 24 * 3600 * 1000);
 ---
 
@@ -28,7 +34,7 @@ const consentMaxAge = String(siteInfo.consent.maxAgeDays * 24 * 3600 * 1000);
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
         <link rel="canonical" href={new URL(Astro.url.pathname, `https://www.fashionableexpert.com`)} />
     <title>{siteTitle}</title>
-    <meta name="description" content={siteDescription} />
+    <meta name="description" content={metaDesc} />
     <link rel="icon" type="image/svg+xml" href="/favicon.svg" />
     <link rel="preconnect" href="https://fonts.googleapis.com" />
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
@@ -38,10 +44,17 @@ const consentMaxAge = String(siteInfo.consent.maxAgeDays * 24 * 3600 * 1000);
     />
     <!-- Open Graph -->
     <meta property="og:title" content={siteTitle} />
-    <meta property="og:description" content={siteDescription} />
-    <meta property="og:type" content="website" />
+    <meta property="og:description" content={metaDesc} />
+    <meta property="og:type" content={ogType} />
     <meta property="og:site_name" content="FashionableExpert" />
-    {image && <meta property="og:image" content={image} />}
+    <meta property="og:url" content={canonicalUrl} />
+    <meta property="og:locale" content="fr_FR" />
+    {image && <meta property="og:image" content={new URL(image, siteInfo.origin).href} />}
+    <!-- Twitter / X -->
+    <meta name="twitter:card" content={image ? "summary_large_image" : "summary"} />
+    <meta name="twitter:title" content={siteTitle} />
+    <meta name="twitter:description" content={metaDesc} />
+    {image && <meta name="twitter:image" content={new URL(image, siteInfo.origin).href} />}
 
     <!-- Configuration du module de consentement (source unique : src/data/site-info.ts) -->
     <meta name="fe-ga-id" content={siteInfo.analytics.id} />

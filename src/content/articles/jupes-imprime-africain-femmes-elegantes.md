@@ -9,7 +9,6 @@ categories: ["Mode Femme"]
 categorySlugs: ["womens-fashion"]
 excerpt: "Les jupes à imprimé africain offrent une liberté de style incomparable : mini, midi ou longue, chaque silhouette révèle le caractère vibrant du tissu Ankara. Découvrez les coupes qui mettent en valeur chaque morphologie."
 image: "/images/jupes-imprime-africain-femmes-elegantes.jpg"
-urlPath: "/2025/10/07/jupes-imprime-africain-femmes-elegantes"
 ---
 
 Les jupes à imprimé africain se déclinent dans une multitude de longueurs et de coupes, ce qui en fait l'une des pièces les plus polyvalentes et les plus expressives d'une garde-robe. Côté longueurs, on retrouve la mini-jupe Ankara, la jupe midi Ankara et la jupe longue Ankara. Côté silhouettes, il y a les jupes plissées, les jupes haut-bas, les jupes évasées, les jupes tulipes, les jupes à volants, les jupes à basque, les jupes crayon et les jupes asymétriques.

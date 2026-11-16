@@ -9,7 +9,6 @@ categories: ["Tendance"]
 categorySlugs: ["trend"]
 excerpt: "La mode de 2026 se caractérise par la diversité et l'expression personnelle. Cette année offre une liberté vestimentaire sans précédent, du luxe discret aux accessoires audacieux."
 image: "/images/article5_cover.jpg"
-urlPath: "/2026/03/23/principales-tendances-mode-2026"
 ---
 
 # Les principales tendances de la mode de 2026 : du défilé à la vraie vie

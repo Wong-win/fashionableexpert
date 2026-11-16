@@ -9,7 +9,6 @@ categories: ["Inspiration vestimentaire"]
 categorySlugs: ["dress-inspiration"]
 excerpt: "Le jean blanc a tout du basique facile à porter, jusqu'au moment où il faut l'accorder. Voici sept tenues simples et éprouvées pour le mettre en valeur sans faux pas."
 image: "/images/7-tenues-avec-jean-blanc-homme.jpg"
-urlPath: "/2025/05/06/7-tenues-avec-jean-blanc-homme"
 ---
 
 La question de savoir comment porter un jean blanc a tendance à laisser perplexe même les hommes qui s'intéressent au style. En apparence, c'est un basique comme un autre, mais à y regarder de plus près, on réalise vite que les occasions de faux pas ne manquent pas.

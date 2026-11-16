@@ -9,7 +9,6 @@ categories: ["Favoris en jean"]
 categorySlugs: ["denim-favorites"]
 excerpt: "Ni trop longs, ni trop courts : les shorts en jean à longueur intermédiaire sont la pièce phare de l'été. Découvrez comment choisir la coupe parfaite pour votre morphologie."
 image: "/images/img-1525-3-1125x1500.jpg"
-urlPath: "/2025/07/06/shorts-jean-longueur-ideale"
 ---
 
 Trouver le short en jean parfait est un véritable défi. Trop court, il devient inconfortable et peu flatteur. Trop long, il alourdit la silhouette. La solution se trouve dans cet entre-deux savamment dosé : le short à entrejambe intermédiaire, entre 4 et 6 pouces.

@@ -9,7 +9,6 @@ categories: ["Mode Femme", "Tendance"]
 categorySlugs: ["womens-fashion", "trend"]
 excerpt: "L'ensemble coordonné s'impose comme la tendance la plus élégante de la saison. Découvrez comment adopter le total look avec style et assurance."
 image: "/images/ensemble-assorti-total-look.jpg"
-urlPath: "/2025/11/23/ensemble-assorti-total-look"
 ---
 
 L'ensemble coordonné — ou matching set — est bien plus qu'une simple tendance : c'est une philosophie vestimentaire qui simplifie la vie tout en maximisant l'impact visuel. Quand le haut et le bas s'accordent parfaitement, le résultat est toujours élégant, sans effort apparent.

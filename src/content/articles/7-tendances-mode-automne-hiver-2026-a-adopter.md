@@ -6,7 +6,6 @@ excerpt: "Découvrez les 7 tendances mode incontournables de l'automne-hiver 202
 postSlug: "7-tendances-mode-automne-hiver-2026-a-adopter"
 categories: ["Tendance"]
 categorySlugs: ["trend"]
-urlPath: "/2026/09/03/7-tendances-mode-automne-hiver-2026-a-adopter"
 year: "2026"
 month: "09"
 day: "03"

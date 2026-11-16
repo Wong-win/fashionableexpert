@@ -9,7 +9,6 @@ day: "20"
 categories: ["Mode Femme", "Tendance"]
 categorySlugs: ["womens-fashion", "trend"]
 excerpt: "Le legging en cuir reste une pièce maîtresse de la garde-robe féminine. Dans cette deuxième partie, découvrez de nouvelles façons de le porter avec audace et sophistication."
-urlPath: "/2025/12/20/porter-legging-cuir-partie-2"
 ---
 
 Le legging en cuir — ou simili cuir — est l'une de ces pièces polarisantes qu'on adore ou qu'on appréhende. Pourtant, bien stylisé, il devient un allié mode redoutable qui s'adapte à presque toutes les occasions. Après une première partie consacrée aux basiques, explorons des associations plus audacieuses.

@@ -9,7 +9,6 @@ categories: ["Style masculin"]
 categorySlugs: ["mens-style"]
 excerpt: "Les baskets en toile existent depuis près de deux siècles. Voici notre tour d'horizon des marques qui les travaillent le mieux, et les critères pour bien choisir la vôtre."
 image: "/images/meilleures-baskets-toile-homme.jpg"
-urlPath: "/2026/01/15/meilleures-baskets-toile-homme"
 ---
 
 Les baskets en toile existent depuis près de deux siècles. Les toutes premières sneakers jamais produites étaient en toile, et certains des modèles les plus vendus aujourd'hui le sont toujours. Dans un monde où les tendances se renouvellent à toute vitesse, rares sont les constantes : ajouter une paire de baskets en toile à sa rotation de chaussures n'a donc rien d'une mauvaise idée.

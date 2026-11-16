@@ -9,7 +9,6 @@ categories: ["Mode Femme"]
 categorySlugs: ["womens-fashion"]
 excerpt: "Pour les femmes noires, la robe de soirée est un symbole d'élégance, de grâce et de raffinement. Voici un panorama des silhouettes, des inspirations afrocentriques et des conseils pour bien la choisir et l'accessoiriser."
 image: "/images/types-robes-soiree-femmes-noires-2024.jpg"
-urlPath: "/2025/06/29/types-robes-soiree-femmes-noires-2024"
 ---
 
 Pour les femmes noires, la robe de soirée est un symbole de classe, de grâce et d'élégance intemporelle. C'est aussi une véritable expression d'identité culturelle et de style personnel. Partons à la découverte de l'univers enchanteur des robes de soirée pour femmes noires.

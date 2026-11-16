@@ -9,7 +9,6 @@ categories: ["Mode Femme", "Style masculin"]
 categorySlugs: ["womens-fashion", "mens-style"]
 excerpt: "En 2026, le vestiaire minimaliste à la française n'est plus une tendance : c'est une discipline. Voici les 10 pièces que je porte vraiment, ce que j'en pense après douze mois, et ce qui mérite votre argent."
 image: "/images/minimalist-wardrobe-fr-2026-cover.jpg"
-urlPath: "/2026/09/18/10-essentiels-vestiaire-minimaliste-francais-2026"
 ---
 
 # Les 10 essentiels du vestiaire minimaliste français en 2026 : moins d'achats, plus de style

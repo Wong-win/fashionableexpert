@@ -9,7 +9,7 @@ categories: ["Inspiration vestimentaire"]
 categorySlugs: ["dress-inspiration"]
 excerpt: "La mode n'est pas une solution universelle. Ce guide explore comment s'habiller en fonction de sa morphologie pour mettre en valeur chaque silhouette avec style et confiance."
 image: "/images/article2_cover.jpg"
-urlPath: "/2026/03/03/guide-complet-s-habiller-selon-morphologie"
+featured: true
 ---
 
 # Le guide complet pour s’habiller en fonction de votre morphologie : des styles flatteurs pour chaque forme

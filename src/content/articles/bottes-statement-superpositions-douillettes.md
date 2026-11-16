@@ -9,7 +9,6 @@ day: "23"
 categories: ["Tendance", "Mode Femme"]
 categorySlugs: ["trend", "womens-fashion"]
 excerpt: "Quand les températures baissent, le style monte. Découvrez comment associer bottes statement et superpositions cosy pour créer des tenues d'automne qui ne sacrifient jamais l'élégance au confort."
-urlPath: "/2025/04/23/bottes-statement-superpositions-douillettes"
 ---
 
 L'automne est la saison la plus inspirante pour la mode. C'est le moment où l'on ressort les pièces fortes — ces bottes qui font tourner les têtes et ces superpositions qui allient confort et caractère. Maîtriser l'art de superposer sans s'alourdir est la clé d'un style automnal réussi.

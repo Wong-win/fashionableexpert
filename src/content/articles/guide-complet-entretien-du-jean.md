@@ -9,7 +9,6 @@ categories: ["Favoris en jean"]
 categorySlugs: ["denim-favorites"]
 excerpt: "Une belle paire de jeans est un investissement qui mérite d'être préservé. Voici le guide ultime pour laver, réparer et faire durer votre denim saison après saison."
 image: "/images/a9_cover.jpg"
-urlPath: "/2026/04/19/guide-complet-entretien-du-jean"
 ---
 
 # Comment prendre soin de votre jean : le guide ultime pour laver, réparer et faire durer votre jean pour toujours

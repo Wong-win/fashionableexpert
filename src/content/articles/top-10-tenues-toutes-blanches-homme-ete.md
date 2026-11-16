@@ -9,7 +9,6 @@ categories: ["Inspiration vestimentaire"]
 categorySlugs: ["dress-inspiration"]
 excerpt: "Le tout blanc fait un peu peur, et pourtant c'est l'une des combinaisons les plus élégantes de l'été. Découvrez nos conseils pour adopter le look sans faux pas."
 image: "/images/top-10-tenues-toutes-blanches-homme-ete.jpg"
-urlPath: "/2025/07/19/top-10-tenues-toutes-blanches-homme-ete"
 ---
 
 Porter du noir de la tête aux pieds, c'est un peu tricher. C'est tellement facile de ne pas se tromper que la plupart des hommes s'en contentent sans se poser de question. Le tout blanc, en revanche, demande un peu plus de réflexion — et c'est précisément pour cela que la plupart des hommes préfèrent l'éviter. Mais avant de refermer cette page, donnez-nous une chance : le blanc peut vraiment devenir votre meilleur allié.

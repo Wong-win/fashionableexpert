@@ -9,7 +9,6 @@ categories: ["Mode Femme"]
 categorySlugs: ["womens-fashion"]
 excerpt: "Les robes évasées en tissu Ankara s'imposent comme la pièce maîtresse de la garde-robe africaine contemporaine. Découvrez vingt modèles inspirants, du quotidien aux grandes occasions."
 image: "/images/20-robes-evasees-ankara-tendance.jpg"
-urlPath: "/2025/10/14/20-robes-evasees-ankara-tendance"
 ---
 
 Les robes courtes évasées en tissu Ankara sont l'une des pièces les plus flatteuses et les plus polyvalentes de la mode féminine africaine. Conçues dans des cotons wax vibrants ou des mélanges modernes plus fluides, elles s'adaptent à toutes les morphologies et à presque toutes les occasions.

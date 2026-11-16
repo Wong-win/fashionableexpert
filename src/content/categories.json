@@ -1,44 +1,27 @@
 [
   {
-    "id": 5,
-    "name": "Favoris en jean",
-    "slug": "denim-favorites",
-    "count": 17,
-    "link": "https://fashionableexpert.com/category/denim-favorites/"
-  },
-  {
-    "id": 3,
-    "name": "Inspiration vestimentaire",
-    "slug": "dress-inspiration",
-    "count": 33,
-    "link": "https://fashionableexpert.com/category/dress-inspiration/"
-  },
-  {
-    "id": 6,
-    "name": "Mode Femme",
-    "slug": "womens-fashion",
-    "count": 34,
-    "link": "https://fashionableexpert.com/category/womens-fashion/"
-  },
-  {
-    "id": 1,
-    "name": "Non classé",
-    "slug": "uncategorized",
-    "count": 1,
-    "link": "https://fashionableexpert.com/category/uncategorized/"
-  },
-  {
-    "id": 2,
-    "name": "Style masculin",
     "slug": "mens-style",
-    "count": 38,
-    "link": "https://fashionableexpert.com/category/mens-style/"
+    "name": "Style masculin",
+    "description": "Chemises, costumes, jean et blazer : nos guides pour composer une garde-robe masculine simple, élégante et adaptée à chaque occasion."
   },
   {
-    "id": 4,
-    "name": "Tendance",
     "slug": "trend",
-    "count": 41,
-    "link": "https://fashionableexpert.com/category/trend/"
+    "name": "Tendance",
+    "description": "Les tendances mode du moment décryptées : coupes, couleurs, matières et silhouettes à adopter cette saison, avec des conseils concrets."
+  },
+  {
+    "slug": "dress-inspiration",
+    "name": "Inspiration vestimentaire",
+    "description": "Robes, ensembles, vestes et accessoires : des idées de tenues complètes à adapter à votre morphologie, à la saison et à l'occasion."
+  },
+  {
+    "slug": "womens-fashion",
+    "name": "Mode femme",
+    "description": "Robes, jupes, tailleurs et essentiels mode femme : des guides pour trouver des pièces qui vous ressemblent et se combinent facilement."
+  },
+  {
+    "slug": "denim-favorites",
+    "name": "Favoris en jean",
+    "description": "Du jean brut au jean délavé : coupes, entretien, associations et pièces favorites pour un vestiaire denim durable et bien choisi."
   }
 ]

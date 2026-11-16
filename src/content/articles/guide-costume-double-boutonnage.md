@@ -9,7 +9,6 @@ categories: ["Style masculin"]
 categorySlugs: ["mens-style"]
 excerpt: "Le costume à double boutonnage apporte une énergie singulière : dandysme, élégance old school et caractère assumé. Plus original qu'un deux-pièces classique, il révèle ceux qui osent le porter."
 image: "/images/guide-costume-double-boutonnage.jpg"
-urlPath: "/2025/11/16/guide-costume-double-boutonnage"
 ---
 
 Le costume à double boutonnage (DB) dégage une énergie particulière. Il est dandy, légèrement old school, et un brin excentrique. Le choisir plutôt qu'un deux-pièces classique à simple boutonnage demande une vraie confiance en soi, mais pour ceux qui osent franchir le pas, la récompense est là.

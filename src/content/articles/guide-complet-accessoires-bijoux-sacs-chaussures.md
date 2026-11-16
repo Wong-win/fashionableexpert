@@ -9,7 +9,7 @@ categories: ["Inspiration vestimentaire"]
 categorySlugs: ["dress-inspiration"]
 excerpt: "Les accessoires ont le pouvoir de transformer complètement une tenue. Ce guide explore l'art d'accessoiriser à travers bijoux, sacs, chaussures et finitions pour composer des looks mémorables."
 image: "/images/article6_cover.jpg"
-urlPath: "/2026/03/30/guide-complet-accessoires-bijoux-sacs-chaussures"
+featured: true
 ---
 
 # L’art d’accessoiriser : un guide complet sur les bijoux, les sacs, les chaussures et les touches finales

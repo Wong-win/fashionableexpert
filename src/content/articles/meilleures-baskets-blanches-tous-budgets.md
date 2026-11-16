@@ -9,7 +9,6 @@ categories: ["Style masculin"]
 categorySlugs: ["mens-style"]
 excerpt: "La basket blanche est devenue un classique du vestiaire masculin, capable de rehausser aussi bien un costume qu'une tenue décontractée. Voici notre sélection pour tous les budgets."
 image: "/images/meilleures-baskets-blanches-tous-budgets.jpg"
-urlPath: "/2025/11/30/meilleures-baskets-blanches-tous-budgets"
 ---
 
 S'il y a un produit qui a effacé la frontière entre le formel et le décontracté dans la mode masculine contemporaine, c'est bien la basket blanche. Autrefois réservée aux activités sportives, elle est devenue une pièce essentielle du vestiaire, capable d'apporter une touche claire et actuelle à presque toutes les tenues.

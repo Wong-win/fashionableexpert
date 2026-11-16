@@ -9,7 +9,6 @@ categories: ["Inspiration vestimentaire"]
 categorySlugs: ["dress-inspiration"]
 excerpt: "Le sweat à capuche est passé du titre sensationnaliste du tabloïd à celui d'incontournable du vestiaire masculin. Voici 7 façons de porter le pantalon de survêtement avec style, sans jamais paraître négligé."
 image: "/images/7-facons-porter-jogging-avec-style.jpg"
-urlPath: "/2025/12/26/7-facons-porter-jogging-avec-style"
 ---
 
 Si les dix dernières années de la mode masculine devaient être résumées en un seul mot, ce serait sans doute la décontraction. Les baskets blanches sont devenues la chaussure de référence, le sweat à capuche a remplacé la chemise en contexte casual, et le t-shirt basique a pris la place du polo sur la plupart des dressings masculins. Une vraie révolution silencieuse.

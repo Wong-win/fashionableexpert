@@ -9,7 +9,7 @@ categories: ["Mode Femme"]
 categorySlugs: ["womens-fashion"]
 excerpt: "L'industrie de la mode est à la croisée des chemins. Découvrez comment construire une garde-robe durable et éthique sans sacrifier le style, avec notre guide complet 2026."
 image: "/images/article7_cover.jpg"
-urlPath: "/2026/04/06/guide-complet-mode-durable-eco-responsable-2026"
+featured: true
 ---
 
 # Mode durable : le guide complet du style écologique en 2026

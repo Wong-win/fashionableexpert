@@ -9,7 +9,6 @@ categories: ["Favoris en jean"]
 categorySlugs: ["denim-favorites"]
 excerpt: "Le jean noir Madewell taille haute est l'une des pièces les plus polyvalentes de la saison. Découvrez sept looks, du brunch décontracté au rendez-vous élégant, pour le porter avec style."
 image: "/images/7-facons-porter-jean-noir-madewell.jpg"
-urlPath: "/2025/09/30/7-facons-porter-jean-noir-madewell"
 ---
 
 Le jean noir Madewell taille haute avec braguette boutonnée et ourlet brut est devenu l'un de mes essentiels de la rentrée. Sa coupe flatteuse et sa teinte profonde en font une base idéale pour composer des looks très variés. Voici sept façons de le porter, testées et approuvées au quotidien.
