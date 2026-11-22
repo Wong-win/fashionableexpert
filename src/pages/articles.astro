@@ -8,7 +8,7 @@ const articles = (await getCollection("articles"))
   .sort((a, b) => b.data.date.localeCompare(a.data.date));
 
 const title = "Tous les articles";
-const description = `L'archive complète des ${articles.length} articles de FashionableExpert : mode femme et homme, tendances, inspiration vestimentaire et denim.`;
+const description = `L'archive complète des ${articles.length} articles de FashionableExpert : mode, tendances, inspiration vestimentaire, denim, maison et voyage.`;
 ---
 
 <Layout title={title} description={description}>

@@ -175,6 +175,39 @@ h1, h2, h3, h4, h5, h6 {
   color: var(--color-muted);
   font-style: italic;
 }
+/* Tableaux : lisibles sans devenir un élément graphique lourd. */
+.article-single .article-content table {
+  width: 100%;
+  border-collapse: collapse;
+  margin: 24px 0 28px;
+  font-size: 0.9rem;
+  line-height: 1.5;
+}
+.article-single .article-content th,
+.article-single .article-content td {
+  padding: 10px 12px;
+  border-bottom: 1px solid var(--color-border);
+  text-align: left;
+  vertical-align: top;
+}
+.article-single .article-content th {
+  font-family: var(--font-sans);
+  font-size: 0.78rem;
+  font-weight: 600;
+  text-transform: uppercase;
+  letter-spacing: 0.04em;
+  color: var(--color-heading);
+  background: #faf7f0;
+  border-bottom: 2px solid var(--color-accent);
+}
+.article-single .article-content tr:last-child td { border-bottom: none; }
+@media (max-width: 700px) {
+  .article-single .article-content table {
+    display: block;
+    overflow-x: auto;
+    white-space: nowrap;
+  }
+}
 .article-featured-image {
   width: 100%;
   max-height: 500px;

@@ -1,5 +1,6 @@
 ---
 // Header.astro — navigation, recherche et menu mobile
+import { categories, categoryUrl } from "../lib/categories";
 ---
 
 <header class="site-header">
@@ -10,11 +11,9 @@
 
     <nav class="main-nav" aria-label="Navigation principale">
       <a href="/" class="nav-link active">Accueil</a>
-      <a href="/category/mens-style/" class="nav-link">Style masculin</a>
-      <a href="/category/trend/" class="nav-link">Tendance</a>
-      <a href="/category/dress-inspiration/" class="nav-link">Inspiration vestimentaire</a>
-      <a href="/category/womens-fashion/" class="nav-link">Mode Femme</a>
-      <a href="/category/denim-favorites/" class="nav-link">Favoris en jean</a>
+      {categories.map((c) => (
+        <a href={categoryUrl(c.slug)} class="nav-link">{c.name}</a>
+      ))}
       <a href="/articles/" class="nav-link">Tous les articles</a>
     </nav>
 
@@ -55,11 +54,9 @@
   <!-- Mobile nav -->
   <div class="mobile-nav" id="mobileNav">
     <a href="/" class="nav-link">Accueil</a>
-    <a href="/category/mens-style/" class="nav-link">Style masculin</a>
-    <a href="/category/trend/" class="nav-link">Tendance</a>
-    <a href="/category/dress-inspiration/" class="nav-link">Inspiration vestimentaire</a>
-    <a href="/category/womens-fashion/" class="nav-link">Mode Femme</a>
-    <a href="/category/denim-favorites/" class="nav-link">Favoris en jean</a>
+    {categories.map((c) => (
+      <a href={categoryUrl(c.slug)} class="nav-link">{c.name}</a>
+    ))}
     <a href="/articles/" class="nav-link">Tous les articles</a>
   </div>
 </header>
@@ -191,14 +188,14 @@
     letter-spacing: -0.5px;
   }
   .logo-accent { color: #c4a265; }
-  .main-nav { display: flex; gap: 16px; }
+  .main-nav { display: flex; gap: 12px; }
   .nav-link {
     text-decoration: none;
     color: #333;
-    font-size: 0.78rem;
+    font-size: 0.69rem;
     font-weight: 500;
     text-transform: uppercase;
-    letter-spacing: 0.5px;
+    letter-spacing: 0.2px;
     white-space: nowrap;
     transition: color 0.2s;
   }
@@ -268,11 +265,12 @@
   .mobile-nav.active { display: flex; }
   .mobile-nav .nav-link { padding: 10px 0; border-bottom: 1px solid #f0f0f0; }
 
-  @media (max-width: 1080px) {
-    .main-nav { gap: 12px; }
-    .nav-link { font-size: 0.72rem; letter-spacing: 0.3px; }
+  @media (max-width: 1180px) {
+    .main-nav { gap: 10px; }
+    .nav-link { font-size: 0.66rem; letter-spacing: 0.1px; }
+    .logo-text { font-size: 1.35rem; }
   }
-  @media (max-width: 900px) {
+  @media (max-width: 1080px) {
     .main-nav { display: none; }
     .mobile-menu-toggle { display: block; }
   }

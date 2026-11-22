@@ -23,5 +23,15 @@
     "slug": "denim-favorites",
     "name": "Favoris en jean",
     "description": "Du jean brut au jean délavé : coupes, entretien, associations et pièces favorites pour un vestiaire denim durable et bien choisi."
+  },
+  {
+    "slug": "home-decor",
+    "name": "Maison & déco",
+    "description": "Idées déco, aménagement et objets du quotidien : des guides concrets pour un intérieur beau, fonctionnel et durable, sans budget illimité."
+  },
+  {
+    "slug": "travel",
+    "name": "Voyage",
+    "description": "Guides de voyage pratiques et valises testées : quoi emporter, où loger et comment voyager léger sans sacrifier le style."
   }
 ]
