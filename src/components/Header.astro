@@ -14,7 +14,6 @@ import { categories, categoryUrl } from "../lib/categories";
       {categories.map((c) => (
         <a href={categoryUrl(c.slug)} class="nav-link">{c.name}</a>
       ))}
-      <a href="/articles/" class="nav-link">Tous les articles</a>
     </nav>
 
     <button class="search-toggle" aria-label="Rechercher" id="searchToggle">
@@ -57,7 +56,6 @@ import { categories, categoryUrl } from "../lib/categories";
     {categories.map((c) => (
       <a href={categoryUrl(c.slug)} class="nav-link">{c.name}</a>
     ))}
-    <a href="/articles/" class="nav-link">Tous les articles</a>
   </div>
 </header>
 
@@ -188,14 +186,14 @@ import { categories, categoryUrl } from "../lib/categories";
     letter-spacing: -0.5px;
   }
   .logo-accent { color: #c4a265; }
-  .main-nav { display: flex; gap: 12px; }
+  .main-nav { display: flex; gap: 16px; }
   .nav-link {
     text-decoration: none;
     color: #333;
-    font-size: 0.69rem;
+    font-size: 0.78rem;
     font-weight: 500;
     text-transform: uppercase;
-    letter-spacing: 0.2px;
+    letter-spacing: 0.5px;
     white-space: nowrap;
     transition: color 0.2s;
   }
@@ -265,12 +263,11 @@ import { categories, categoryUrl } from "../lib/categories";
   .mobile-nav.active { display: flex; }
   .mobile-nav .nav-link { padding: 10px 0; border-bottom: 1px solid #f0f0f0; }
 
-  @media (max-width: 1180px) {
-    .main-nav { gap: 10px; }
-    .nav-link { font-size: 0.66rem; letter-spacing: 0.1px; }
-    .logo-text { font-size: 1.35rem; }
-  }
   @media (max-width: 1080px) {
+    .main-nav { gap: 12px; }
+    .nav-link { font-size: 0.72rem; letter-spacing: 0.3px; }
+  }
+  @media (max-width: 900px) {
     .main-nav { display: none; }
     .mobile-menu-toggle { display: block; }
   }
