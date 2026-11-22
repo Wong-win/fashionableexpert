@@ -5,8 +5,8 @@ postSlug: "micro-tendances-automne-2026"
 year: "2026"
 month: "11"
 day: "16"
-categories: ["Tendance"]
-categorySlugs: ["trend"]
+categories: ["Mode femme", "Mode homme"]
+categorySlugs: ["womens-fashion", "mens-style"]
 excerpt: "Une tendance ce n'est pas une silhouette, c'est un détail : le col, la longueur de manche, la largeur de ceinture. Six micro-tendances de l'automne 2026 à adopter sans refaire tout son dressing."
 image: "/images/micro-tendances-automne-2026-cover.jpg"
 ---

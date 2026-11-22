@@ -5,7 +5,7 @@ postSlug: "types-robes-soiree-femmes-noires-2024"
 year: "2025"
 month: "06"
 day: "29"
-categories: ["Mode Femme"]
+categories: ["Mode femme"]
 categorySlugs: ["womens-fashion"]
 excerpt: "Pour les femmes noires, la robe de soirée est un symbole d'élégance, de grâce et de raffinement. Voici un panorama des silhouettes, des inspirations afrocentriques et des conseils pour bien la choisir et l'accessoiriser."
 image: "/images/types-robes-soiree-femmes-noires-2024.jpg"

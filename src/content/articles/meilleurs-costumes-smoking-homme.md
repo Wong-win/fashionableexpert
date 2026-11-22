@@ -5,7 +5,7 @@ postSlug: "meilleurs-costumes-smoking-homme"
 year: "2026"
 month: "02"
 day: "11"
-categories: ["Style masculin"]
+categories: ["Mode homme"]
 categorySlugs: ["mens-style"]
 excerpt: "Le smoking reste l'uniforme de référence du grand soir. Voici les marques qui le travaillent le mieux, du prêt-à-porter accessible aux maisons sur mesure, et nos conseils pour le porter avec élégance."
 image: "/images/meilleurs-costumes-smoking-homme.jpg"

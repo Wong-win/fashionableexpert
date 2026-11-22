@@ -6,7 +6,7 @@ image: "/images/newest-damask-robe-types.jpg"
 year: "2025"
 month: "06"
 day: "09"
-categories: ["Mode Femme"]
+categories: ["Mode femme"]
 categorySlugs: ["womens-fashion"]
 excerpt: "Le tissu damas fait son grand retour dans la mode féminine. Découvrez les plus belles robes en damas pour un look sophistiqué et résolument élégant."
 ---

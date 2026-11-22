@@ -5,8 +5,8 @@ postSlug: "top-10-tenues-toutes-blanches-homme-ete"
 year: "2025"
 month: "07"
 day: "19"
-categories: ["Inspiration vestimentaire"]
-categorySlugs: ["dress-inspiration"]
+categories: ["Mode homme"]
+categorySlugs: ["mens-style"]
 excerpt: "Le tout blanc fait un peu peur, et pourtant c'est l'une des combinaisons les plus élégantes de l'été. Découvrez nos conseils pour adopter le look sans faux pas."
 image: "/images/top-10-tenues-toutes-blanches-homme-ete.jpg"
 ---

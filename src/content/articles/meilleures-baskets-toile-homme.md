@@ -5,7 +5,7 @@ postSlug: "meilleures-baskets-toile-homme"
 year: "2026"
 month: "01"
 day: "15"
-categories: ["Style masculin"]
+categories: ["Mode homme"]
 categorySlugs: ["mens-style"]
 excerpt: "Les baskets en toile existent depuis près de deux siècles. Voici notre tour d'horizon des marques qui les travaillent le mieux, et les critères pour bien choisir la vôtre."
 image: "/images/meilleures-baskets-toile-homme.jpg"

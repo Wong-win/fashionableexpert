@@ -5,8 +5,8 @@ postSlug: "6-tenues-jean-noir-homme"
 year: "2025"
 month: "06"
 day: "22"
-categories: ["Inspiration vestimentaire"]
-categorySlugs: ["dress-inspiration"]
+categories: ["Mode homme"]
+categorySlugs: ["mens-style"]
 excerpt: "Le jean noir est l'une des pièces les plus polyvalentes du vestiaire masculin. Voici six combinaisons fiables pour le porter avec style, du rendez-vous habillé au look épuré du quotidien."
 image: "/images/6-tenues-jean-noir-homme.jpg"
 ---

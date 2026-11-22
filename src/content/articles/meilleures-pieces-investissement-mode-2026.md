@@ -5,8 +5,8 @@ postSlug: "meilleures-pieces-investissement-mode-2026"
 year: "2026"
 month: "05"
 day: "10"
-categories: ["Tendance"]
-categorySlugs: ["trend"]
+categories: ["Mode femme", "Mode homme"]
+categorySlugs: ["womens-fashion", "mens-style"]
 excerpt: "À l'ère de la fast fashion, les pièces d'investissement mode n'ont jamais été aussi pertinentes. Découvrez les articles intemporels qui justifient chaque euro dépensé en 2026."
 image: "/images/a12_cover.jpg"
 ---

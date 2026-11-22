@@ -5,7 +5,7 @@ postSlug: "meilleurs-blousons-aviateur-homme"
 year: "2025"
 month: "11"
 day: "03"
-categories: ["Style masculin"]
+categories: ["Mode homme"]
 categorySlugs: ["mens-style"]
 excerpt: "Silhouette culte héritée de l'armée, le blouson aviateur traverse les décennies sans prendre une ride. Voici les marques qui signent les plus belles pièces du moment."
 image: "/images/meilleurs-blousons-aviateur-homme.jpg"

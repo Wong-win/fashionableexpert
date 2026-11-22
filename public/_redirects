@@ -49,3 +49,9 @@
 /2026/03/23/the-top-fashion-trends-of-2026-from-runway-to-real-life/ /2026/03/23/principales-tendances-mode-2026/ 301
 /2026/03/10/the-ultimate-mens-style-guide-building-a-versatile-wardrobe-for-every-occasion/ /2026/03/10/guide-ultime-style-homme-garderobe-polyvalente/ 301
 /2025/05/06/what-you-ought-to-put-on-with-white-denims-7-simple-outfits-for-males/ /2025/05/06/7-tenues-avec-jean-blanc-homme/ 301
+
+# Fusion des catégories 2026-11-22 (5 catégories mode → Mode femme / Mode homme / Denim)
+/category/dress-inspiration /category/womens-fashion/ 301
+/category/dress-inspiration/ /category/womens-fashion/ 301
+/category/trend /category/womens-fashion/ 301
+/category/trend/ /category/womens-fashion/ 301

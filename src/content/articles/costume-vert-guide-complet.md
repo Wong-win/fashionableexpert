@@ -5,7 +5,7 @@ postSlug: "costume-vert-guide-complet"
 year: "2025"
 month: "08"
 day: "28"
-categories: ["Style masculin"]
+categories: ["Mode homme"]
 categorySlugs: ["mens-style"]
 excerpt: "Le vert est une couleur criminellement sous-estimée en couture masculine. Découvrez comment choisir, porter et accessoiriser un costume vert avec style et assurance."
 image: "/images/costume-vert-guide-complet.jpg"

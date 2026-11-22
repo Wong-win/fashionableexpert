@@ -6,8 +6,8 @@ image: "/images/porter-ballerines-evenement.jpg"
 year: "2025"
 month: "06"
 day: "02"
-categories: ["Mode Femme", "Inspiration vestimentaire"]
-categorySlugs: ["womens-fashion", "dress-inspiration"]
+categories: ["Mode femme"]
+categorySlugs: ["womens-fashion"]
 excerpt: "Qui a dit que les événements spéciaux exigeaient des talons vertigineux ? Les chaussures plates s'invitent aux soirées les plus élégantes. Voici comment les porter avec style."
 ---
 

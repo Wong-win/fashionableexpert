@@ -6,7 +6,7 @@ image: "/images/the-finest-non-distressed-denims.jpg"
 year: "2025"
 month: "09"
 day: "17"
-categories: ["Favoris en jean"]
+categories: ["Denim"]
 categorySlugs: ["denim-favorites"]
 excerpt: "Les jeans déchirés ont eu leur moment de gloire, mais le denim sans déchirures revient en force. Découvrez notre sélection des plus beaux jeans intacts pour un look propre, élégant et résolument moderne."
 ---

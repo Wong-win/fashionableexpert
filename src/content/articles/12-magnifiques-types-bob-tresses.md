@@ -5,7 +5,7 @@ postSlug: "12-magnifiques-types-bob-tresses"
 year: "2025"
 month: "08"
 day: "08"
-categories: ["Mode Femme"]
+categories: ["Mode femme"]
 categorySlugs: ["womens-fashion"]
 excerpt: "Le carré tressé revient en force, des box braids courtes aux bobs en passementerie. Découvrez douze styles inspirants pour adopter la tendance avec caractère."
 image: "/images/12-magnifiques-types-bob-tresses.jpg"

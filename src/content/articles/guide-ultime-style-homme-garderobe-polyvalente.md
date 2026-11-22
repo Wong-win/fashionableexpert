@@ -5,7 +5,7 @@ postSlug: "guide-ultime-style-homme-garderobe-polyvalente"
 year: "2026"
 month: "03"
 day: "10"
-categories: ["Style masculin"]
+categories: ["Mode homme"]
 categorySlugs: ["mens-style"]
 excerpt: "Le style masculin a évolué : les anciennes règles ont cédé la place à une approche plus nuancée. Ce guide ultime vous aide à construire une garde-robe polyvalente adaptée à chaque occasion."
 image: "/images/article3_cover.jpg"

@@ -6,8 +6,8 @@ image: "/images/assertion-boots-cozy-layers.jpg"
 year: "2025"
 month: "04"
 day: "23"
-categories: ["Tendance", "Mode Femme"]
-categorySlugs: ["trend", "womens-fashion"]
+categories: ["Mode femme"]
+categorySlugs: ["womens-fashion"]
 excerpt: "Quand les températures baissent, le style monte. Découvrez comment associer bottes statement et superpositions cosy pour créer des tenues d'automne qui ne sacrifient jamais l'élégance au confort."
 ---
 

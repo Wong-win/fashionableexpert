@@ -5,7 +5,7 @@ postSlug: "10-marques-reparation-vetements"
 year: "2026"
 month: "01"
 day: "09"
-categories: ["Style masculin"]
+categories: ["Mode homme"]
 categorySlugs: ["mens-style"]
 excerpt: "Un vêtement bien fait se reconnaît à sa durée de vie. Découvrez dix marques qui proposent un service de réparation pour prolonger la vie de vos pièces préférées."
 image: "/images/10-marques-reparation-vetements.jpg"

@@ -5,7 +5,7 @@ postSlug: "guide-costume-double-boutonnage"
 year: "2025"
 month: "11"
 day: "16"
-categories: ["Style masculin"]
+categories: ["Mode homme"]
 categorySlugs: ["mens-style"]
 excerpt: "Le costume à double boutonnage apporte une énergie singulière : dandysme, élégance old school et caractère assumé. Plus original qu'un deux-pièces classique, il révèle ceux qui osent le porter."
 image: "/images/guide-costume-double-boutonnage.jpg"

@@ -5,8 +5,8 @@ postSlug: "guide-complet-tenue-invites-mariage"
 year: "2026"
 month: "05"
 day: "03"
-categories: ["Inspiration vestimentaire"]
-categorySlugs: ["dress-inspiration"]
+categories: ["Mode femme", "Mode homme"]
+categorySlugs: ["womens-fashion", "mens-style"]
 excerpt: "Assister à un mariage en tant qu’invité présente un défi unique : être raffiné sans éclipser les mariés. Voici comment réussir votre look selon le lieu, la saison et le code vestimentaire."
 image: "/images/a11_cover.jpg"
 featured: true

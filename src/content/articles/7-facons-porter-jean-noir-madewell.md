@@ -5,7 +5,7 @@ postSlug: "7-facons-porter-jean-noir-madewell"
 year: "2025"
 month: "09"
 day: "30"
-categories: ["Favoris en jean"]
+categories: ["Denim"]
 categorySlugs: ["denim-favorites"]
 excerpt: "Le jean noir Madewell taille haute est l'une des pièces les plus polyvalentes de la saison. Découvrez sept looks, du brunch décontracté au rendez-vous élégant, pour le porter avec style."
 image: "/images/7-facons-porter-jean-noir-madewell.jpg"

@@ -5,7 +5,7 @@ postSlug: "jean-vintage-acheter-en-ligne"
 year: "2026"
 month: "11"
 day: "07"
-categories: ["Favoris en jean"]
+categories: ["Denim"]
 categorySlugs: ["denim-favorites"]
 excerpt: "Vinted, Leboncoin, friperies : acheter un jean de seconde main sans se planter. Les mesures à demander, ce qui est rédhibitoire, le prix réaliste et le nettoyage à l'arrivée."
 image: "/images/jean-vintage-acheter-en-ligne-cover.jpg"

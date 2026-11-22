@@ -6,7 +6,7 @@ image: "/images/denim-highlight-liverpool-los-angeles.jpg"
 year: "2026"
 month: "02"
 day: "05"
-categories: ["Favoris en jean"]
+categories: ["Denim"]
 categorySlugs: ["denim-favorites"]
 excerpt: "Liverpool Los Angeles s'impose comme la marque denim à suivre en 2026. Entre coupes parfaites, confort absolu et style californien, découvrez pourquoi cette marque mérite votre attention."
 ---

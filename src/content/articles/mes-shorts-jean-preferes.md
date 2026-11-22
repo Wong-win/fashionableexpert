@@ -6,7 +6,7 @@ image: "/images/mes-shorts-jean-preferes.jpg"
 year: "2025"
 month: "12"
 day: "13"
-categories: ["Favoris en jean"]
+categories: ["Denim"]
 categorySlugs: ["denim-favorites"]
 excerpt: "Après des mois de recherche, voici ma sélection personnelle des meilleurs shorts en jean de l'année. Coupes, longueurs, lavages — il y en a pour tous les goûts."
 ---

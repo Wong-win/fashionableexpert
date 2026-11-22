@@ -6,7 +6,7 @@ image: "/images/jeans-non-skinny-que-jaime-porter.jpg"
 year: "2025"
 month: "04"
 day: "30"
-categories: ["Favoris en jean"]
+categories: ["Denim"]
 categorySlugs: ["denim-favorites"]
 excerpt: "La tendance skinny a fait son temps. Découvrez les coupes alternatives qui offrent confort et style sans sacrifier l'élégance. Voici les jeans non-skinny qui ont conquis ma garde-robe cette année."
 ---

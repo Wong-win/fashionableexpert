@@ -5,8 +5,8 @@ postSlug: "guide-complet-s-habiller-selon-morphologie"
 year: "2026"
 month: "03"
 day: "03"
-categories: ["Inspiration vestimentaire"]
-categorySlugs: ["dress-inspiration"]
+categories: ["Mode femme", "Mode homme"]
+categorySlugs: ["womens-fashion", "mens-style"]
 excerpt: "La mode n'est pas une solution universelle. Ce guide explore comment s'habiller en fonction de sa morphologie pour mettre en valeur chaque silhouette avec style et confiance."
 image: "/images/article2_cover.jpg"
 featured: true

@@ -5,8 +5,8 @@ postSlug: "comment-porter-chemise-flanelle-homme"
 year: "2025"
 month: "11"
 day: "10"
-categories: ["Inspiration vestimentaire"]
-categorySlugs: ["dress-inspiration"]
+categories: ["Mode homme"]
+categorySlugs: ["mens-style"]
 excerpt: "Chaude, robuste, indémodable : la chemise en flanelle traverse les saisons sans prendre une ride. Voici comment la porter avec style, en toutes circonstances."
 image: "/images/comment-porter-chemise-flanelle-homme.jpg"
 ---

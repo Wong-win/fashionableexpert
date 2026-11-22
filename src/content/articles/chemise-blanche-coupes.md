@@ -5,7 +5,7 @@ postSlug: "chemise-blanche-coupes"
 year: "2026"
 month: "11"
 day: "11"
-categories: ["Style masculin"]
+categories: ["Mode homme"]
 categorySlugs: ["mens-style"]
 excerpt: "Une chemise blanche se choisit par le col, la coupe et le tissu. Col button-down, popeline, lin : ce qu'il faut regarder avant d'acheter, ce que ça change, et comment l'entretenir."
 image: "/images/chemise-blanche-coupes-cover.jpg"

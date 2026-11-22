@@ -5,7 +5,7 @@ postSlug: "guide-complet-entretien-du-jean"
 year: "2026"
 month: "04"
 day: "19"
-categories: ["Favoris en jean"]
+categories: ["Denim"]
 categorySlugs: ["denim-favorites"]
 excerpt: "Une belle paire de jeans est un investissement qui mérite d'être préservé. Voici le guide ultime pour laver, réparer et faire durer votre denim saison après saison."
 image: "/images/a9_cover.jpg"

@@ -5,8 +5,8 @@ postSlug: "8-combinaisons-blazer-pantalon-homme"
 year: "2026"
 month: "01"
 day: "29"
-categories: ["Inspiration vestimentaire"]
-categorySlugs: ["dress-inspiration"]
+categories: ["Mode homme"]
+categorySlugs: ["mens-style"]
 excerpt: "Apéritifs, événements, dîners, dates, vernissages : ces moments où le costume complet fait trop, mais où une tenue décontractée fait un peu juste. Découvrez 8 combinaisons blazer-pantalon toujours élégantes."
 image: "/images/8-combinaisons-blazer-pantalon-homme.jpg"
 ---

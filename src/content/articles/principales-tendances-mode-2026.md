@@ -5,8 +5,8 @@ postSlug: "principales-tendances-mode-2026"
 year: "2026"
 month: "03"
 day: "23"
-categories: ["Tendance"]
-categorySlugs: ["trend"]
+categories: ["Mode femme", "Mode homme"]
+categorySlugs: ["womens-fashion", "mens-style"]
 excerpt: "La mode de 2026 se caractérise par la diversité et l'expression personnelle. Cette année offre une liberté vestimentaire sans précédent, du luxe discret aux accessoires audacieux."
 image: "/images/article5_cover.jpg"
 ---

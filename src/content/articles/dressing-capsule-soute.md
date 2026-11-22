@@ -5,8 +5,8 @@ postSlug: "dressing-capsule-soute"
 year: "2026"
 month: "11"
 day: "10"
-categories: ["Inspiration vestimentaire"]
-categorySlugs: ["dress-inspiration"]
+categories: ["Mode femme", "Mode homme"]
+categorySlugs: ["womens-fashion", "mens-style"]
 excerpt: "Dix jours de voyage en hôtel ne demandent pas vingt pièces. La méthode pour construire un dressing de douze pièces, le poids du bagage et ce qui se froisse en route."
 image: "/images/dressing-capsule-soute-cover.jpg"
 ---

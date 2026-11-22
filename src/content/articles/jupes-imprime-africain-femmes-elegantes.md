@@ -5,7 +5,7 @@ postSlug: "jupes-imprime-africain-femmes-elegantes"
 year: "2025"
 month: "10"
 day: "07"
-categories: ["Mode Femme"]
+categories: ["Mode femme"]
 categorySlugs: ["womens-fashion"]
 excerpt: "Les jupes à imprimé africain offrent une liberté de style incomparable : mini, midi ou longue, chaque silhouette révèle le caractère vibrant du tissu Ankara. Découvrez les coupes qui mettent en valeur chaque morphologie."
 image: "/images/jupes-imprime-africain-femmes-elegantes.jpg"

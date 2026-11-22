@@ -5,7 +5,7 @@ postSlug: "robe-de-midi-saisonnier"
 year: "2026"
 month: "11"
 day: "14"
-categories: ["Mode Femme"]
+categories: ["Mode femme"]
 categorySlugs: ["womens-fashion"]
 excerpt: "Ni robe de cocktail, ni robe de plage : la robe de midi est celle qui vous emmène du bureau au dîner sans changer de tenue. Douze modèles, leur saison, leurs matières, et comment les choisir selon sa morphologie."
 image: "/images/robe-de-midi-saisonnier-cover.jpg"

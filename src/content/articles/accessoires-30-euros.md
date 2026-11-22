@@ -5,7 +5,7 @@ postSlug: "accessoires-30-euros"
 year: "2026"
 month: "11"
 day: "13"
-categories: ["Mode Femme"]
+categories: ["Mode femme"]
 categorySlugs: ["womens-fashion"]
 excerpt: "Une tenue qui manque de relief se répare avec un accessoire, pas avec un nouveau vêtement. Huit pièces à moins de trente euros, ce que chacune change vraiment, et où les trouver en France."
 image: "/images/accessoires-30-euros-cover.jpg"

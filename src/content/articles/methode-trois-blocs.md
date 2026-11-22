@@ -5,8 +5,8 @@ postSlug: "methode-trois-blocs"
 year: "2026"
 month: "11"
 day: "09"
-categories: ["Inspiration vestimentaire"]
-categorySlugs: ["dress-inspiration"]
+categories: ["Mode femme", "Mode homme"]
+categorySlugs: ["womens-fashion", "mens-style"]
 excerpt: "Huit minutes le matin, une tenue qui fonctionne à tous les coups : la méthode des trois blocs, celle qui remplace le « qu'est-ce que je mets aujourd'hui »."
 image: "/images/methode-trois-blocs-cover.jpg"
 ---

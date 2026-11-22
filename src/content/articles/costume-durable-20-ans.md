@@ -5,7 +5,7 @@ postSlug: "costume-durable-20-ans"
 year: "2026"
 month: "11"
 day: "12"
-categories: ["Style masculin"]
+categories: ["Mode homme"]
 categorySlugs: ["mens-style"]
 excerpt: "Un costume se juge sur cinq points : la coupe d'épaule, le tissu, la construction, les retouches et l'entretien. Le guide pour en acheter un qui vous suivra vingt ans."
 image: "/images/costume-durable-20-ans-cover.jpg"

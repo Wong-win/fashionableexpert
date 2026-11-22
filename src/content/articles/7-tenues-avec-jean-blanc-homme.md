@@ -5,8 +5,8 @@ postSlug: "7-tenues-avec-jean-blanc-homme"
 year: "2025"
 month: "05"
 day: "06"
-categories: ["Inspiration vestimentaire"]
-categorySlugs: ["dress-inspiration"]
+categories: ["Mode homme"]
+categorySlugs: ["mens-style"]
 excerpt: "Le jean blanc a tout du basique facile à porter, jusqu'au moment où il faut l'accorder. Voici sept tenues simples et éprouvées pour le mettre en valeur sans faux pas."
 image: "/images/7-tenues-avec-jean-blanc-homme.jpg"
 ---

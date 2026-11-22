@@ -5,7 +5,7 @@ postSlug: "meilleures-baskets-blanches-tous-budgets"
 year: "2025"
 month: "11"
 day: "30"
-categories: ["Style masculin"]
+categories: ["Mode homme"]
 categorySlugs: ["mens-style"]
 excerpt: "La basket blanche est devenue un classique du vestiaire masculin, capable de rehausser aussi bien un costume qu'une tenue décontractée. Voici notre sélection pour tous les budgets."
 image: "/images/meilleures-baskets-blanches-tous-budgets.jpg"

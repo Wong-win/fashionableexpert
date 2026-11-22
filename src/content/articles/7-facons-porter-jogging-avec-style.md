@@ -5,8 +5,8 @@ postSlug: "7-facons-porter-jogging-avec-style"
 year: "2025"
 month: "12"
 day: "26"
-categories: ["Inspiration vestimentaire"]
-categorySlugs: ["dress-inspiration"]
+categories: ["Mode homme"]
+categorySlugs: ["mens-style"]
 excerpt: "Le sweat à capuche est passé du titre sensationnaliste du tabloïd à celui d'incontournable du vestiaire masculin. Voici 7 façons de porter le pantalon de survêtement avec style, sans jamais paraître négligé."
 image: "/images/7-facons-porter-jogging-avec-style.jpg"
 ---

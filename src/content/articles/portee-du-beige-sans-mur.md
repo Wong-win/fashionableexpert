@@ -5,8 +5,8 @@ postSlug: "portee-du-beige-sans-mur"
 year: "2026"
 month: "11"
 day: "15"
-categories: ["Tendance"]
-categorySlugs: ["trend"]
+categories: ["Mode femme", "Mode homme"]
+categorySlugs: ["womens-fashion", "mens-style"]
 excerpt: "Le beige a colonisé les rues, les défilés et les boutiques. Pourquoi, depuis quand, et surtout comment le porter quand on ne veut pas ressembler à un mur de sable."
 image: "/images/portee-du-beige-sans-mur-cover.jpg"
 ---

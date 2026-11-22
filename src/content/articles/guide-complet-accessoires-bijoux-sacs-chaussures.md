@@ -5,8 +5,8 @@ postSlug: "guide-complet-accessoires-bijoux-sacs-chaussures"
 year: "2026"
 month: "03"
 day: "30"
-categories: ["Inspiration vestimentaire"]
-categorySlugs: ["dress-inspiration"]
+categories: ["Mode femme"]
+categorySlugs: ["womens-fashion"]
 excerpt: "Les accessoires ont le pouvoir de transformer complètement une tenue. Ce guide explore l'art d'accessoiriser à travers bijoux, sacs, chaussures et finitions pour composer des looks mémorables."
 image: "/images/article6_cover.jpg"
 featured: true

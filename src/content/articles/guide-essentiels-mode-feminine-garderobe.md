@@ -5,7 +5,7 @@ postSlug: "guide-essentiels-mode-feminine-garderobe"
 year: "2026"
 month: "03"
 day: "17"
-categories: ["Mode Femme"]
+categories: ["Mode femme"]
 categorySlugs: ["womens-fashion"]
 excerpt: "Une grande garde-robe ne se mesure pas au nombre de pièces, mais à la façon dont elles s'agencent. Ce guide identifie les essentiels mode féminine pour construire un vestiaire qui vous ressemble."
 image: "/images/article4_cover.jpg"

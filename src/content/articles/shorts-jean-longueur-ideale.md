@@ -5,7 +5,7 @@ postSlug: "shorts-jean-longueur-ideale"
 year: "2025"
 month: "07"
 day: "06"
-categories: ["Favoris en jean"]
+categories: ["Denim"]
 categorySlugs: ["denim-favorites"]
 excerpt: "Ni trop longs, ni trop courts : les shorts en jean à longueur intermédiaire sont la pièce phare de l'été. Découvrez comment choisir la coupe parfaite pour votre morphologie."
 image: "/images/img-1525-3-1125x1500.jpg"

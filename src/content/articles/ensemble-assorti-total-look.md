@@ -5,8 +5,8 @@ postSlug: "ensemble-assorti-total-look"
 year: "2025"
 month: "11"
 day: "23"
-categories: ["Mode Femme", "Tendance"]
-categorySlugs: ["womens-fashion", "trend"]
+categories: ["Mode femme"]
+categorySlugs: ["womens-fashion"]
 excerpt: "L'ensemble coordonné s'impose comme la tendance la plus élégante de la saison. Découvrez comment adopter le total look avec style et assurance."
 image: "/images/ensemble-assorti-total-look.jpg"
 ---

@@ -5,7 +5,7 @@ postSlug: "jean-brut-huit-tenues"
 year: "2026"
 month: "11"
 day: "08"
-categories: ["Favoris en jean"]
+categories: ["Denim"]
 categorySlugs: ["denim-favorites"]
 excerpt: "Avant le délavage, le jean brut est la pièce la plus facile à porter : il prend la couleur de vos chaussures et de votre vie. Huit tenues, du bureau au bistrot, et les règles d'entretien."
 image: "/images/jean-brut-huit-tenues-cover.jpg"

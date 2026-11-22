@@ -5,7 +5,7 @@ postSlug: "types-robes-smockees-ankara"
 year: "2025"
 month: "10"
 day: "21"
-categories: ["Mode Femme"]
+categories: ["Mode femme"]
 categorySlugs: ["womens-fashion"]
 excerpt: "Les robes smockées Ankara épousent le corps sans effort grâce à leur buste élastiqué. Confortables, féminines et faciles à porter, elles révèlent la silhouette tout en restant flatteuses."
 image: "/images/types-robes-smockees-ankara.jpg"

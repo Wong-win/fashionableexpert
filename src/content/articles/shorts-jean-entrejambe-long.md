@@ -5,7 +5,7 @@ postSlug: "shorts-jean-entrejambe-long"
 year: "2025"
 month: "09"
 day: "24"
-categories: ["Favoris en jean"]
+categories: ["Denim"]
 categorySlugs: ["denim-favorites"]
 excerpt: "Fini les shorts ultra-courts. La tendance est aux entrejambes plus longs qui allongent la silhouette et apportent une touche plus sophistiquée à vos tenues estivales. Voici comment adopter cette pièce incontournable avec style."
 image: "/images/img-1525-3-1125x1500.jpg"

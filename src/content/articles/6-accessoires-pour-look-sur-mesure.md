@@ -5,7 +5,7 @@ postSlug: "6-accessoires-pour-look-sur-mesure"
 year: "2026"
 month: "02"
 day: "18"
-categories: ["Style masculin"]
+categories: ["Mode homme"]
 categorySlugs: ["mens-style"]
 excerpt: "La pince à cravate, le bouton de manchette, la pochette ou la bretelle : ces accessoires bien choisis transforment un costume en look soigné. Voici les six essentiels à connaître pour parfaire votre tenue sur mesure."
 image: "/images/6-accessoires-pour-look-sur-mesure.jpg"

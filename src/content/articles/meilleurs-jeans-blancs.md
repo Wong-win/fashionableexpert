@@ -6,7 +6,7 @@ image: "/images/meilleurs-jeans-blancs.jpg"
 year: "2025"
 month: "05"
 day: "13"
-categories: ["Favoris en jean"]
+categories: ["Denim"]
 categorySlugs: ["denim-favorites"]
 excerpt: "Le jean blanc est un indispensable de l'été, mais trouver le bon modèle peut virer au casse-tête. Voici notre sélection pour dénicher la perle rare, sans transparence ni compromis."
 ---

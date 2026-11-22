@@ -6,8 +6,8 @@ image: "/images/8-facons-porter-chemise-chambray.jpg"
 year: "2025"
 month: "08"
 day: "02"
-categories: ["Mode Femme", "Inspiration vestimentaire"]
-categorySlugs: ["womens-fashion", "dress-inspiration"]
+categories: ["Mode femme"]
+categorySlugs: ["womens-fashion"]
 excerpt: "La chemise en chambray est un essentiel du dressing qui se réinvente à l'infini. Voici 8 façons de la porter pour un look toujours renouvelé."
 ---
 

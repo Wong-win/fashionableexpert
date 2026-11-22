@@ -5,7 +5,7 @@ postSlug: "20-robes-evasees-ankara-tendance"
 year: "2025"
 month: "10"
 day: "14"
-categories: ["Mode Femme"]
+categories: ["Mode femme"]
 categorySlugs: ["womens-fashion"]
 excerpt: "Les robes évasées en tissu Ankara s'imposent comme la pièce maîtresse de la garde-robe africaine contemporaine. Découvrez vingt modèles inspirants, du quotidien aux grandes occasions."
 image: "/images/20-robes-evasees-ankara-tendance.jpg"

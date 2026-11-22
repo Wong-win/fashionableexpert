@@ -6,8 +6,8 @@ image: "/images/porter-legging-cuir-partie-2.jpg"
 year: "2025"
 month: "12"
 day: "20"
-categories: ["Mode Femme", "Tendance"]
-categorySlugs: ["womens-fashion", "trend"]
+categories: ["Mode femme"]
+categorySlugs: ["womens-fashion"]
 excerpt: "Le legging en cuir reste une pièce maîtresse de la garde-robe féminine. Dans cette deuxième partie, découvrez de nouvelles façons de le porter avec audace et sophistication."
 ---
 

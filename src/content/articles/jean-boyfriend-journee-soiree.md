@@ -5,7 +5,7 @@ postSlug: "jean-boyfriend-journee-soiree"
 year: "2025"
 month: "12"
 day: "07"
-categories: ["Favoris en jean", "Mode Femme"]
+categories: ["Denim", "Mode femme"]
 categorySlugs: ["denim-favorites", "womens-fashion"]
 excerpt: "Le jean boyfriend est la pièce caméléon par excellence. Décontracté en journée, chic en soirée : voici comment le porter 24h/24 sans jamais vous ennuyer."
 image: "/images/jean-boyfriend-journee-soiree.jpg"

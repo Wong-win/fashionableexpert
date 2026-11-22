@@ -5,7 +5,7 @@ postSlug: "choisir-couleurs-appropriees-votre-teint"
 year: "2026"
 month: "01"
 day: "22"
-categories: ["Style masculin"]
+categories: ["Mode homme"]
 categorySlugs: ["mens-style"]
 excerpt: "Votre carnation peut transformer radicalement l'effet d'une couleur sur vous. Voici comment identifier votre teint et choisir les teintes qui vous mettent vraiment en valeur."
 image: "/images/choisir-couleurs-appropriees-votre-teint.jpg"
