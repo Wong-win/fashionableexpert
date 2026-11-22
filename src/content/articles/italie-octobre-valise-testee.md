@@ -19,7 +19,7 @@ Ce qui suit n'est pas un guide théorique. C'est le contenu exact du sac, les te
 
 Les normales lissent tout. Sur mes huit jours, le relevé a donné : Rome 12 °C à 8 heures, 22 °C à 15 heures, deux averses ; Florence 11 °C le matin, 21 °C l'après-midi, une journée entière de pluie fine ; Bologne 10 °C au réveil, 19 °C en fin de journée, trois averses courtes. Total : six épisodes de pluie sur huit jours, aucun de plus de quarante minutes, et cinq à sept heures de marche par jour.
 
-C'est la donnée qui décide de tout : on n'a pas froid parce qu'il fait froid, on a froid parce qu'on est mouillé ou parce qu'on est immobile. Un musée à 18 °C après une averse, c'est là qu'on grelotte, pas dans la rue à midi. La valise doit donc sécher vite le matin et tenir chaud l'après-midi, quand on s'assoit à une terrasse à l'ombre. C'est le cahier des charges d'un vestiaire de mi-saison, celui que détaille le [guide du style saisonnier](/2026/04/26/guide-style-saisonnier-printemps-ete-automne-hiver/), appliqué à une semaine et à un seul sac.
+C'est la donnée qui décide de tout : on n'a pas froid parce qu'il fait froid, on a froid parce qu'on est mouillé ou parce qu'on est immobile. Un musée à 18 °C après une averse, c'est là qu'on grelotte, pas dans la rue à midi. La valise doit donc sécher vite le matin et tenir chaud l'après-midi, quand on s'assoit à une terrasse à l'ombre. C'est le cahier des charges d'un vestiaire de mi-saison, celui que détaille le [guide du style saisonnier](/2026/04/26/guide-style-saisonnier-porter-printemps-ete-automne-hiver/), appliqué à une semaine et à un seul sac.
 
 ## Quatorze pièces, 6,8 kg : la liste exacte
 

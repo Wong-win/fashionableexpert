@@ -1,7 +1,7 @@
 ---
 title: "Guide de style saisonnier : que porter au printemps, en été, en automne et en hiver"
 date: "2026-04-26"
-postSlug: "guide-style-saisonnier-printemps-ete-automne-hiver"
+postSlug: "guide-style-saisonnier-porter-printemps-ete-automne-hiver"
 year: "2026"
 month: "04"
 day: "26"

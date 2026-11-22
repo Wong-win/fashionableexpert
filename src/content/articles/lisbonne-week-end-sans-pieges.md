@@ -81,7 +81,7 @@ Le verdict : cela vaut la peine seulement si vous partez à 8 heures et vous lim
 
 C'est le seul conseil vraiment important. Les pavés de Lisbonne sont polis et glissants dès qu'il pleut, et les trottoirs en calçada portuguesa sont irréguliers. Une semelle lisse est une chute assurée dans les descentes de l'Alfama. Prenez des [baskets blanches](/2025/11/30/meilleures-baskets-blanches-tous-budgets/) à semelle crantée, déjà rodées, et une deuxième paire plate pour le soir si vous dînez.
 
-Côté vêtements, trois jours tiennent dans un bagage cabine : deux hauts, deux bas, un pull, une veste imperméable légère, une paire de chaussures de marche et une paire de rechange, dans la logique des couches du [guide du style saisonnier](/2026/04/26/guide-style-saisonnier-printemps-ete-automne-hiver/). La méthode exacte, avec les poids et les blocs, est dans [la valise cabine de dix jours](/2026/11/18/valise-cabine-dix-jours-methode/), et l'adaptation à un climat pluvieux de mi-saison dans [la valise testée en Italie en octobre](/2026/11/17/italie-octobre-valise-testee/).
+Côté vêtements, trois jours tiennent dans un bagage cabine : deux hauts, deux bas, un pull, une veste imperméable légère, une paire de chaussures de marche et une paire de rechange, dans la logique des couches du [guide du style saisonnier](/2026/04/26/guide-style-saisonnier-porter-printemps-ete-automne-hiver/). La méthode exacte, avec les poids et les blocs, est dans [la valise cabine de dix jours](/2026/11/18/valise-cabine-dix-jours-methode/), et l'adaptation à un climat pluvieux de mi-saison dans [la valise testée en Italie en octobre](/2026/11/17/italie-octobre-valise-testee/).
 
 ## Budget du week-end
 

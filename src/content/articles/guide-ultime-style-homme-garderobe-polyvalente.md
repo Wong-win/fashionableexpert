@@ -1,7 +1,7 @@
 ---
 title: "Le guide ultime du style pour hommes : créer une garde-robe polyvalente pour chaque occasion"
 date: "2026-03-10"
-postSlug: "guide-ultime-style-homme-garderobe-polyvalente"
+postSlug: "guide-ultime-style-hommes-creer-garde-robe-polyvalente-chaque"
 year: "2026"
 month: "03"
 day: "10"

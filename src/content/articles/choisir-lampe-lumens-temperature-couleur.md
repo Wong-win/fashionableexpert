@@ -99,4 +99,4 @@ Avant d'acheter une lampe design à 400 €, je regarde ce que je paie : la form
 
 Une lampe n'est pas un objet décoratif qu'on éclaire : c'est un outil qu'on choisit pour la lumière qu'il produit. Les quatre chiffres qui comptent sont la température en kelvins, le flux en lumens, le CRI et le taux d'ondulation. Le reste vient après. Une ampoule à 14 € bien choisie éclaire mieux qu'un luminaire à 300 € mal équipé.
 
-Si vous changez d'ampoules à l'hiver, faites-le par étapes, en testant, sans tout racheter d'un coup : la méthode que j'applique aussi à mes vêtements dans le [guide du style saisonnier](/2026/04/26/guide-style-saisonnier-printemps-ete-automne-hiver/).
+Si vous changez d'ampoules à l'hiver, faites-le par étapes, en testant, sans tout racheter d'un coup : la méthode que j'applique aussi à mes vêtements dans le [guide du style saisonnier](/2026/04/26/guide-style-saisonnier-porter-printemps-ete-automne-hiver/).
