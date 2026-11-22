@@ -7,7 +7,8 @@
     "start": "astro dev",
     "build": "astro build",
     "deploy": "bash deploy.sh",
-    "preview": "astro preview"
+    "preview": "astro preview",
+    "prebuild": "SITE_LANG=fr node scripts/check-slug-lang.mjs"
   },
   "dependencies": {
     "@astrojs/sitemap": "^3.7.4",
