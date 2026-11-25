@@ -50,12 +50,25 @@ export const siteInfo = {
   /**
    * Régies / réseaux d'affiliation dont dépend le modèle économique du site.
    *
-   * Ce site ne contient aujourd'hui ni bannière publicitaire, ni lien
-   * d'affiliation : le tableau est vide. Ajouter une entrée ici
-   * (Kwanko, Metaffiliation…) met à jour automatiquement les mentions
-   * légales, la politique de confidentialité et le bandeau cookies.
+   * Le site ne diffuse ni bannière publicitaire ni traceur publicitaire :
+   * certains articles comportent en revanche des liens d'affiliation, qui
+   * redirigent vers le site du marchand. Ajouter une entrée ici met à jour
+   * automatiquement les mentions légales et le bandeau cookies.
    */
-  adNetworks: [] as const,
+  adNetworks: [
+    {
+      name: "Kwanko SAS",
+      /** Rôle du réseau pour le site — description factuelle et vérifiable. */
+      role: "Régie d'affiliation — suivi des clics vers le marchand",
+      /** Ce que le réseau dépose ou reçoit sur le site. */
+      tracker: "Redirection de clic (ovw.mattsleeps.com), sans traceur déposé sur ce site",
+      /** Durée de conservation des identifiants de clic. */
+      duration: "60 jours",
+      legalId: "SIREN 440 546 885",
+      address: "60 boulevard du Maréchal Joffre, 92340 Bourg-la-Reine, France",
+      url: "https://www.kwanko.com",
+    },
+  ] as const,
 
   /**
    * true  → les mentions légales nomment les réseaux d'affiliation utilisés.

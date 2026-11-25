@@ -208,6 +208,29 @@ h1, h2, h3, h4, h5, h6 {
     white-space: nowrap;
   }
 }
+/* Appel à l'action d'un lien d'affiliation, signalé dans le texte. */
+.article-single .article-content .affiliate-cta {
+  margin: 28px 0 14px;
+  padding: 20px 24px;
+  border: 1px solid var(--color-accent);
+  background: #faf7f0;
+  text-align: center;
+}
+.article-single .article-content .affiliate-cta a {
+  font-family: var(--font-serif);
+  font-size: 1.15rem;
+  font-weight: 700;
+  text-decoration: none;
+}
+.article-single .article-content .affiliate-cta a:hover {
+  text-decoration: underline;
+}
+.article-single .article-content .affiliate-disclosure {
+  font-size: 0.85rem;
+  line-height: 1.6;
+  color: var(--color-muted);
+  margin-bottom: 8px;
+}
 .article-featured-image {
   width: 100%;
   max-height: 500px;

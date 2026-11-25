@@ -43,8 +43,9 @@ import { siteInfo, publisherAddressHtml } from "../data/site-info";
       créer aucun compte utilisateur, à ne commercialiser aucune donnée et à ne réaliser aucun
       profilage publicitaire. Aucune newsletter n'est distribuée. La page de contact ne recueille
       aucune information : elle invite à écrire directement à l'adresse électronique ci-dessus,
-      dont l'usage reste sous le contrôle de l'expéditeur. Le site ne comporte à ce jour ni
-      publicité, ni lien d'affiliation, ni traceur publicitaire.
+      dont l'usage reste sous le contrôle de l'expéditeur. Certains articles comportent des liens
+      d'affiliation signalés comme tels ; le site ne diffuse en revanche ni bannière publicitaire
+      ni traceur publicitaire.
     </p>
 
     <h2>3. Données traitées</h2>
@@ -57,6 +58,9 @@ import { siteInfo, publisherAddressHtml } from "../data/site-info";
         fournisseur de mesure d'audience, type de navigateur et de terminal, pages consultées,
         provenance du trafic, horodatage), collectées à la seule fin de mesurer l'audience du
         site.</li>
+      <li><strong>Identifiant de clic d'affiliation</strong> (click ID) et page d'origine du
+        clic, transmis au réseau d'affiliation et au marchand lorsque vous cliquez sur un lien
+        d'affiliation, afin que la commission puisse être attribuée.</li>
       <li><strong>Choix de consentement</strong> : l'option que vous retenez sur les cookies,
         conservée dans le stockage local de votre navigateur.</li>
       <li><strong>Journaux de connexion techniques</strong> : conservés par l'hébergeur pour la
@@ -81,6 +85,14 @@ import { siteInfo, publisherAddressHtml } from "../data/site-info";
             d'améliorer la pertinence des contenus</td>
           <td>Données de navigation, identifiants de cookie</td>
           <td>Intérêt légitime de l'éditeur (art. 6.1.f RGPD) — voir 12.4</td>
+        </tr>
+        <tr>
+          <td>Mesurer l'efficacité des liens d'affiliation et attribuer une éventuelle commission
+            au marchand</td>
+          <td>Identifiant de clic, page d'origine du clic, transmis au réseau d'affiliation et au
+            marchand lorsque vous cliquez sur un lien d'affiliation</td>
+          <td>Intérêt légitime de l'éditeur (art. 6.1.f RGPD), partagé avec le réseau
+            d'affiliation et le marchand</td>
         </tr>
         <tr>
           <td>Mesurer la fréquentation de manière anonyme, sans cookie ni identifiant
@@ -110,8 +122,9 @@ import { siteInfo, publisherAddressHtml } from "../data/site-info";
     <h2>5. Caractère obligatoire ou facultatif</h2>
     <p>
       Aucune donnée n'est obligatoire pour naviguer sur le site. Le refus de la mesure d'audience
-      n'empêche ni l'accès aux articles, ni la consultation des pages, ni l'envoi d'un message :
-      seules les statistiques de fréquentation correspondantes ne sont pas générées.
+      n'empêche ni l'accès aux articles, ni la consultation des pages, ni l'envoi d'un message,
+      ni la consultation des liens d'affiliation : seules les statistiques de fréquentation
+      correspondantes ne sont pas générées.
     </p>
 
     <h2>6. Destinataires et sous-traitants</h2>
@@ -131,12 +144,22 @@ import { siteInfo, publisherAddressHtml } from "../data/site-info";
             sans cookie (12.3)</td>
           <td>Journaux de connexion techniques ; données de navigation agrégées et anonymisées</td>
         </tr>
+        <tr>
+          <td>{siteInfo.adNetworks.map((n) => n.name).join(", ")}</td>
+          <td>Réseau d'affiliation — suivi des clics</td>
+          <td>Identifiant de clic, page d'origine</td>
+        </tr>
+        <tr>
+          <td>Les marchands référencés</td>
+          <td>Destinataires indépendants — exécution de la commande</td>
+          <td>Identifiant de clic transmis lors du clic ; données de commande auprès du marchand</td>
+        </tr>
       </tbody>
     </table>
     <p>
-      Aucun tiers autre que ces sous-traitants n'accède à vos données. Aucune donnée n'est
-      vendue, louée ou cédée à des tiers, et aucun transfert à des fins publicitaires n'est
-      réalisé.
+      Aucun tiers autre que ces sous-traitants et les marchands référencés n'accède à vos
+      données. Aucune donnée n'est vendue, louée ou cédée à des tiers, et aucun transfert à des
+      fins publicitaires n'est réalisé.
     </p>
 
     <h2>7. Transferts de données hors Union européenne</h2>
@@ -286,6 +309,11 @@ import { siteInfo, publisherAddressHtml } from "../data/site-info";
         </tr>
       </tbody>
     </table>
+    <p>
+      Les liens d'affiliation ne déposent aucun traceur sur ce site. Le clic vous redirige vers
+      le site du marchand, qui applique sa propre politique de cookies ; l'identifiant de clic
+      transmis à cette occasion est décrit au point 3.
+    </p>
 
     <h3>12.2 Conditions de dépôt</h3>
     <p>
