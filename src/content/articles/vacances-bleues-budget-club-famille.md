@@ -51,7 +51,7 @@ Trois lectures de ce tableau.
 
 **La montagne est un autre produit.** Serre Chevalier à 116 € et Les Karellis à 176 € ne jouent pas dans la même catégorie que la Vendée : le second inclut la pension complète et le forfait de remontées mécaniques, skis aux pieds. Ramené au coût d'une semaine de ski en location — appartement, forfaits, courses, restaurant — le calcul n'est plus le même.
 
-**Les clubs les moins chers sont souvent les plus petits.** Keravel, à Carnac, et Le Grand Air, sur l'île d'Oléron, affichent des tarifs d'appel sous les 90 €. Ce sont aussi des clubs plus simples, sans la démesure d'un Plein Sud et ses 183 chambres face aux îles d'Or. Le prix bas n'est pas une promotion : c'est un positionnement.
+**Les clubs les moins chers sont souvent les plus petits.** Keravel, à Carnac, et Le Grand Air, sur l'île d'Oléron, affichent des tarifs d'appel à 90 € ou moins. Ce sont aussi des clubs plus simples, sans la démesure d'un Plein Sud et ses 183 chambres face aux îles d'Or. Le prix bas n'est pas une promotion : c'est un positionnement.
 
 ![Enfants peignant dans un atelier du club enfants](/images/vacances-bleues-budget-club-famille-body-1.jpg)
 
