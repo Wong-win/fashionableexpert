@@ -61,7 +61,8 @@ export const siteInfo = {
       /** Rôle du réseau pour le site — description factuelle et vérifiable. */
       role: "Régie d'affiliation — suivi des clics vers le marchand",
       /** Ce que le réseau dépose ou reçoit sur le site. */
-      tracker: "Redirection de clic (ovw.mattsleeps.com), sans traceur déposé sur ce site",
+      tracker:
+        "Redirection de clic (ovw.mattsleeps.com, odx.vacancesbleues.fr), sans traceur déposé sur ce site",
       /** Durée de conservation des identifiants de clic. */
       duration: "60 jours",
       legalId: "SIREN 440 546 885",
